@@ -1,0 +1,21 @@
+---
+title: "Company Confidential Vacancies Head of Operations" 
+category: Jobs 
+date: 2020-10-21 
+excerpt: "Company Confidential is currently looking for suitable person to fill in the Head of Operations which positioned at Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Company Confidential is looking for new potential candidates to fill in for <b>Head of Operations</b> position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><div><strong>Responsibilities</strong><ul><li>To oversee and manage the operations of the complex.&#160;</li><li>To propose to the Management on any cost effective practices to improve and operational efficiency.</li><li>To liaise and communicate with all stakeholders including management representatives, suppliers, service providers etc.</li><li>To plan all the continuous improvement initiatives and constantly implement them to promote cost saving and operational efficiency.&#160;</li><li>To conduct risk assessments of processes and tasks within the departments and evaluate the parameters to control the risks.</li><li>To prepare the annual operations budget and review the respective department&#8217;s capital expenditure proposal.</li><li>To prepare the management reports as required from time to time.</li></ul></div><div><div><strong>Requirements</strong></div><ul><li>Diploma/Degree in Management/Engineering&#160;</li><li>Possess Certificate of Chargeman BO</li><li>Minimum 5 years of working experience in the similar capacity.&#160;&#160;</li><li>Meticulous, result oriented and highly organized.</li><li>Execellent communication skills in English and Bahasa Malaysia, both written and verbal.</li><li>Able to interact well with all levels of staff.</li><li>This position is to be based at <strong>JOHOR BAHRU</strong>.&#160;</li></ul></div></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>We are seeking dedicated and dynamic personnel to join us for the following position:-</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/head-of-operations-4408336?jobId=jobstreet-my-job-4408336" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 

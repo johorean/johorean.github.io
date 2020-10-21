@@ -1,0 +1,25 @@
+---
+title: "ASJ Components (M) Sdn Bhd Vacancies Production Operator (Operator Pengeluaran) - Walk-in Interview" 
+category: Jobs 
+date: 2020-10-21 
+excerpt: "ASJ Components (M) Sdn Bhd is currently looking for suitable person to fill in the Production Operator (Operator Pengeluaran) - Walk-in Interview which positioned at Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>ASJ Components (M) Sdn Bhd is looking for new potential candidates to fill in for <b>Production Operator (Operator Pengeluaran) - Walk-in Interview</b> position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><div><strong>Summary</strong></div><ul><li>As a Production Operator, you will be valuable to operate a variety of machines in a production environment.</li></ul><div><strong>You will play an important role in:</strong></div><ul><li>Performing routine manufacturing processes</li><li>Performing data entry requirements at each operation.</li><li>Wear appropriate safety protection at all times and ensure compliance with Health &amp; Safety policy and procedures</li><li>Assisting the Technician, Senior Technician, and Engineering Assistant in production</li><li>Performing necessary pre-operation activities to ensure proper equipment startup</li><li>Operate or monitor multiple types of equipment during operation to ensure quality and minimal unplanned stops</li><li>To ensure the quality of work with minimal wasted time and materials</li></ul><div><strong>Who are we looking for?</strong></div><ul><li>SPM holders (Minimum SPM dan ke atas)</li><li>PMR holders with 1 or 2 years of working experience</li><li>Previous experience working in a manufacturing environment is a plus</li><li>Good communication skills as you will need to communicate with team members and support teams to ensure continuous production of the correct product</li><li>You are able to join immediately</li><li>This position is open to Malaysian candidates</li></ul><div><div><strong>How this career will benefit you:</strong></div><ul><li>This is a permanent position</li><li>EPF and SOCSO contribution</li><li>Overtime allowances</li><li>Shift Allowances</li><li>Perfect Attendance allowance</li><li>Insurance (GHS &amp; GPA)</li><li>Sports day and Annual Dinner</li><li>Dental Entitlement</li><li>Annual Bonus (base on KPI)</li><li>Basic salary offered: RM1200 to RM1300 depending on your experience</li><li>On the job training provided for candidates without experience</li></ul></div><div><div><strong>Walk-in-interview: (We have 20 vacancies available.)</strong></div><div>or please contact Ms Hazwani at 60-7-5977800 to make an appointment.<br><strong>Date:</strong> Monday to Friday<br><strong>Time:</strong> Morning (9.00am- 11.00am) OR Afternoon (2.00pm - 4.00pm)<br><strong>Venue:</strong> PTD 37440, Jalan Perindustrian Senai 3,<br>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Kawasan Perindustrian Senai Phase 2,<br>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 81400 Johor</div><div><br><strong>Please bring along</strong>:</div><ul><li>Updated resume</li><li>Original certificates</li></ul></div></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+<div>Founded in Singapore in year 1980,&#160; ASJ Holdings Group is a manufacturer and distributors of resistors, providing essential support to a wide range of local and international customers from various market segments. In addition to the manufacturing of resistors, the Group also distributes electronic and non-electronic components in ASEAN region, China, India and Korea. Our extensive network covers Europe and USA too..</div>
+<div>Our facility in Malaysia produces resistors that are essential components used for electrical and electronic circuitry.<br>
+&#160;</div>
+</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/production-operator-operator-pengeluaran-walk-in-interview-4406192?jobId=jobstreet-my-job-4406192" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 
