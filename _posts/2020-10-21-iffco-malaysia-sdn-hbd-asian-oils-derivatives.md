@@ -15,10 +15,10 @@ IFFCO (Malaysia) Sdn Bhd (IMSB) is an integrated oleo-chemicals complex in Malay
 
 {% include link-adsense.html %} 
 1. Manager - Sales 
-2 Procurement Executive 
-3.Junior Chemist - AOD
+2. Procurement Executive 
+3. Junior Chemist - AOD
 4. Mechanical Technician - experience in handling pump
-5.Machine Operator with Technical Background for Soap Bar Plant
+5. Machine Operator with Technical Background for Soap Bar Plant
 
 #### How To Apply 
 If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
