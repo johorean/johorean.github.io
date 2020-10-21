@@ -22,6 +22,6 @@ toc_icon: "fire"
 </div></div></span></div></div></div> 
 #### How To Apply 
 If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
-Hope you find your dream job in Johor - Others. <br/> 
+Hope you find your dream job in Johor. <br/> 
 <a href="https://www.jobstreet.com.my/en/job/admin-assistant-4409257?jobId=jobstreet-my-job-4409257" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
 {% include link-adsense.html %} 
