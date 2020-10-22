@@ -1,0 +1,30 @@
+---
+title: "SANOFI Vacancies Medical Sales Representative (Protégé Program)" 
+category: Jobs 
+date: 2020-10-22 
+excerpt: "SANOFI is currently looking for suitable person to fill in the Medical Sales Representative (Protégé Program) which positioned at Johor, Kedah, Kelantan, Perak, Sabah, Petaling Jaya" 
+tags: [Johor, Kedah, Kelantan, Perak, Sabah, Petaling Jaya] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>SANOFI is looking for new potential candidates to fill in for <b>Medical Sales Representative (Protégé Program)</b> position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><div><strong>JOB PURPOSE</strong></div><ul><li>Responsible to achieve the territory sales, increasing prescriptions of Sanofi products in accordance to sales and marketing activities and in compliance with company procedures and policies</li></ul><div><strong>KEY ACCOUNTABILITIES</strong></div><div><strong>Sales Results</strong></div><ul><li>Achieve sales targets in the territory while operating within the confines of company policies, approved budget and promotional programs.</li><li>Monitor sales performance regularly and recommend action plans to ensure achievement of sales.</li></ul><div><strong>Sales Call Quality</strong></div><ul><li>Effectively utilise all sales support materials, clinical papers and other multi-channel engagement platforms (e.g. Katridge) to maximise sales call quality.</li><li>Conduct all sales calls in alignment with the sanofi selling model.</li><li>Utilise selling skills to change prescribing behavior.</li><li>Deliver effective and relevant presentations for assigned territories.</li><li>Use visual aids appropriately to support key messages and deliver a more effective call.</li><li>Apply knowledge of all promoted products, key competitor products, major clinical trials, and clinical disease states to maximise sales.</li></ul><div><strong>Sales Activity</strong></div><ul><li>Achieve agreed levels of activity on target customers (as per MI Centrix) to maximise sales.</li><li>Develop new business and maintain existing accounts through regular and frequent contact with target customers.</li><li>Identify and develop KOLs, both existing and potential, to act as product advocates in line with the strategic marketing direction for the product portfolio.</li><li>Analyse sales and activity data to monitor and set objectives.</li><li>Assist in / organise meetings, seminars, group- selling activities (GSA) and continuous medical education (CME) to promote company image and / or product awareness with the objective of achieving sales targets.</li><li>Maintain activity in line with agreed Business Plan including remote detailing, emailing, round table discussion (RTD)/ CME etc.</li><li>Ensure effective management of territory by efficient time management, resource utilisation and call frequency rates to meet company requirements.</li><li>Approximately 10% - 40% of outstation travelling. Depends on the coverage area.</li><li>Maintain and update KOL &amp; customer information in MI Centrix.</li><li>Sell the benefits of Sanofi products to target customers within assigned territories according to sales and marketing strategies</li></ul><div><strong>Stakeholder Management</strong></div><ul><li>Disseminate convincingly product information to doctors, physicians, pharmacists and nurses using the prescribed product positioning, promotional messages and set objectives.</li><li>Adapt to customers styles to ensure a more effective call.</li><li>Provide and gain relevant information to and from customers.</li><li>Develop sustainable business relationships based on customer needs and preferences.</li><li>Maintain regular contact with local medical organisations, pharmacies and special interest groups.</li><li>Provide feedback to the company on relevant matters such as competitors, industry and market issues.</li><li>Cross functional collaboration - maintain and develop key internal relationships to ensure optimal competitor intelligence.</li></ul><div><strong>JOB REQUIREMENTS</strong></div><ul><li>Fresh graduates are encouraged to apply</li><li>Bachelor&#8217;s Degree (Pharmacy or Science disciplines are preferred)</li><li>Proficiency in the Microsoft Office suite of products</li><li>Excellent verbal and written communication skills</li><li>IT literate and familiarity with CRM systems and practices. Tech savvy and demonstrate the ability to utilize and navigate and instruct customers to use digital resources remotely (via phone or digital tools) (eg. TC facilities, mobile app, webinar, etc.)</li><li>Tertiary qualifications in Pharmacy/ Science. Alternatively, extensive pharmaceutical sales experience.</li><li>Excellent communication skills</li><li>Driver&#8217;s License</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+<div>
+		Sanofi is dedicated to supporting people through their health challenges. We are a global biopharmaceutical company focused on human health. We prevent illness with vaccines, provide innovative treatments to fight pain and ease suffering. We stand by the few who suffer from rare diseases and the millions with long-term chronic conditions.
+		
+		<div>
+			With more than 100,000 people in 100 countries, Sanofi is transforming scientific innovation into healthcare solutions around the globe.</div>
+<div>
+			Sanofi, Empowering Life</div>
+</div>
+</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor, Kedah, Kelantan, Perak, Sabah, Petaling Jaya. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/medical-sales-representative-protégé-program-4410097?jobId=jobstreet-my-job-4410097" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 
