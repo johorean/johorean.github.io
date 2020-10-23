@@ -1,7 +1,7 @@
 ---
 title: "Jora Jobs Vacancies Admin Assistant" 
 category: Jobs 
-date: 2020-10-22 
+date: 2020-10-23 
 excerpt: "Jora Jobs is currently looking for suitable person to fill in the Admin Assistant which positioned at Johor" 
 tags: [Johor] 
 toc: true 
@@ -27,5 +27,5 @@ toc_icon: "fire"
 #### How To Apply 
 If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
 Hope you find your dream job in Johor. <br/> 
-<a href="https://www.jobstreet.com.my/en/job/admin-assistant-4409957?jobId=jobstreet-my-job-4409957" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+<a href="https://www.jobstreet.com.my/en/job/admin-assistant-4409956?jobId=jobstreet-my-job-4409956" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
 {% include link-adsense.html %} 

@@ -1,0 +1,21 @@
+---
+title: "Agensi Pekerjaan Jobbuilder Sdn Bhd Vacancies Financial Accountant - Urgent Hiring #5 Working Days" 
+category: Jobs 
+date: 2020-10-23 
+excerpt: "Agensi Pekerjaan Jobbuilder Sdn Bhd is currently looking for suitable person to fill in the Financial Accountant - Urgent Hiring #5 Working Days which positioned at Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Agensi Pekerjaan Jobbuilder Sdn Bhd is looking for new potential candidates to fill in for <b>Financial Accountant - Urgent Hiring #5 Working Days</b> position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><div><strong>Job Description:&#160;</strong></div><ul><li>Responsible for the timeliness and accuracy of monthly management account closing and reporting</li><li>Preparation of monthly Ledger Reports, cost center report and any other relevant report as required</li><li>Ensure complete reconciliation schedules</li><li>Maintain accounting processes and procedures which comply with company policies and applicable regulations</li><li>Preparation of budgets and projections when required</li><li>To collaborate and work closely with other departments related to accounting issues and monthly closing reporting</li><li>Liaise with any external parties such as bankers, company secretary, external auditors when required</li><li>To assist in and attend any other task or responsibilities that may be assigned by the management from time to time</li></ul><div><strong>Job Requirement:</strong></div><ul><li>Candidate must possess at least Bachelor's Degree/Post Graduate Diploma/Professional Degree in History, Finance/Accountancy/Banking or equivalent.</li><li>Required language(s): Mandarin, English</li><li>At least 5 Year(s) of working experience in the related field is required for this position.</li><li>Organization skills</li><li>Ability to handle sensitive, confidential information</li><li>Sincerity, honesty, self-confidence, responsibility sense and team-work spirit.</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div><div><strong>We are a Boutique Recruitment Firm. Winners of HR Vendor of the Year 2018 #HRVOTHY2108 &amp; Recruitment Agency of the Year 2019 (Gold Winner) at Asia Recruitment Awards 2019.</strong><br><br>Jobbuilder prides itself as a boutique recruitment firm. We have been extremely successful focusing on recruiting for established and new start-up companies. We attributed that a large part of that success is thanks to the boutique firm&#8217;s structure.</div><div><strong>Agensi Pekerjaan Jobbuilder Sdn Bhd is a license recruitment agency (JTK2872)&#160;</strong>that plays an active role in providing recruitment services through rigorous efforts exercised by its dynamic workforce. Together with our associate companies, we provide a full range of HR services in terms of various recruitment services to fulfill our customer needed. We believe that the best HR solutions is done catering to the changing needs of customers from time to time. Therefore, we strive to be as innovative as possible when helping our customers to solve their problems. We started our business on the following specialisation:</div><div><ul><li>Executive Search and Selection</li><li>Manpower Outsourcing</li><li>Contract Staffing</li></ul></div><div>Do contact us for more details at www.jobbuilder.com.my or email us at <strong>marketing@jobbuilder.com.my</strong></div><div><strong>Contact us: 07-224 2224&#160;</strong><br>&#160;</div></div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/financial-accountant-urgent-hiring-5-working-days-4410899?jobId=jobstreet-my-job-4410899" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 
