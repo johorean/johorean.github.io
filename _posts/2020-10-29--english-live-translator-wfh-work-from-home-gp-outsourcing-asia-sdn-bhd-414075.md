@@ -1,0 +1,26 @@
+---
+title: "GP Outsourcing Asia Sdn Bhd. Vacancies 广东话 ENGLISH Live Translator (WFH - work from home)" 
+category: Jobs 
+date: 2020-10-29 
+excerpt: "GP Outsourcing Asia Sdn Bhd. is currently looking for suitable person to fill in the 广东话 ENGLISH Live Translator (WFH - work from home) which positioned at Johor, Kedah, Kuala Lumpur, Melaka, Negeri Sembilan, Penang, Perak, Sabah, Selangor, Putrajaya" 
+tags: [Johor, Kedah, Kuala Lumpur, Melaka, Negeri Sembilan, Penang, Perak, Sabah, Selangor, Putrajaya] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>GP Outsourcing Asia Sdn Bhd. is looking for new potential candidates to fill in for <b>广东话 ENGLISH Live Translator (WFH - work from home)</b> position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><div><div><strong>**ONLY APPLY IF YOU MEET THESE REQUIREMENTS**</strong><br>- ABLE TO WORK THROUGH THE NIGHT: 9 hours (1hr break), starting at 9PM-12AM, end around 6-9AM.<br><br>- MUST WORK ON WEEKENDS, PUBLIC HOLIDAYS.<br><br>- CAN READ/WRITE &#20013;&#25991;<br>- CAN SPEAK CANTONESE FLUENTLY<br>- CAN SPEAK ENGLISH FLUENTLY<br><br>- Listens and speaks well, those with customer service / call centre experience preferred<br><br>- MUST COMMIT TO 12 MONTHS CONTRACT OF THIS JOB. THIS IS A 12 MTH CONTRACT JOB.<br><br>- Must be in Malaysia for the next 12 months.<br><br>- Must have laptop/desktop with camera and home fibre/based internet with min upload speed of 1mb and download speed of 5mb.<br><br>- CAN START THIS JOB IN 1 MONTH OR LESS.<br><br><strong>&lt;&lt;JOB DESCRIPTION&gt;&gt;</strong><br>You will be a liaison for our clients in the service industry located in US.<br>Your role as liaison means you must be able to understand Cantonese&#24191;&#19996;&#35805;, &#20013;&#25991; and English.<br>You will receive one call at a time. In a call, two people are speaking different languages from each other.<br>You will be trained to translate what one person is saying so that the other person hears you speaking in their language that they understand. And repeat. Until they finish speaking and end the call.<br><br>This role involves complex and technical subjects in Healthcare, Government, Insurance, Finance, Utilities, Travel and Hospitality, 911 emergency services, Law Enforcement, Courts, and General Business. For immediate inquiry, send your inquiry or CV via Whatsapp +6012 202 7068 from Monday to Sunday 8.30 am to 8.30 pm.<br><br>This a 12 month contract. There is a penalty if resign within first 3 months.<br>Work for 8 hours per night, 5 nights per week (2 nights off)<br><br><strong>((&#160; &#160;BENEFITS&#160; &#160; ))</strong><br>Salary range from RM5280 - RM14000.<br>Full suite of full time employment benefits<br>EPF, SOCSO, EIS, Annual Leave, MC, Medical Coverage and Insurance<br>Work from home (stay safe)<br>Specialized work provisions<br>flexible salary scheme<br>Paid annual leave<br>Paid sick leave<br>Hospitalization benefits<br>Paid training period<br>Fully paid holiday trip for top performers ( option for cash)<br>Noticable career advancement:<br>Executive &gt; senior &gt; team leader &gt; centre manager/ recuitment consultant<br>Commitment by company for punctual pay-roll<br>Performance based incentives</div></div></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div><strong>ABOUT US</strong></div>
+<div>GP Asia Sdn Bhd is a newly incorperated<strong> pioneer-status accredited (by Ministry of International Trade And Industry) company</strong>. We are the pioneers in Malaysia for providing state-of-the-art outsourcing solutions to complicated business obstacles all over Malaysia.</div>
+<div><br>
+Today the company has employed over 250 different candidates of various background and ethicity to fullfill the multivariate requirements of the private industry which includes <strong>NCR, MRCB, DIEBOLD, CLEANPRO and TANCHONG</strong>. Futhermore in the essence of patriotism, we have also proudly served the public industry which includes <strong>PETRONAS, BANK NEGARA and most recently the national LRT project.</strong></div>
+<div><br>
+At GP asia Outsourcing Sdn. Bhd. , we focus our efforts on our <strong>employees first.&#160;</strong> As we believe that by treating our members fairly :<strong> with a fair pay, excellent benefits, on-time payroll and performance-oriented incentives</strong> ; this would provide added-value back to our customers.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor, Kedah, Kuala Lumpur, Melaka, Negeri Sembilan, Penang, Perak, Sabah, Selangor, Putrajaya. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/广东话-english-live-translator-wfh-work-from-home-4414075?jobId=jobstreet-my-job-4414075&sectionRank=3&token=0~ca52587c-9a8f-450b-8a9c-a71ff7ac0d76&fr=SRP%20View%20In%20New%20Ta" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 
