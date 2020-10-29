@@ -9,7 +9,7 @@ toc_label: TOC
 toc_icon: "fire" 
 --- 
 
-<p>Schiavello Manufacturing (Malaysia) Sdn. Bhd is looking for new potential candidates to fill in for <b>Furniture Upholsterer</b> position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job.
+<p>Schiavello Manufacturing (Malaysia) Sdn. Bhd is looking for new potential candidates to fill in for <b>Furniture Upholsterer</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
 </p>{% include link-adsense.html %} 
 <div><div><h4>Job Highlights</h4></div><div><ul><li><div><div><div><div></div></div></div><div><span>International Brand From Australia</span></div></div></li><li><div><div><div><div></div></div></div><div><span>Rewarding Career Opportunities in Furniture Industry</span></div></div></li><li><div><div><div><div></div></div></div><div><span>Competitive Salary For The Right Candidate</span></div></div></li></ul></div></div> 
 {% include article-adsense.html %} 
@@ -17,5 +17,5 @@ toc_icon: "fire"
 #### How To Apply 
 If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
 Hope you find your dream job in Johor. <br/> 
-<a href="https://www.jobstreet.com.my/en/job/furniture-upholsterer-4395689?jobId=jobstreet-my-job-4395689&sectionRank=25&token=0~ca52587c-9a8f-450b-8a9c-a71ff7ac0d76&fr=SRP%20View%20In%20New%20Ta" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+<a href="https://www.jobstreet.com.my/en/job/furniture-upholsterer-4395689?jobId=jobstreet-my-job-4395689&sectionRank=25&token=0~4e0c7a81-5c92-485b-aa3f-8d9639f2c0e4&fr=SRP%20View%20In%20New%20Ta" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
 {% include link-adsense.html %} 

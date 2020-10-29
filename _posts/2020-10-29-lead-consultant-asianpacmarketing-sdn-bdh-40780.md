@@ -9,7 +9,7 @@ toc_label: TOC
 toc_icon: "fire" 
 --- 
 
-<p>AsianpacMarketing Sdn Bdh is looking for new potential candidates to fill in for <b>Lead Consultant</b> position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job.
+<p>AsianpacMarketing Sdn Bdh is looking for new potential candidates to fill in for <b>Lead Consultant</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
 </p>{% include link-adsense.html %} 
 <div><div><h4>Job Description</h4></div><div><div><span><div><div><strong>Responsibilities:</strong></div><ul><li>To make marketing call to potential client</li></ul><div><strong>Requirements:</strong></div><ul><li>Candidate must possess at least SPM&#160;</li><li>Required language(s):&#160;English</li><li>Expirience in working&#160;in the related field is an added advantage</li><li>Preferably Junior Executive specialized in Customer Service or equivalent.</li><li>Able to gather correct informations</li><li>Target oriented</li><li>With or without call center experienced</li><li>Fresh graduates are encouraged to apply</li><li>Must be able to speak in English</li></ul><div><strong>Working Hours:</strong></div><ul><li>5 days working</li><li>Monday &#8211; Friday</li><li>1pm -9pm</li></ul><div><strong>Locations :</strong></div><ul><li>Menara Zurich Johor Bahru</li></ul></div></span></div></div></div> 
 {% include article-adsense.html %} 
@@ -18,5 +18,5 @@ toc_icon: "fire"
 #### How To Apply 
 If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
 Hope you find your dream job in Johor. <br/> 
-<a href="https://www.jobstreet.com.my/en/job/lead-consultant-4407880?jobId=jobstreet-my-job-4407880&sectionRank=20&token=0~ca52587c-9a8f-450b-8a9c-a71ff7ac0d76&fr=SRP%20View%20In%20New%20Ta" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+<a href="https://www.jobstreet.com.my/en/job/lead-consultant-4407880?jobId=jobstreet-my-job-4407880&sectionRank=20&token=0~4e0c7a81-5c92-485b-aa3f-8d9639f2c0e4&fr=SRP%20View%20In%20New%20Ta" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
 {% include link-adsense.html %} 
