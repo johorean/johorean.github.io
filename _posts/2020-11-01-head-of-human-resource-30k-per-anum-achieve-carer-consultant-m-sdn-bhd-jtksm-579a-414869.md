@@ -1,0 +1,21 @@
+---
+title: "ACHIEVE Career Consultant (M) Sdn Bhd (JTKSM 579A) Vacancies Head of Human Resource (300k++ per annum)" 
+category: Jobs 
+date: 2020-11-01 
+excerpt: "ACHIEVE Career Consultant (M) Sdn Bhd (JTKSM 579A) is currently looking for suitable person to fill in the Head of Human Resource (300k++ per annum) which positioned at Johor, Kuala Lumpur, Melaka, Penang, Selangor" 
+tags: [Johor, Kuala Lumpur, Melaka, Penang, Selangor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>ACHIEVE Career Consultant (M) Sdn Bhd (JTKSM 579A) is looking for new potential candidates to fill in for <b>Head of Human Resource (300k++ per annum)</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><div>Position Descriptions:</div><ul><li>Lead and manage a team of HR personnels and responsible for the entire spectrum of HR functions.</li><li><strong>Strategic HR Business Partner</strong> and advisor to the senior management team.</li><li>Strategist for talent management and ensure that talent solutions are suited to meet business needs.</li><li>Drive all Talent Acquisition initiatives in re-branding and attracting talents.</li><li>Ensure successful and consistent performance management aligned to the business strategy.</li><li>Drive an effective Learning and Development Framework in line with business goals.</li></ul><div>Positions Requirements:</div><ul><li>Proven track record and experience as a Head of HR / Director in leading a HR Team and advising the Top Management Team.</li><li>At least Degree in HR / Business Admin or related business studies.</li></ul><div>Interested candidates please submit your application online, stating current and expected remuneration package, availability / notice period, reason for leaving previous / current employment, past achievements / contribution.<div>We regret that only shortlisted candidates will be notified.</div><div>By submitting any application or r&#233;sum&#233; to us, you will be deemed to have agreed and consented to us collecting, using, retaining and disclosing your personal information for the purpose of processing your application.<br>&#160;</div></div></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div><div><strong>Founded in Singapore,&#160;Achieve Group is a multi award-winning organisation and HR outsourcing partner-of-choice for local conglomerates and multinational corporations within the Asia Pacific region. </strong><div><strong>The company was built on the strength of its Talent Acquisition expertise, servicing corporate clients across diverse industries. It is a sophisticated process, which the Achieve Group has perfected over the last&#160;three decades, making the brand synonymous with accurately matching the right people to the right organisation within the shortest time possible.&#160; Through these precise placements, we have enabled our clients' businesses to achieve greater heights of success by having the right talents onboard.</strong></div></div><div><div><strong>The ACHIEVE Group has garnered a number of prestigious accolades recently:</strong></div><div><strong>Human Resources &#8216;HR Vendors of the Year 2014&#8217;<br>Enterprise 50 Award 2011<br>ASEAN Business Award 2011</strong></div></div></div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor, Kuala Lumpur, Melaka, Penang, Selangor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/head-of-human-resource-300k-per-annum-4414869?jobId=jobstreet-my-job-4414869&sectionRank=20&token=0~8b20aa1a-b401-4579-9385-7c8f25415886&fr=SRP%20View%20In%20New%20Ta" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 
