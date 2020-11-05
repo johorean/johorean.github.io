@@ -1,0 +1,22 @@
+---
+title: "SWM Environment Sdn Bhd Vacancies Chargeman" 
+category: Jobs 
+date: 2020-11-05 
+excerpt: "SWM Environment Sdn Bhd is currently looking for suitable person to fill in the Chargeman which positioned at Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>SWM Environment Sdn Bhd is looking for new potential candidates to fill in for <b>Chargeman</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><div><h4>Job Description</h4></div></div><div><div><span><div><ul><li>Ensure all electrical equipments are in good condition.</li><li>Ensure genset in good working condition.</li><li>Plan and implement all preventive maintenance schedules for all electrical related work on site.</li><li>Monitor and report on the maintenance of all electrical equipments.</li><li>Carry out routine/ scheduled inspection and checks on all machineries and equipment.</li><li>Repair/ service minor breakdown of the machineries/ equipments.</li><li>Coordinate with other units to ensure smooth operation of the landfill.</li><li>Carry out calculation and/ or estimation of electrical materials requirement for all works.</li><li>Plan and supervie water consumption &amp; power consumption usage.</li><li>Plan and supervise the routine maintenance for electrical facility including HVAC, Fire alarm system, standby generator &amp; street lighting.</li><li>Immediate response to any electrical related problems.</li><li>Plan and supervise the annual relay calibration &amp; electrical registration to SURUHANJAYA TENAGA.</li><li>Any other instruction from the management from time to time.</li></ul><div><strong>Job Requirements:</strong></div><ul><li>Candidate must posses a Chargeman BO (11KV or 33KV) Certificate by Suruhanjaya Tenaga.</li><li>At least 3-5 years of relevant working experience.</li><li>Able to be work at Seelong.</li><li>Willing to work during odd hours whenever necessary.</li><li>Able to read electrical circuit diagram and electrical trouble shooting.</li></ul><div>Interested candidates are requested to apply online through Jobstreet.<div>Position and salary offered shall commensurate with the qualification, knowledge, competencies and experience of the successful candidate.</div><div>Only shortlisted candidates will be contacted for interview.</div></div></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><div><h4>Company Overview</h4></div></div><div><div><span><div><div>
+<strong>SWM ENVIRONMENT SDN BHD (SWM)</strong> was established to manage the storage, collection, transfer, haulage, intermediate processing and disposal of solid waste in the Southern Region of Peninsular Malaysia in 1996 in line with the Malaysian government's decision on the National Privatisation of Solid Waste Management. SWM has today grown into an established solid waste collection and management services concessionaire with a work force of more than&#160;8,000 full time employees serving 27 local councils throughout the states of Johor, Melaka &amp; Negeri Sembilan. With the passing of the Solid Waste and Public Cleansing Management Act 2007, SWM is poised to be a major solid waste collection and management services provider in the states of Johor, Melaka &amp; Negeri Sembilan providing an integrated waste management services that is comprehensive, well planned, efficient and cost effective. Using the most environmentally sound technology available, SWM will strive to enhance the quality of solid waste management and cleansing services in the country and we are inviting dynamic, results oriented individuals who are team players to join our expanding team.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/chargeman-4418887?jobId=jobstreet-my-job-4418887&sectionRank=19&token=0~89b77204-2d4c-4a90-a7a6-d608386b3d9e&fr=SRP%20View%20In%20New%20Ta" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 
