@@ -1,0 +1,22 @@
+---
+title: "One & Only Desaru Coast Vacancies Server (Waiter / Waitress)" 
+category: Jobs 
+date: 2020-11-10 
+excerpt: "One & Only Desaru Coast is currently looking for suitable person to fill in the Server (Waiter / Waitress) which positioned at Johor - Others" 
+tags: [Johor - Others] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>One & Only Desaru Coast is looking for new potential candidates to fill in for <b>Server (Waiter / Waitress)</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><div><h4>Job Description</h4></div></div><div><div><span><div><div><div>JOB SUMMARY</div><div>The Server focus will be to provide a warm and personal experience service to the guest in a timely and sophisticated fashion. The Server will be an important part of the team, working towards the common goal of exceeding the expectations of all who come to dine in the restaurants.</div><div>JOB DESCRIPTION</div><ul><li>Maintain complete knowledge of table/seat/station numbers, Micros and manual systems, room capacity, hours of operation, proper table set-up and dress code of the restaurant.</li><li>Maintain complete knowledge of all liquor brands, beers and non-alcoholic selections, correct glassware, and garnishes in the restaurant.</li><li>Maintain knowledge of the characteristics and description of every wine/champagne by the glass and major wines on the wine list will be an added advantage.</li><li>Maintain complete knowledge of all menu items, prices, preparation method/time, major ingredients and quality standards of taste, appearance, texture, serving temperature, portion size, garnish, and method of presentation.</li><li>Set up all condiments and beverages (non-alcoholic) according to service standards.</li><li>Take food and beverage orders, utilizing suggestive selling techniques.</li><li>Retrieve all alcoholic beverage items from bar and serve to guest in accordance with the departmental standards.</li><li>Anticipate guests' needs, respond promptly and acknowledge all guests, however busy and whatever time of day.</li><li>Be familiar with all hotel services/features and local attractions/activities to respond to guest inquiries accurately.</li><li>Monitor and maintain cleanliness, sanitation and organization of assigned station and service areas.</li><li>Restock items for next service. Remove all dirty linen. Reset tables for next meal period.</li></ul><div>JOB REQUIREMENTS</div><ul><li>Able to communicate in Bahasa Malaysia and English.</li><li>Minimum education SPM or of equivalent.</li><li>Pleasant personality and well groomed.</li><li>At least 1&#160;Year(s) of working experience in the related field is required for this position.</li><li>Ability to work on shift and public holiday.</li><li>Applicable for Citizens of Malaysia and/or Permanent Residents of Malaysia only.</li></ul></div></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><div><h4>Company Overview</h4></div></div><div><div><span><div><div>"Kerzner International Holdings Limited (&#8220;Kerzner&#8221;), the owner of the ultra-luxury One&amp;Only Resorts and iconic Atlantis Resort &amp; Residences brands worldwide is pleased to announce the introduction of One&amp;Only Desaru Coast in Malaysia.&#160;&#160;</div>
+<div>A 128-acre beachfront development, this ultimate bespoke lifestyle experience will include 42 suites, 2 luxury suites and an exclusive 4-bedroom villa, as well as approximately 50 One&amp;Only Private Homes available for purchase. This will be the first One&amp;Only in Malaysia as part of the expanding One&amp;Only collection, as the brand continues to grow and develop internationally. Kerzner manages a portfolio of globally renowned, landmark destination resorts, luxury hotels and residences and innovative entertainment experiences."</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor - Others. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/server-waiter-waitress-4419475?jobId=jobstreet-my-job-4419475&sectionRank=18&token=0~e1763bbb-cae1-4c9e-8bbe-3424b95a3c75&fr=SRP%20View%20In%20New%20Ta" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 
