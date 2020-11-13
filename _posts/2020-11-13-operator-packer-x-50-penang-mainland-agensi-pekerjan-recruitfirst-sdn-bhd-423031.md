@@ -1,0 +1,21 @@
+---
+title: "Agensi Pekerjaan RecruitFirst Sdn Bhd Vacancies Operator/ Packer x 50 (Penang Mainland)" 
+category: Jobs 
+date: 2020-11-13 
+excerpt: "Agensi Pekerjaan RecruitFirst Sdn Bhd is currently looking for suitable person to fill in the Operator/ Packer x 50 (Penang Mainland) which positioned at Johor, Kedah, Kuala Lumpur, Melaka, Negeri Sembilan, Penang, Pahang, Selangor" 
+tags: [Johor, Kedah, Kuala Lumpur, Melaka, Negeri Sembilan, Penang, Pahang, Selangor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Agensi Pekerjaan RecruitFirst Sdn Bhd is looking for new potential candidates to fill in for <b>Operator/ Packer x 50 (Penang Mainland)</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><div><h4>Job Description</h4></div></div><div><div><span><div><div>We are representing our client who is an <strong>American multinational food manufacturing company</strong>.</div><ul><li><strong>Location: Penang Mainland</strong></li><li><b>24 hours Rotational Shift (48 hours per week)</b></li><li><b>Basic salary+ OT+ Incentive</b></li></ul><div><strong>Job Responsibilities</strong></div><div><ul><li>Check products on the production line for quality.</li><li>Keep machines supplied with packaging materials and labels.</li><li>Packing products.</li><li>Report machine faults.</li></ul></div><div><strong>Working Environment</strong></div><div><ul><li>Work in a factory.</li><li>Working environment may be hot, noisy and cool.</li><li>You may need to wear protective clothing.</li></ul></div><div><strong>Must Requirements</strong></div><ul><li>Knowledge of manufacturing production and processes.</li><li>Able to work well with others</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><div><h4>Company Overview</h4></div></div><div><div><span><div><div>Grow your company with <strong>RecruitFirst</strong>!</div><div>The business environment today is a highly copetitive one, which is ever evolving. Having the right human resource business partner with a strong network of consultants and candidates has become key to the success of industry leading businessess.</div><div>RecruitFirst is the fastest growing human resource consultancy in the Asia Pacific. Our mission is to <strong>Helping People Find Better Jobs and Organisations Finds Better People</strong>. We live by this mission by ensuring that the best candidates and employers are connected via the rigorous recruitment processes and extensive database that we are continuously developing.</div><div>Be the first to recruit with us and start realising the value-add that we are able to provide to your organization! Enjoy the expansive array of human resource solutions and network which RecruitFirst has to offer.</div><div>Together with our affiliates, we have operation in <strong>9 countries</strong> and <strong>12 Cities</strong> across <strong>Asia Pacific</strong> - <strong>Singapore, Kuala Lumpur, Bangkok, Hong Kong, Shanghai, Beijing, Gunagzhou, Shenzhen, Taipei, Tokyo, Seoul</strong> and <strong>Jakarta</strong>. This geographical network gives us the strategic advantage of acquiring the best candidates to satisfy the human resource strategies of multinational companies. In addition, with this large network of consultants, we are also able to provide for all your human resource needs, including <strong>temporary staffing, contract staffing, executive search, payroll services, global placement</strong> or <strong>management consultancy</strong>.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor, Kedah, Kuala Lumpur, Melaka, Negeri Sembilan, Penang, Pahang, Selangor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/operator-packer-x-50-penang-mainland-4423031?jobId=jobstreet-my-job-4423031&sectionRank=9&token=0~d1272e37-e24b-419d-beea-5321564183f7&fr=SRP%20View%20In%20New%20Ta" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 
