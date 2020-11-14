@@ -1,0 +1,21 @@
+---
+title: "ACHIEVE Career Consultant (M) Sdn Bhd (JTKSM 579A) Vacancies Banking Sales - Top Bank - High Basic + High Commissions - P9" 
+category: Jobs 
+date: 2020-11-14 
+excerpt: "ACHIEVE Career Consultant (M) Sdn Bhd (JTKSM 579A) is currently looking for suitable person to fill in the Banking Sales - Top Bank - High Basic + High Commissions - P9 which positioned at Johor, Kedah, Kuala Lumpur, Kelantan, Melaka, Negeri Sembilan, Penang, Pahang, Perak, Perlis, Sabah, Selangor, Sarawak, Terengganu, Labuan, Putrajaya" 
+tags: [Johor, Kedah, Kuala Lumpur, Kelantan, Melaka, Negeri Sembilan, Penang, Pahang, Perak, Perlis, Sabah, Selangor, Sarawak, Terengganu, Labuan, Putrajaya] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>ACHIEVE Career Consultant (M) Sdn Bhd (JTKSM 579A) is looking for new potential candidates to fill in for <b>Banking Sales - Top Bank - High Basic + High Commissions - P9</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><div><h4>Job Description</h4></div></div><div><div><span><div><div><strong>&#11088; Well-Known Bank<br>&#11088; Good Benefits<br>&#11088; Good Career Progressions<br>&#11088; Whole Malaysia Vacancies</strong><div><strong>Job Responsibilities:</strong></div><ul><li>To achieve sales/revenue target assigned by the Bank and contribute towards the achievement of the overall branch targets.</li><li>Responsible for marketing &amp; sales for banking products.</li><li>To build relationships with bank customers for up selling and providing professional personal financial advisory services</li><li>Engage in sales and marketing event at the bank</li><li>Provide follow up on the policy servicing services to customer.</li><li>Participate in branch/region/Bank sales activities and campaigns to achieve deliverables.</li><li>Prepare and pro-actively execute sales plan, perform account openicross selling, up selling and engagement with customers for retention and referrals.</li></ul><div><strong>Job Requirements:</strong></div><ul><li>Possess strong interest in financial planning and investment, and passionate about sales.</li><li>Experience in banking and/or sales is an added advantage.</li><li>Full-Time Position(s) Available.</li></ul><div>If this looks good to you, kindly email to <strong>yennee.soo@achievegroup.asia</strong>&#160; , thanks and stay safe !</div></div></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><div><h4>Company Overview</h4></div></div><div><div><span><div><div><div><strong>Founded in Singapore,&#160;Achieve Group is a multi award-winning organisation and HR outsourcing partner-of-choice for local conglomerates and multinational corporations within the Asia Pacific region. </strong><div><strong>The company was built on the strength of its Talent Acquisition expertise, servicing corporate clients across diverse industries. It is a sophisticated process, which the Achieve Group has perfected over the last&#160;three decades, making the brand synonymous with accurately matching the right people to the right organisation within the shortest time possible.&#160; Through these precise placements, we have enabled our clients' businesses to achieve greater heights of success by having the right talents onboard.</strong></div></div><div><div><strong>The ACHIEVE Group has garnered a number of prestigious accolades recently:</strong></div><div><strong>Human Resources &#8216;HR Vendors of the Year 2014&#8217;<br>Enterprise 50 Award 2011<br>ASEAN Business Award 2011</strong></div></div></div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor, Kedah, Kuala Lumpur, Kelantan, Melaka, Negeri Sembilan, Penang, Pahang, Perak, Perlis, Sabah, Selangor, Sarawak, Terengganu, Labuan, Putrajaya. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/banking-sales-top-bank-high-basic-high-commissions-p9-4423796?jobId=jobstreet-my-job-4423796&sectionRank=25&token=0~9905ab9e-829d-449f-b78a-cd5b31f688f6&fr=SRP%20View%20In%20New%20Ta" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 
