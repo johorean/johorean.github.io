@@ -1,0 +1,22 @@
+---
+title: "One & Only Desaru Coast Vacancies Guest Relation Agent" 
+category: Jobs 
+date: 2020-11-18 
+excerpt: "One & Only Desaru Coast is currently looking for suitable person to fill in the Guest Relation Agent which positioned at Johor - Others" 
+tags: [Johor - Others] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>One & Only Desaru Coast is looking for new potential candidates to fill in for <b>Guest Relation Agent</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><div><h4>Job Description</h4></div></div><div><div><span><div><div><strong>JOB SUMMARY:&#160;</strong></div><div>As a Guest Relations Officer, you will provide personalized service to our guests and special auxiliary services to Front Office operations particularly in functions concerning welcoming VIP guests and ensuring their welfare while staying in the hotel.</div><div><strong>JOB DESCRIPTIONS:</strong></div><ul><li>Providing a warm welcome upon arrival, escort, room orientation and accommodating special guest requests.</li><li>Handle guest complaint, guest request and must be able to ensure high resort guest satisfactions.</li><li>Being proactive and committed to deliver unique and everlasting memories to guests.</li><li>Check all updated registration cards ensuring that the information is complete, all necessary documents attached, and sufficient payment guarantee has been taken.</li><li>Maintain seamless interaction with guests in order to facilitate guest recognition, obtain preferences, anticipate guest needs and proactively action all their requests &amp; requirements. Also maintain the privacy of guest information and details.</li><li>Answer all calls according to the set standard.</li><li>Carry out guest registration, cashiering and other administrative tasks as per the standards</li><li>Collect Guest feedback during guest departure along with his likes and dislikes.</li><li>Perform basic cashier activities as and when required.</li><li>Ensure that all check-ins and check-outs are handled smoothly without unnecessary delay or discomfort to any guest.</li><li>Ensures that the Guest Services Desks are well manned, operationally prepared and stocked at all times.</li></ul><div><strong>JOB REQUIREMENTS:</strong></div><ul><li>Candidate must possess at least Diploma/Advanced/Higher/Graduate Diploma in Hospitality/Tourism/Hotel Management or equivalent.</li><li>Able to communicate and written fluently in English and Bahasa Malaysia.</li><li>Pleasant personality and self-grooming id essentials.</li><li>At least 1&#160;Year(s) of working experience in a similar role with luxury resort.</li><li>Required Skill(s): OPERA PMS</li><li>Able to work in a fast-paced environment.</li><li>Applicable for Citizen of Malaysia and/or valid Permanent Residents of Malaysia only.</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><div><h4>Company Overview</h4></div></div><div><div><span><div><div>"Kerzner International Holdings Limited (&#8220;Kerzner&#8221;), the owner of the ultra-luxury One&amp;Only Resorts and iconic Atlantis Resort &amp; Residences brands worldwide is pleased to announce the introduction of One&amp;Only Desaru Coast in Malaysia.&#160;&#160;</div>
+<div>A 128-acre beachfront development, this ultimate bespoke lifestyle experience will include 42 suites, 2 luxury suites and an exclusive 4-bedroom villa, as well as approximately 50 One&amp;Only Private Homes available for purchase. This will be the first One&amp;Only in Malaysia as part of the expanding One&amp;Only collection, as the brand continues to grow and develop internationally. Kerzner manages a portfolio of globally renowned, landmark destination resorts, luxury hotels and residences and innovative entertainment experiences."</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor - Others. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/guest-relation-agent-4425060?jobId=jobstreet-my-job-4425060&sectionRank=3&token=0~3578cd35-1363-4026-bf8c-6608e50f3597&fr=SRP%20View%20In%20New%20Ta" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 
