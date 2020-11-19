@@ -1,0 +1,22 @@
+---
+title: "Vitamax Food International Sdn Bhd Vacancies Warehouse Executive" 
+category: Jobs 
+date: 2020-11-19 
+excerpt: "Vitamax Food International Sdn Bhd is currently looking for suitable person to fill in the Warehouse Executive which positioned at Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Vitamax Food International Sdn Bhd is looking for new potential candidates to fill in for <b>Warehouse Executive</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><div><h4>Job Description</h4></div></div><div><div><span><div><ul><li>Candidate must possess at least</li><li>At least 2 Year(s) of working experience in the related field</li><li>Required Skill(s):</li><li>Preferably Junior Executive specialized in Inventory/Material &amp; Warehouse Management or equivalent.</li><li>Candidate will act as a Inventory Control for this job position.</li><li>To manage the warehouse &amp; logistics functions by ensuring that all Customer orders products are produced per customer requirements, receive &amp; store the finished products into warehouse(s) and dispatched both efficiently</li><li>Ensure that products received are stored properly, meeting quality packaging and delivering to satisfy customer&#8217;s requirement.</li><li>Ensure on time transaction in SAP system and maintain level Finish Goods inventory (physical vs. SAP)</li><li>Co-ordination work in between Sales, Customer, Production and Transport Company to be in timely manner and prompt, in order to ensure efficiency of distribution process</li><li>Handling customer&#8217;s complaint and respond promptly, to come out with immediate action plan, improvement and prevention from reoccurrence both internally and externally. (Customer Focus).</li><li>To maintain excellent housekeeping in the warehouse at a high standard. To ensure aisles and exist are kept clear at all times.</li><li>To conduct physical stock count (cycle count) in weekly, monthly and semi and annual stock take.</li><li>To be responsible for ensuring the accuracy of stocks data in Auto Count system as according to correct batch number and quantity.</li><li>-Support and execution of HACCP, GMP and sanitation programs in production and storage area</li><li>Organizing and delegation of all activities performed in the warehouse</li><li>Providing the setup layout and management of space.</li><li>Planning and controlling of over all activities in the warehouse.</li><li>Setting targets in relation to the policy of the Company.</li><li>Ensure that safety and health requirement are met in the warehouse</li><li>Responsible for the security of the stock and the warehouse</li><li>Maintains warehouse staffs job results by coaching, counseling and disciplining employee; planning, monitoring and appraising job results.</li><li>Responsible to ensure all the raw material, packaging and finished goods in the right quantity and storage in a good place.</li><li>Knowledge using Auto Count sofware is advantage.</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><div><h4>Company Overview</h4></div></div><div><div><span><div><div>At our company, we believe that business are created by people. Our people are rewarded for their positive behaviour, passion for our business and the results. We provide remuneration and benefits that are attractive and market competitive.</div>
+<div>We value energy, passion, integrity, boldness and different thinking. We value ideas and we value contribution, but importantly we place high value on diversity - and it is becoming a key driving force behind the way we conduct business at all levels throughout the organization.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/warehouse-executive-4426919?jobId=jobstreet-my-job-4426919&sectionRank=27&token=0~5c78bd40-a3ad-4a05-90d9-54ba6c2e3f9c&fr=SRP%20View%20In%20New%20Ta" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 
