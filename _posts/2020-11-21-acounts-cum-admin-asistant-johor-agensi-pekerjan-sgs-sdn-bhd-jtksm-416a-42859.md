@@ -1,0 +1,21 @@
+---
+title: "Agensi Pekerjaan SGS Sdn Bhd (JTKSM 416A) Vacancies Accounts Cum Admin Assistant (Johor)" 
+category: Jobs 
+date: 2020-11-21 
+excerpt: "Agensi Pekerjaan SGS Sdn Bhd (JTKSM 416A) is currently looking for suitable person to fill in the Accounts Cum Admin Assistant (Johor) which positioned at Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Agensi Pekerjaan SGS Sdn Bhd (JTKSM 416A) is looking for new potential candidates to fill in for <b>Accounts Cum Admin Assistant (Johor)</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><div><h4>Job Description</h4></div></div><div><div><span><div><div><strong>Job Responsibilities</strong><ul><li>To handle day to day accounting functions and ensure proper maintenance of accounting records and follow-up matters.</li><li>To maintain proper filing of accounting documents for record keeping.</li><li>To handle general administrative task and clerical support.</li><li>Other tasks as assigned by management from time to time.</li></ul><div><br><strong>Job Requirements</strong></div><ul><li>Candidate must possess at least a SPM/ Diploma/ Degree/ Equivalent Qualification</li><li>Must be computer literate &amp; working knowledge of Microsoft Office</li><li>Required language(s): Mandarin, English &amp; Bahasa Malaysia</li><li>At least 1 year(s) of working experience in the related field is required for this position.</li><li>Candidates must be willing to work in Kluang, Johor.</li><li>Candidates fluent in mandarin preferred as role requires candidate to deal with mandarin speaking clients</li></ul><strong>Remuneration Packages</strong><br>Attractive salary package from <strong>RM1,600 &#8211; RM3,000</strong>, depending on qualification and experiences.<div><br><strong>How to Apply for the Job</strong></div><div>Click &#8220;<strong>APPLY NOW</strong>&#8221;. All the applications will be kept confidentially. <strong>Only shortlisted candidates will be notified</strong>.</div><div><strong>SGS Recruitment</strong> does not impose any charges to applicants. <strong>It is absolutely free for job-seekers.</strong></div></div></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><div><h4>Company Overview</h4></div></div><div><div><span><div><div><strong>Agensi Pekerjaan SGS Sdn Bhd (JTKSM 416A) </strong>is an established staff recruitment firm providing staffing solution to companies of various industries. We began with specializing in Accountancy staff recruitment in year 2011, and we are now establishing our presence in the fields of Administration, Finance, Purchasing/Procurement, Sales &amp; Marketing, Technical Engineering &amp; Information Technology. <strong>SGS Recruitment</strong> is managed &amp; powered by a team of ambitious, driven, experienced and qualified consultants who are most appropriate to position the Right Person in the Right Position to the Right Company. We cater for a wide range of candidates with positions from junior employees at entry level to senior top management levels.</div><div>For job-seekers who are looking for career advancement, you have come to the Right Place. We are here to provde you with a secure job and career at NO COST. You are right here now, at <strong>SGS Recruitment</strong>, to realize your Dreams Jobs.</div><div>Any inquiry, please contact</div><div><strong>Tel: 03-3324 9800/ 012-318 8676</strong></div><div><strong>Fax: 03-3324 6800</strong></div><div><strong>E-mail: maysow@sgsjobs.com.my</strong></div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/accounts-cum-admin-assistant-johor-4428599?jobId=jobstreet-my-job-4428599&sectionRank=2&token=0~91ed01a8-cb65-41c9-887c-9573e698007e&fr=SRP%20View%20In%20New%20Ta" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 

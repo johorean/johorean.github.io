@@ -1,0 +1,23 @@
+---
+title: "Startek Vacancies Customer Care Specialist - Mandarin Speaker [Nutrition Consultation]" 
+category: Jobs 
+date: 2020-11-21 
+excerpt: "Startek is currently looking for suitable person to fill in the Customer Care Specialist - Mandarin Speaker [Nutrition Consultation] which positioned at Johor, Kuala Lumpur, Melaka, Sabah, Selangor, Sarawak, Putrajaya" 
+tags: [Johor, Kuala Lumpur, Melaka, Sabah, Selangor, Sarawak, Putrajaya] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Startek is looking for new potential candidates to fill in for <b>Customer Care Specialist - Mandarin Speaker [Nutrition Consultation]</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><div><h4>Job Description</h4></div></div><div><div><span><div><div><strong>Responsibilities:</strong></div><ul><li>Receive or conduct calls to provide product information and nutritional advice to customers, to encourage on conversion and retention of Abbott&#8217;s brands usage</li><li>Maintain records of telephonic interactions</li><li>Data entry and maintenance of customer databases</li><li>Ensure that the service delivery to customers is of excellent quality</li><li>Work closely with marketing/product managers to deliver brand knowledge to customers</li><li>Perform other job-related duties as requested by supervisor.</li><li>Persuasion -- Persuading others to change their minds or behavior.</li><li>Learning Strategies -- Selecting and using training/instructional methods and procedures appropriate for the situation when learning or teaching new things</li></ul><div><strong>Requirements:</strong></div><ul><li>Candidate must possess at least a Diploma or Advanced Diploma or Bachelor's Degree in Food Technology/Nutrition/Dietetics, Nursing, Medical Science, Pharmacy/Pharmacology or equivalent.</li><li>At least 1 year(s) of working experience in the related field is required for&#160; this position.</li><li>Fresh grads encourage to apply &#8211; Full training provided</li><li>Preferably Junior Executives specializing in Customer Service or equivalent.</li><li>Candidate must be able to converse in English / Bahasa Malaysia and Mandarin.</li></ul><div><strong>Benefits:</strong></div><ul><li>Working Hours: 9.00am to 6.00pm</li><li>Rest &amp; relax area&#160;</li><li>Quarterly staff recognition and appreciation</li><li>EPF</li><li>Socso</li><li>Annual leave</li><li>Medical leave</li><li>Free shuttle van service</li></ul><div><strong>Career Prospect:</strong><br><br>&#8226; Executive &gt; Senior Executive &gt; Team Leader &gt; Assistant Manager &gt; Manager &gt; Senior Manager.<br>&#8226; IJP &#8211; Internal job program. Opportunity to transfer within the company to exciting new roles, after 1 year if there is a suitable position available and staff passes the interview session.<br>&#8226; Career path program with Multi-functional Product, process, soft skill, developmental training.<br>&#160;</div></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><div><h4>Company Overview</h4></div></div><div><div><span><div><div>
+<strong>About STARTEK</strong><br>
+	Startek is a leading global provider of technology-enabled business process outsourcing solutions. The company provides omni-channel customer experience management, back office and technology services to corporations around the world across a range of industries. The company has more than 45,000 outsourcing experts across 54 delivery campuses worldwide that are committed to delivering transformative customer experiences for clients. Services include omni-channel customer care, customer acquisition, order processing, technical support, receivables management and analytics through automation, voice, chat, email, social media and IVR, resulting in superior business results for its clients. To learn more about Startek&#8217;s global solutions, please visit <strong>www.startek.com.</strong></div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor, Kuala Lumpur, Melaka, Sabah, Selangor, Sarawak, Putrajaya. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/customer-care-specialist-mandarin-speaker-[nutrition-consultation]-4428626?jobId=jobstreet-my-job-4428626&sectionRank=14&token=0~91ed01a8-cb65-41c9-887c-9573e698007e&fr=SRP%20View%20In%20New%20Ta" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 
