@@ -1,0 +1,21 @@
+---
+title: "ASK Resources Vacancies Personal Banker/Personal Financial Consultant (FIMM/IPPC) @ Nationwide" 
+category: Jobs 
+date: 2020-11-24 
+excerpt: "ASK Resources is currently looking for suitable person to fill in the Personal Banker/Personal Financial Consultant (FIMM/IPPC) @ Nationwide which positioned at Johor, Kuala Lumpur, Penang, Pahang, Perak, Sabah, Selangor, Sarawak" 
+tags: [Johor, Kuala Lumpur, Penang, Pahang, Perak, Sabah, Selangor, Sarawak] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>ASK Resources is looking for new potential candidates to fill in for <b>Personal Banker/Personal Financial Consultant (FIMM/IPPC) @ Nationwide</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><div><h4>Job Description</h4></div></div><div><div><span><div><div><strong>Your career grow with below company!</strong></div><div>Top local bank with strong products in the market.</div><div><strong>You will be groomed and rewarded with</strong></div><div><strong>Opportunity to be ranked as Relationship Manager</strong></div><div><strong>Opportunity to earn 5 figures</strong></div><div><strong>Trained to master all banking products and groomed to be a future leader</strong></div><div><strong>Competitive and exciting incentives</strong></div><div><strong>Earn trip as special achievement rewards</strong></div><div><strong>You will enjoy the work by</strong></div><ul><li>Interacting with customers to enhance your communication skills&#160;</li><li>Strenghtened your networking in the industry for wider exposure</li><li>Financial advisor to prospect and existing customer&#160;</li><li>Managing high net worth customers porftolio</li></ul><div><strong>You have what it takes to be the next Relationship Manager with them if you</strong></div><ul><li>Love interacting with people</li><li>Enjoy becoming a wealth manager</li><li>Possess necessary licenses (PCE, Ceili, TBE, FIMM, CUTE, IPPC, PRS) - Any of it or All.</li><li>For those who do not possess IPPC yet, you will be trained and prep to take the license!</li></ul><div><strong>Sounds Interesting? You are the one!</strong></div><div>Submit your resume to <strong>Danielle</strong> to&#160;<strong>daniellelim@askresources.com.my</strong> or drop your resume through <strong>WhatsApp</strong> at</div><div><strong>016 213 2477</strong></div><div>Regret to inform that O<strong>NLY SHORTLISTED</strong> candidates will be notified!</div></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><div><h4>Company Overview</h4></div></div><div><div><span><div><div>At ASK Resources, our mission is to provide efficient services to both jobseekers and employers. With over a decade of experience since being founded in 2005, ASK has been in partnership&#160; with locally established companies, shared services, GLC, PLC and MNC clients across all sectors and industries with successful result. Headquartered in Puchong, Selangor with other offices in Melaka and Johor, our consultants aim to revolutionize the recruitment industry.</div><div>Whether you are someone seeking career opportunities, an employer who wants to hire the RIGHT talents that best fit your organization, or simply a fresh graduate looking for your first job, we encourage you to get in touch with us.</div><div><strong>Think Career&#8230; Just &#8220;ASK&#8221;</strong></div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor, Kuala Lumpur, Penang, Pahang, Perak, Sabah, Selangor, Sarawak. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/personal-banker-personal-financial-consultant-fimm-ippc-@-nationwide-4429627?jobId=jobstreet-my-job-4429627&sectionRank=21&token=0~765afeb7-ce37-4310-b015-c55af4870088&fr=SRP%20View%20In%20New%20Ta" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 
