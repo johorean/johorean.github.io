@@ -1,0 +1,21 @@
+---
+title: "Changhuat Plastic Industries (Senai) Sdn Bhd Vacancies Head of Safety Security" 
+category: Jobs 
+date: 2020-12-01 
+excerpt: "Changhuat Plastic Industries (Senai) Sdn Bhd is currently looking for suitable person to fill in the Head of Safety Security which positioned at Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Changhuat Plastic Industries (Senai) Sdn Bhd is looking for new potential candidates to fill in for <b>Head of Safety Security</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><div><h4>Job Description</h4></div></div><div><div><span><div><p><strong>Job Purpose</strong></p><p>Responsible to ensure that the company is in compliance with all safety-related regulatory requirements, including OSHA standards.</p><p><strong>Job Description</strong></p><ul><li>Supports the Top Management in the HSE and Security Policy and Guidelines, Organization roles and responsibilities.</li><li>Ensures the implementation, review and auditing of the Company HSE &amp; Security Systems.</li><li>Performs Risk Assessment, monitors the effective implementation of appropriate Safety and Environment System procedures.</li><li>Provides relevant training, motivation and familiarization for all employees, vendors and contractors regarding the importance of complying with HSE rules and procedures.</li><li>Assists other departments in their dealings with issues concerned with Health and Safety at work.</li><li>Carries out analysis of accident / incident statistic, identifying trends and suggesting improvement plans.</li><li>Provide safety input into new projects, modification, procurement and installation activities.</li><li>Prevent any security breach and to conduct an investigation of any abnormalities.</li><li>Establish priorities of security patrols of the company surrounding.</li><li>To manage a group of in house and outsourced security personal in daily security operation (eg. Access control, perimeter patrol, warehouse security, CCTV management, movement of goods &amp; loss prevention activities).</li><li>Maintain logs of in and out of customers, visitors, and employee from a building.</li></ul><p><strong>Requirements</strong></p><ul><li>Degree in Occupational Health and Safety, Environmental Engineering or related field preferred.</li><li>Certificate from DOSH (registered safety officer - Green book) preferred.</li><li>Preferably at least 7 year(s) of working experience in Health, Safety &amp; Environmental particularly in manufacturing industry.</li><li>Result oriented, possess a strong sense of responsibility, urgency and commitment.</li><li>Self-starter, able to work independently with minimum supervision.</li><li>Able to conduct presentation and HSE training.</li><li>Able to work independently and under pressure.</li><li>Experience working in Manufacturing Site as Safety Supervisor is an advantage.</li><li>Good communication skills.</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><div><h4>Company Overview</h4></div></div><div><div><span><div><p>The Changhuat Group practises Quality Management Systems to produce products which meet international required standards in its continuous drive to provide Total Customer Satisfaction.We are an established plastic injection molding company.</p><p>History</p><p>Established in 1988 and ultimately change name to Changhuat Plastic Industries (Senai) Sdn. Bhd. in 1993. We are an integrated network of manufacturers for plastic injection moulded components and parts in Malaysia with paid up capital of RM1,000,000. Our factories occupy a total estimated land area of 143,748 sq. ft. located in Senai, Johor.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/head-of-safety-security-4433061?jobId=jobstreet-my-job-4433061&sectionRank=30&token=0~b12fd373-161a-4a70-bbcd-1c470fe3dc10&fr=SRP%20View%20In%20New%20Ta" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 
