@@ -1,0 +1,23 @@
+---
+title: "Sanrix Paper Sdn Bhd Vacancies QA Executive/Assistant" 
+category: Jobs 
+date: 2020-12-05 
+excerpt: "Sanrix Paper Sdn Bhd is currently looking for suitable person to fill in the QA Executive/Assistant which positioned at Johor - Others" 
+tags: [Johor - Others] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Sanrix Paper Sdn Bhd is looking for new potential candidates to fill in for <b>QA Executive/Assistant</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><div><h4>Job Description</h4></div></div><div><div><span><div><p><strong>Job Responsibilities</strong></p><ul><li>This position will be responsible for ensuring that the quality management system (QMS) is fully implemented in an organized and efficient manner. And, to co-ordinate all activities required to direct and control manufacturing quality.</li></ul><ul><li>To continuously review quality control processes, procedures and capabilities in order to sustain the most cost effective and efficient methods for meeting quality requirements and making recommendation for improvement as appropriate.</li></ul><ul><li>To be responsive to customer quality complaints. And, to perform root cause investigations and analysis of the defective products and follow up with corrective action report (CAR).</li></ul><ul><li>To ensure closure of all processes and product non-conformities detected in non-conformance report.</li></ul><ul><li>To develop quality assurance plans by conducting analysis, identifying critical caution points and preventive measures; establishing critical limits, monitoring procedures, corrective actions and verification procedures.</li></ul><ul><li>To identify and develop solutions to correct inspection function deficiencies</li></ul><ul><li>To prepare quality documentation and reports by collecting, analyzing and summarizing information and trends including failed processes, corrective actions and re-validations.</li></ul><ul><li>To convene ad-hoc meeting on issues related to in-coming material parts (JRs and packaging materials) and product quality for effective corrective and preventive actions.</li></ul><ul><li>To co-ordinate and control the day to day operations of inspection personnel through sound personnel practices such as coaching, performance management and discipline.</li></ul><ul><li>Authorized to stop production with the consent of management in the event the product quality will affect the customer&#8217;s confidence and trust in our products. And also, included the Finished Goods shipment.&#160;</li></ul><p><strong>Requirement</strong></p><ul><li>At least 3 years working experience in a Manufacturing Quality Control roles.</li><li>Minimum qualification of at least Professional Certificate / Diploma level.</li><li>Must have a sense of urgency and be deadline-oriented.</li><li>Must have strong interpersonal skills and communication skills.</li><li>Ability to manage multiple tasks</li><li>Strong MS Office proficiency</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><div><h4>Company Overview</h4></div></div><div><div><span><div><div><strong>Sanrix Paper </strong>is a young and passionate tissue paper converting company whose main activity is focused on the production of tissue paper and related items for three major market segments which are: Ho.Re.Ca. (Hotel-Restaurant-Caf&#233;), AFH (Away From Home) and Retail.</div>
+<div>Forming close relationships with our customers is essential. Sanrix Paper&#8217;s primary goal is to work with our customers by offering comfortable, safe, green, convenient tissue paper products made from responsible sources.</div>
+<div>In this extremely competitive industry, Sanrix Paper&#8217;s success is built on its strategic organisational structure, a flexible manufacturing system, expandable production capacity capability as well as solid partnership with reputable suppliers.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor - Others. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/qa-executive-assistant-4437505?jobId=jobstreet-my-job-4437505&sectionRank=2&token=0~9f2b1be0-c9ec-467f-b91f-86b4cbd242b6&fr=SRP%20View%20In%20New%20Ta" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 
