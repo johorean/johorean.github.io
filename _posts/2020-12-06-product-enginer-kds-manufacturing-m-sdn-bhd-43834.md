@@ -1,0 +1,21 @@
+---
+title: "KDS Manufacturing (M) Sdn. Bhd. Vacancies PRODUCT ENGINEER" 
+category: Jobs 
+date: 2020-12-06 
+excerpt: "KDS Manufacturing (M) Sdn. Bhd. is currently looking for suitable person to fill in the PRODUCT ENGINEER which positioned at Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>KDS Manufacturing (M) Sdn. Bhd. is looking for new potential candidates to fill in for <b>PRODUCT ENGINEER</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><div><h4>Job Description</h4></div></div><div><div><span><div><p>Responsibility</p><p>1) Support development and implementation of problem solving methodologies and statistical analysis and develop strategies to achieve profitability targets on assignments of new products development, cost reduction, capacity expansion enhancement projects.</p><p>2) Provide leadership and support for yield improvement and quality enhancement activities, including manufacturing platform simplifications, process / package optimization.</p><p>3) Take leadership role to establish relationships with key contacts with headquarter and vendors to ensure strong communication and effective problem solving to ensure timely submission of samples.</p><p>4) Ability to engineer, implement and verify the drawings of mechanical design of parts, components, integration system and assemblies in 2D or 3D in AI files.</p><p>5) To work and interact with other departments to Execute mechanical design verification test plans per requirements and specifications to ensure prototypes and product samples meet design requirements.</p><p>6) Provide technical leadership to prepare and submit new products including BOM setup by providing documentation, drawings, BOM, costing in timely manner.and costing for approval.</p><p>7) Independent and Ability to manage themselves to predefined project schedules and deliverables.</p><p>8) Assist other ad hoc duties assigned from time to time.</p><p>Requirement</p><p>1) Candidate must possess Bachelor degree in Electrical/Electronics/Microelectronics Engineering or Physics.at least a Diploma, Advanced/Higher/Graduate Diploma, Engineering (Mechanical), Engineering (Mechatronic/Electromechanical) or equivalent.</p><p>2) Proficient in using data analysis software such as Excel , AI , CAD software Creo or Solidworks or AutoCAD.</p><p>3) Excellent project management and leadership skills.</p><p>4) Excellent verbal and written communications skills in English.</p><p>5) Possess track record of effective problem-solving, good engineering judgment and decision-making skills.</p><p>6) Experience in product design and development in Engineering discipline.</p><p>7) With 2 years similar experience in the manufacturing industry and or similar position in the related field is an added advantage for this position.</p><p>8) Applicants must be willing to work in Kulai.</p><p>9) Able to work independently and meet tight deadlines.</p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><div><h4>Company Overview</h4></div></div><div><div><span><div><p>KDS, a company specialise in manufacturing measuring tapes, cutter and equipment tools. We are an established Japanese company with ISO 9001:2000 and JIS certification.&#160;</p><p>KDS stands for Kyoto Doki Seisakusho, the original name of the company. Not easy to remember, this is why "KDS" is used throughout the world. In line with our business growth, we invite the following professionals to join our team.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/product-engineer-4438334?jobId=jobstreet-my-job-4438334&sectionRank=19&token=0~32a563bb-6883-44da-8d38-ed78e0b67c16&fr=SRP%20View%20In%20New%20Ta" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 
