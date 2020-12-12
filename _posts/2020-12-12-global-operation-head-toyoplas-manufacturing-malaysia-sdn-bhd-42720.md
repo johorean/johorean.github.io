@@ -1,0 +1,22 @@
+---
+title: "Toyoplas Manufacturing (Malaysia) Sdn Bhd Vacancies Global Operation Head" 
+category: Jobs 
+date: 2020-12-12 
+excerpt: "Toyoplas Manufacturing (Malaysia) Sdn Bhd is currently looking for suitable person to fill in the Global Operation Head which positioned at Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Toyoplas Manufacturing (Malaysia) Sdn Bhd is looking for new potential candidates to fill in for <b>Global Operation Head</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><div><h4>Job Description</h4></div></div><div><div><span><div><ul><li>Job Description<br>The global operations manager will be assisting COO to plans, directs, and coordinates the operations of organizations with multiple branches across the global.<br>&#61607; Design and implement plans for the effective use of available resources to achieve manufacturing target/ KPI.<br>&#61607; Supervise the operations of manufacturing personnel (Site VP) to ensure a manufacturing process is within budget and Site KPI are being meet.<br>&#61607; Oversee the hiring, orienting, and training of key production employees to ensure a competent workforce.<br>&#61607; Conduct studies and research to discover a more effective approach to production<br>&#61607; Monitor the manufacturing team to ensure all operations are in compliance with health and safety standards<br>&#61607; Proper preventive maintenance plan, in order to avoid excessive upkeep expenses on machinery and also minimize the chances of machine breakdown<br>&#61607; Analyze and provide solutions to manufacturing challenges or problems<br>&#61607; Liaise with all the quality assurance department heads to ensure product quality and specification are consistent at all sites.<br>&#61607; Conduct assessments to identify mechanical and procedural limitations that minimize work efficiency<br>&#61607; Monitor and control a production process to adjust operations in event of a problem<br>&#61607; Collaborate with Business development and marketing team to implement strategies that&#8217;ll improve the marketability of manufactured products<br>&#61607; Oversee the procurement of raw materials and equipment required for manufacturing<br>&#61607; Review personnel performance to determine individuals most suited for promotion &amp; also training development.<br>&#160;</li><li>Requirements<div>&#61607; Education require a Bachelor&#8217;s degree, minimum to be able to communicate in English and Mandarin.<br>&#61607; Technical Skills: In the manufacturing line for more than 15 years, have mechanical &amp; EMS background.&#160;&#160;<br>&#61607; Organizational Skills: They are adept at coordinating the different stages of manufacture to ensure seamless operations<br>&#160;</div></li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><div><h4>Company Overview</h4></div></div><div><div><span><div><div>
+	Toyoplas Manufacturing (Malaysia) Sdn Bhd is part of the Toyoplas Group of Companies that offer customized services in plastic injection molding, turnkey projects, mold-making, the full spectrum of secondary processes such as lacquering, spray-painting, silk-screen and tempo printing, laser marking and assembly. On Group basis, we further provide aluminum die-casting and CNC machining services, SMT insertion operations and as an EMS/ODM services company, offer CAD/CAM services. In line with our continued expansion and integration of our service capabilities, we are now inviting suitable candidates to join us at our plants in Malaysia, Indonesia and China</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/global-operation-head-4442720?jobId=jobstreet-my-job-4442720&sectionRank=15&token=0~4053c66f-e1cf-4d5a-917e-3ec1f8c2def9&fr=SRP%20View%20In%20New%20Ta" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 
