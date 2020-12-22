@@ -1,0 +1,25 @@
+---
+title: "Pengerang Terminals Sdn Bhd Vacancies Executive, Customer Service (6-12 Months)" 
+category: Jobs 
+date: 2020-12-23 
+excerpt: "Pengerang Terminals Sdn Bhd is currently looking for suitable person to fill in the Executive, Customer Service (6-12 Months) which positioned at Johor - Others" 
+tags: [Johor - Others] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Pengerang Terminals Sdn Bhd is looking for new potential candidates to fill in for <b>Executive, Customer Service (6-12 Months)</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><div><h4>Job Description</h4></div></div><div><div><span><div><p><strong><em>Job Description:</em></strong></p><ul><li>Responsible for planning, monitor and liaise with customer, shipping agent and authorities.</li><li>Responsible to answer inquiries and handle all complaints and coordinate with other departments to ensure customer&#8217;s requests or issue are resolved.</li><li>To monitor, coordinate and plan inventory management, berth scheduling, report writing and dispute resolution and become a liaison between PTSB and customers, authorities and to ensure customer&#8217;s requirements and company objectives are meet.</li><li>To handle product stock inventory management, physical vs book stock and conduct month end report.</li><li>To plan and timing release of equipment and storage facilities for maintenance or cleaning.</li><li>To review SOP and WI every 2 years.</li></ul><p><strong><em>Skills:</em></strong></p><ul><li>Customer service orientation with good written and spoken skills.</li><li>Preferably with working knowledge on Petroleum / Petrochemicals industries.</li><li>Analytical, and good mathematical skills.</li><li>Familiarity with the storage and/or terminal business; and with good understanding of technical and operational processes, initiatives and market trends.</li><li>Able to speak good English, IT skills critical in Microsoft Office (Excel, Word and PowerPoint).</li><li>Possess strong leadership skill, pro-active and able to work independently.</li><li>Self-confidence.</li><li>Ability to relate well with people and also a good team players.</li><li>Customer focus and service oriented.</li><li>Excellent planning and organizing skill.</li><li>Able to handle fast moving and high-pressure customer facing environment.</li><li>Capable of making decision and solving issue.</li><li>Detailed, oriented analytical thinking to support budget planning and reporting.</li><li>Besides organizational competencies, also strong project management, interpersonal and communication skills.</li></ul><p><strong><em>Requirements:</em></strong></p><ul><li>Degree (Fresh Graduate) particularly in relation to engineering background OR;</li><li>Degree with 1-2 years&#8217; relevant experience, particularly in relation to Terminal tank storage activities or logistic background OR</li><li>General Education diploma with minimum 3-4 years&#8217; relevant experience OR</li><li>Operation background with more than 5 years relevant experience.</li><li>Experience in scheduling and planning in an industrial company.</li><li>Familiarity with the storage and/or terminal business; and with good understanding of technical and operational processes, initiatives and market trends.</li><li>Working knowledge of Government and Authorities requirements and ability to interact with them.</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><div><h4>Company Overview</h4></div></div><div><div><span><div><div>
+<div>
+<div><strong>Pengerang Terminals Sdn Bhd</strong> is a joint-venture company between Dialog Group Berhad and Royal Vopak. Dialog Group is a Malaysian-listed integrated specialist technical services provider in the oil, gas and petrochemical industry, while Royal Vopak is the world&#8217;s largest independent tank storage provider for bulk liquids headquartered in the Netherlands. The terminal provides storage, blending and distribution services for crude and clean petroleum products with storage capacity of 1.3 million cubic meters (cbm) . The terminal&#160; has six berths and is able to accommodate vessels of various sizes up to very large crude carriers (VLCCs).&#160;</div>
+</div>
+</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor - Others. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/executive-customer-service-6-12-months-4449788?jobId=jobstreet-my-job-4449788&sectionRank=8&token=0~20fa1cdb-e39c-40a8-b7c0-fdfdcd818445&fr=SRP%20View%20In%20New%20Ta" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 
