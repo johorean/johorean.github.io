@@ -1,0 +1,21 @@
+---
+title: "Lyreco Office Supplies (M) Sdn Bhd Vacancies DIGITAL MARKETING EXECUTIVE" 
+category: Jobs 
+date: 2020-12-24 
+excerpt: "Lyreco Office Supplies (M) Sdn Bhd is currently looking for suitable person to fill in the DIGITAL MARKETING EXECUTIVE which positioned at Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Lyreco Office Supplies (M) Sdn Bhd is looking for new potential candidates to fill in for <b>DIGITAL MARKETING EXECUTIVE</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><div><h4>Job Description</h4></div></div><div><div><span><div><p>As a Digital Marketing Executive, you are expected to ensure our digital webshop operates smoothly on the day to day basis. At Lyreco, we believes in personal empowerment, working with us is one of a life time experience as you will get your chance to utilize and realize your expertise.</p><p><strong>Duties and Expectation:</strong></p><ol><li>Manage the day to day digital marketing activities to ensure contents are scheduled and updated effectively. I.e. Social Media, Email Marketing &amp; digital campaign.</li><li>Works with Graphic Designer to improve the usability, design in relevance to our digital platforms.</li><li>Strong analytical skills are included in the package, as you will be expected to monitor, measure, and track the relevant digital platforms&#8217; performance. I.e. google analytics and google ads.</li><li>Excellent budget management in ensuring our digital budget is being utilized efficiently and intelligently.</li><li>Database management, in ensuring our database is clean and updated (CRM).</li><li>Actively engage and improvise SEO optimization, PPC, analytics tools (Google Analytics) and other digital marketing tools.</li><li>Any other tasks required by the management.</li></ol><p><strong>Qualifications and Skills</strong></p><ol><li>1 to 3 years commercial experience in Sales, Marketing and/or other e-commerce relevance field.</li><li>Excellent in analysis, presentation and communication both internally and externally.</li><li>Advance proficiency in Microsoft Office (Specifically Microsoft Excel and Microsoft Word)</li><li>Having a profound knowledge in digital marketing channels. I.e. Social media, Web, PPC, E-Marketing and more.</li><li>Highly ambitious and results driven individuals.</li><li>Ability to work under pressure in order to deliver projects according to deadlines</li><li>Excellent attention to details.</li></ol><p><strong>Why choose Lyreco?</strong></p><p>Lyreco is an international corporation with more than 42 companies across the globe. We can provide you the perfect platform for your career development, particularly in the field of digital industry in the current revolutionary market.</p><p><strong>We are different!</strong></p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><div><h4>Company Overview</h4></div></div><div><div><span><div><p>Lyreco is a worldwide distributor of workplace products, founded in 1926&#160;in the Valenciennes area of France.&#160;</p><p>Progressively, the small bookstore grew over times, from retail company expands to a office stationary solution &amp; printing service distributor producing our own paper products range.</p><p>Today, with a turnover of 2 billions &#8364; in 2017,Lyreco ranks amongst the top 3 worldwide distributors of workplace supplies solutions and is active in 42 countries on&#160;4 continents.</p><p>Our Core Values:</p><p>Passion</p><p>Respect</p><p>Excellent&#160;</p><p>Agility&#160;</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/digital-marketing-executive-4449541?jobId=jobstreet-my-job-4449541&sectionRank=22&token=0~382e1886-09e9-4808-bfaf-efe98b7a7964&fr=SRP%20View%20In%20New%20Ta" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 

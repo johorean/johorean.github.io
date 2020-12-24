@@ -1,0 +1,21 @@
+---
+title: "Fastenal Malaysia Sdn Bhd Vacancies MATERIAL CERTIFICATION SUPPORT (PART-TIME )" 
+category: Jobs 
+date: 2020-12-24 
+excerpt: "Fastenal Malaysia Sdn Bhd is currently looking for suitable person to fill in the MATERIAL CERTIFICATION SUPPORT (PART-TIME ) which positioned at Johor - Others" 
+tags: [Johor - Others] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Fastenal Malaysia Sdn Bhd is looking for new potential candidates to fill in for <b>MATERIAL CERTIFICATION SUPPORT (PART-TIME )</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><div><h4>Job Description</h4></div></div><div><div><span><div><p><strong>MATERIAL CERTIFICATION SUPPORT&#160;</strong></p><p><strong>Working Hours : Monday thru Friday between (8.00am-5.00pm &amp;3.00pm-11.00pm)</strong></p><p><strong>Salary : RM10 / Hour</strong></p><p><strong>Type : Part-Time Employment&#160;</strong></p><p><strong>Job Description :</strong></p><ul><li>Saving MTR (Material Test Report ) to Fastenal database.</li><li>Checking and Review Quality of MTR.</li><li>Request MTR from vendor or supplier.</li><li>Create COC (Certificate of Conformance ) on product .</li></ul><p><strong>Requirement :</strong></p><ul><li>Candidate must possess at least SPM, Pre-University, Certification, Diploma or Degree in any engineering field or equivalent are welcome to apply.</li><li>Fresh graduate or Minimum 1 year working experience (Experience in fasteners industry is an added advantages)</li><li>Must have good verbal and written English communication</li><li>Proficient with: Microsoft Excel and Word&#160;</li><li>Have own transportation and willing to work at ISKANDAR PUTERI</li><li>Fresh graduate are MOST welcome to apply .Fastenal creates opportunity for part-timer employee to work as permanent worker ,based on the employee performance .</li><li>Work area : position designated for working on the office only .</li><li>Able to start immediately</li></ul><p><strong>Benefits:</strong></p><ul><li>Annual Leave (AL) provided</li><li>Sick Leave provided</li></ul><p><strong>Supervision Received :&#160;</strong></p><p>The person reports to SEA Engineer at Fastenal&#160;Southeast&#160;Asia Johor Offic</p><p>Note:</p><p>&#8226; This job description is intended to convey information essential to understanding the scope of the job and the general nature and level of work performed by job holder within this job. But, this job description is not intended to be an exhaustive list of qualifications, skills, efforts, duties, responsibilities or working conditions associated with the position. Employee may perform other related duties as negotiated to meet the ongoing needs of the organization.</p><p>&#8226; Probation period of 6 months will be applied. Limited benefits will be provided during the time.</p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><div><h4>Company Overview</h4></div></div><div><div><span><div><p>ABOUT US:</p><p>Since 1967 Fastenal has grown as a distributor of industrial and construction supplies from a single branch to approximately 3,000 servicing locations, each providing tailored local inventory and personal service for our customers. As we've expanded across the world, we've retained a core belief in people and their ability to accomplish remarkable things - if given the opportunity. From this philosophy stems an entrepreneurial culture that challenges every employee to run their own business, create their own success, and advance to become company leaders.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor - Others. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/material-certification-support-part-time-4450183?jobId=jobstreet-my-job-4450183&sectionRank=5&token=0~382e1886-09e9-4808-bfaf-efe98b7a7964&fr=SRP%20View%20In%20New%20Ta" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 
