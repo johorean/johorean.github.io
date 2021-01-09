@@ -16,7 +16,7 @@ Job Title : **Assistant Manager, Emergency and Crisis Management**<br/>
 Department/Division : Emergency and Crisis Management Department<br/>
 Company : Pelabuhan Tanjung Pelepas Sdn. Bhd.<br/>
 Location : Gelang Patah, Johor D.T.<br/>
-
+{% include link-adsense.html %} 
 ### JOB DESCRIPTION
 1. Learning and Devetopment
 - Plan annual initiatives and training programs.
@@ -42,6 +42,8 @@ Responsible to execute as below deliverables:
 -  To execute emergency, respond planning activity.
 -  To execute Inspection Testing and Maintenance.
 -  Program for Operational Equipment and vehicles.
+
+{% include 300-adsense.html %} 
 
 ### REQUIREMENT
 Minimum of 5 years of service with any emergency response organization such as Fire and Rescue Department
