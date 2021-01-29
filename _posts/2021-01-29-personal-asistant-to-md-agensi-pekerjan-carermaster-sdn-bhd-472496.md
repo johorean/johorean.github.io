@@ -1,0 +1,21 @@
+---
+title: "Agensi Pekerjaan CareerMaster Sdn Bhd Vacancies Personal Assistant to MD" 
+category: Jobs 
+date: 2021-01-29 
+excerpt: "Agensi Pekerjaan CareerMaster Sdn Bhd is currently looking for suitable person to fill in the Personal Assistant to MD which positioned at Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Agensi Pekerjaan CareerMaster Sdn Bhd is looking for new potential candidates to fill in for <b>Personal Assistant to MD</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><div><strong>JOB RESPONSIBILITIES:</strong></div><ul><li>To perform secretarial and general administrative duties including screening of calls, managing MD mails/emails, maintain filling system, minutes of meeting, update of records, prepare of letters and /or report, travelling and accommodation arrangement and any related duties</li><li>Help executives run an organization or company smoothly.</li><li>Prepare statistical reports, create presentations, conduct research, review memos and reports, compose correspondence, make travel arrangements and arrange conference calls and meetings.</li><li>Perform general office duties such as organizing and maintaining files, answering phones, purchasing supplies and operating office equipment</li></ul><div><strong>JOB REQUIREMENTS:</strong></div><ul><li>Diploma in Business Admin/Management or equivalent</li><li>Speak fluently in English, Bahasa Malaysia and Mandarin</li><li>Must possess own transport &amp; willing to travel</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div><div><strong>CAREERMASTER's&#160;</strong><strong>V</strong><strong>ision</strong></div><ul><li><strong>To Be The Top Choice in Human Capital Solutions across South East Asia.</strong></li></ul><div><strong>CAREERMASTER's Mission</strong></div><ul><li><strong>Empowering Businesses, Enriching Lives through Dynamic &amp; Zealous connections.</strong></li></ul><div>Today, <strong>CareerMaster</strong> represents clients from Home grown (local) companies to large Multinational Organizations across all industries&#160;and specializations. Our large customer base is a strong testimony of our high level of quality and committed services to our customers.</div><div>At the core of <strong>CareerMaster </strong>is a team of dedicated consultants who&#160;possesses experiences with the ability&#160;to understand clients&#8217; business, equipped with the knowledge base to qualify and perfectly match candidates effectively according to clients&#8217; requirements and ensuring that staffing needs are met on time with confidentiality.&#160;</div><div>Location: <strong>Johor.</strong>Client's Profile:<ul><li><strong>Leading Malaysian precast concrete service provider.</strong></li></ul><div>Working Days: <strong>5</strong></div><br>Attractive Benefits Include:<ul><li><strong>Fixed Basic</strong></li><li><strong>Annual Bonus</strong></li><li><strong>Annual Increment</strong></li><li><strong>Insurance Coverage</strong></li><li><strong>Career prospects in High Profile &amp; Multi National Environment</strong></li><li><strong>Friendly, well-organized, systematic, high-technology environment to work in.</strong></li></ul><div>Interested candidates, kindly forward your updated resume in Microsoft format to<strong> jess@careermaster.com.my</strong><div><strong>Shortlisted candidates will be notified.</strong></div><strong>Agensi Pekerjaan Careermaster Sdn Bhd (JTKSM 578A)</strong><br>For further information, kindly call <strong>Tel: 607 &#8211; 3535 294</strong></div></div></div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/personal-assistant-to-md-4472496?jobId=jobstreet-my-job-4472496&sectionRank=24&token=0~f9d6ce33-3a8d-449d-9f1d-cd6167f84a81&fr=SRP%20View%20In%20New%20Ta" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 
