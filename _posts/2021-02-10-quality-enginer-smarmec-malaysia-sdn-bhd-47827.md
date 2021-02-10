@@ -1,0 +1,23 @@
+---
+title: "SMARMEC MALAYSIA SDN BHD Vacancies Quality Engineer" 
+category: Jobs 
+date: 2021-02-10 
+excerpt: "SMARMEC MALAYSIA SDN BHD is currently looking for suitable person to fill in the Quality Engineer which based in Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>SMARMEC MALAYSIA SDN BHD is looking for new potential candidates to fill in for <b>Quality Engineer</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Quality Engineer</strong>|SMARMEC MALAYSIA SDN. BHD.</p><p><strong>About SMARMEC VELATIA</strong></p><p>Smarmec is the result of specialization, innovation and customer orientation of more than&#160;<strong>30 years of experience</strong>&#160;in the world of light metal fabrication and integration, coupled with engineering capacity, dedication to the customer and specialization in small and medium series.</p><p><strong>About the role</strong></p><p>The QA Engineer is responsible for quality assurance of the products, in-process and outgoing process control. The engineer also will be handle ISO 9001: 2015 documentations and as a Document Controller. He/ She will be report to QA HOD.</p><p><strong>Job Responsibilities</strong></p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;To assist QA HOD, in ensuring smooth operation &#160;in QA department</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;Ability to perform process audits throughout internal plant and supplier site</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;Generate, review, update and maintain all the documentation and records of ISO 9001:2015</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;Coordinate in-house quality related training to QA/Production staff</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;Develop Inspection Plan and monitoring format for QA measurement (including prepare program in CMM machine for new program)</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;Prepare and review FAI Report</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;Close monitor on calibration expiry date for inhouse and external calibration based on masterlist and keep the calibration certificate</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;Any other job responsibilities assigned by the supervisor as and when required</p><p><strong>Location &amp; commitments</strong></p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;Full-time</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;08:30AM &#8211; 17.30PM</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;Taman Teknologi Johor, Senai Johor Malaysia</p><p><strong>Candidate Requirements</strong></p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;<strong>Diploma/ Degree in Engineering or any related filed</strong></p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;<strong>Preferable with 2 or 3 years of working experience in QA department</strong></p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;A team player, proactive, high initiative and able to work in minimum supervise</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;Possess good communication and problem solving skill</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;<strong>Able to read technical drawing and have knowledge in GD&amp;T. Able to do program in CMM machine will be an advantage</strong></p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;<strong>Familiar with ISO 9001 and handle Document Control related matter</strong></p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;Candidate with certificate internal auditor ISO 9001: 2015 will be an advantage</p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div><strong>Smarmec</strong>&#160;is a company specializing in the&#160;<strong>design</strong>,&#160;<strong>industrialization</strong>&#160;and manufacture of solutions for mechanical, electrical and&#160;<strong>electronic engineering</strong>.<br>
+<br>
+We are experts in joining technologies and cosmetic finishes and have proven experience in the manufacture of unique solutions,&#160;<strong>prototypes and small series</strong>, providing added value in technologically advanced differential processes.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/quality-engineer-4478277?jobId=jobstreet-my-job-4478277&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 
