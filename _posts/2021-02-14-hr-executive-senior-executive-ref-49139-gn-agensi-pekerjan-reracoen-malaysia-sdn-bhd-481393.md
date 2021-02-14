@@ -1,0 +1,21 @@
+---
+title: "Agensi Pekerjaan Reeracoen Malaysia Sdn Bhd Vacancies HR Executive ~ Senior Executive [Ref 49139] GN" 
+category: Jobs 
+date: 2021-02-14 
+excerpt: "Agensi Pekerjaan Reeracoen Malaysia Sdn Bhd is currently looking for suitable person to fill in the HR Executive ~ Senior Executive [Ref 49139] GN which based in Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Agensi Pekerjaan Reeracoen Malaysia Sdn Bhd is looking for new potential candidates to fill in for <b>HR Executive ~ Senior Executive [Ref 49139] GN</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><div>Job Summary</div><div>- Manpower planning to allocate sufficient operator to production line based on production schedule<br>- Handle foreign worker including renew worker permit, apply new foreign worker<br>- Monthly payroll for office and production<br>- Apply employment pass / dependent pass for foreign staff<br>- Compile monthly purchase summary &amp; submit to account department<br>- Liaise with government authorities&#160;<br>- Purchase indirect items include stationery , Office equipment , safety PPE, computer part, etc.<br>- Taking care foreign worker hostel<br>- Perform other related duties and responsibilities as assigned by superior from time to time.</div><div>Requirements:&#160;</div><div>- Education Background : Possess at least a Bachelor's Degree, Post Graduate Diploma, Professional Degree, Master's Degree in Human Resource study or any related study<br>- Experience : 3 ~ 5 years of full spectrum HR working experience in manufacturing line</div></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>REERACOEN&#12399;&#26085;&#26412;&#12391;&#26368;&#12418;&#25104;&#38263;&#12375;&#12390;&#12356;&#12427;&#20154;&#26448;&#20250;&#31038;&#12493;&#12458;&#12461;&#12515;&#12522;&#12450;&#12464;&#12523;&#12540;&#12503;&#12398;&#12510;&#12524;&#12540;&#12471;&#12450;&#27861;&#20154;&#12391;&#12377;&#12290;<br>&#12450;&#12472;&#12450;&#12391;22&#25312;&#28857;&#12391;&#23637;&#38283;&#12434;&#12375;&#12390;&#12362;&#12426;&#12289;&#26085;&#31995;&#12398;&#20154;&#26448;&#20250;&#31038;&#12392;&#12375;&#12390;&#12399;&#26368;&#22823;&#32026;&#12398;&#35215;&#27169;&#12434;&#35463;&#12426;&#12414;&#12377;&#12290;<br>&#22311;&#20498;&#30340;&#12394;&#38750;&#20844;&#38283;&#27714;&#20154;&#12434;&#20445;&#26377;&#12375;&#12390;&#12356;&#12427;&#12398;&#12392;&#12289;&#12473;&#12500;&#12540;&#12489;&#23550;&#24540;&#12364;&#31169;&#36948;&#12398;&#24375;&#12415;&#12391;&#12377;&#12290;<br>&#38263;&#26399;&#30340;&#12394;&#12461;&#12515;&#12522;&#12450;&#12434;&#24418;&#25104;&#12375;&#12390;&#12356;&#12367;&#20013;&#12391;&#12289;&#12354;&#12394;&#12383;&#12398;&#19968;&#30058;&#12398;&#12497;&#12540;&#12488;&#12490;&#12540;&#12434;&#30446;&#25351;&#12375;&#12383;&#12356;&#12392;&#24605;&#12387;&#12390;&#12356;&#12414;&#12377;&#12290;</div><div>REERACOEN is subsidiary of top growing HR company, Neo Career Group in Japan.</div><div>There are 22 branches established around Asia, as one of first-class Japanese HR company.</div><div>Our strength is speed and we possess overwhelming number of exclusive job vacancies which do not posted in public.</div><div>We are ready and happy to assist/support you in your long term career advancement.</div><div><strong>Company Website:&#160;https://www.reeracoen.com.my/</strong></div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/hr-executive-~-senior-executive-[ref-49139]-gn-4481393?jobId=jobstreet-my-job-4481393&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 
