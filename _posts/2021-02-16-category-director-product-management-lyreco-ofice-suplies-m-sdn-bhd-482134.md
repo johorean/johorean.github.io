@@ -1,0 +1,21 @@
+---
+title: "Lyreco Office Supplies (M) Sdn Bhd Vacancies Category Director (Product Management)" 
+category: Jobs 
+date: 2021-02-16 
+excerpt: "Lyreco Office Supplies (M) Sdn Bhd is currently looking for suitable person to fill in the Category Director (Product Management) which based in Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Lyreco Office Supplies (M) Sdn Bhd is looking for new potential candidates to fill in for <b>Category Director (Product Management)</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><ul><li><strong>Product:</strong> Develop Category Strategies and new product evolution in an e-commerce/reseller role.</li><li>Maintaining agile product listing &amp; managing finished product suppliers.</li><li>Develop product and supplier policies in an e-commerce/reseller role.</li><li>Conduct suppliers and product sourcing locally and internationally.</li><li>Leading and manage the negotiations of product cost, monthly promotion, Back End Program, annual catalog with suppliers.</li><li>Develop and manage product assortment/selection and market research.</li><li><strong>Pricing: </strong>Establish and manage the planning for product selection, catalogue production and set pricing for products.</li><li>Initiate promotional programs for Omini-channel, website, sales force and customer service.</li><li>Participate in the co-ordination of international Group Marketing for leverage re purchasing power and margin improvement.</li><li><strong>Place &amp; Promotion:</strong> Manage &amp; maintain corporate and e-commerce website product and content.</li><li>Lead &amp; manage Omini channel communication and promotion, Paper DM, catalog, eDM, social media, PR.</li><li><strong>People:</strong> Manage the team, set the objectives and monitor the achievements.</li><li>Establish the marketing plans (promotions, product range development, meeting objectives for margin and growth at Product Manager level).&#160;</li><li>Set team&#8217;s objectives for supplier contributions, End-of-Year Bonus and promotional budgets and ensure the necessary resources to achieve them.</li><li>Develop and manage departmental operational budget</li></ul><ul><li>Preferably with a university degree in business discipline.&#160;</li><li>At least 5 years of experience in sales and marketing.</li><li>Experience in an e-commerce/reseller for thousands of SKU environment.</li><li>Dynamic, analytic, organize and ability to meet tight dateline</li><li>Fluent in English. (Mandarin is a plus)</li><li>Good negotiation, organization and interpersonal skills.</li><li>Highly proficient in MS Office. E-commerce experience is added advantage</li><li>A team player and a leader.</li><li>This position internally known as Product Marketing Director</li><li>This position is only open to candidate who is eligible to work in Malaysia without permit requirement</li></ul><p>Only shortlisted candidate will be contacted by the hiring team.</p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>Lyreco is a worldwide distributor of workplace products, founded in 1926&#160;in the Valenciennes area of France.&#160;</p><p>Progressively, the small bookstore grew over times, from retail company expands to a office stationary solution &amp; printing service distributor producing our own paper products range.</p><p>Today, with a turnover of 2 billions &#8364; in 2017,Lyreco ranks amongst the top 3 worldwide distributors of workplace supplies solutions and is active in 42 countries on&#160;4 continents.</p><p>Our Core Values:</p><p>Passion</p><p>Respect</p><p>Excellent&#160;</p><p>Agility&#160;</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/category-director-product-management-4482134?jobId=jobstreet-my-job-4482134&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 
