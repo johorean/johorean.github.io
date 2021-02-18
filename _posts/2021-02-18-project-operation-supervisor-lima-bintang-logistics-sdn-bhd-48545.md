@@ -1,0 +1,21 @@
+---
+title: "Lima Bintang Logistics Sdn Bhd Vacancies Project Operation Supervisor" 
+category: Jobs 
+date: 2021-02-18 
+excerpt: "Lima Bintang Logistics Sdn Bhd is currently looking for suitable person to fill in the Project Operation Supervisor which based in Johor - Others" 
+tags: [Johor - Others] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Lima Bintang Logistics Sdn Bhd is looking for new potential candidates to fill in for <b>Project Operation Supervisor</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Project Operation Supervisor</strong></p><p><strong>Senai, Johor</strong></p><p>We are looking for an experienced operations supervisor to help us implement the right processes across the company and enable business growth. You&#8217;ll assess our departments&#8217; operational methods and propose ways to improve them.</p><p><strong>What does a Project Operation Supervisor job description include?</strong></p><ul><li>Oversee efficiency of operational processes</li><li>Participate in strategic planning and goal-setting for various business functions</li><li>Research methods to improve operations and reduce costs</li><li>Monitor and report on department performance</li><li>Supervise and train employees</li><li>Monthly checking, greasing all the types of equipment include hose, connector, etc</li><li>Ensure compliance with company policies and regulation</li></ul><p><strong>Key skills and qualifications of a Project Operation Supervisor:</strong></p><ul><li>Candidate must possess at least SPM</li><li>At least 5 years of working experience in the related field is required for this position and specialised in the logistics/transportation industry is an added advantage</li><li>Possess knowledge of Rigging &amp; slinging is an added advantage</li><li>Team leadership</li><li>Good communication skills, spoken and written in English and Bahasa Melayu</li><li>Good active listening, interpersonal, negotiation, and presentation skills</li></ul><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Adept with Microsoft Office Suite (Outlook, Excel, Word, etc.)</p><ul><li>Possess an international passport and own transport (motorcar)</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>Lima Bintang Logistics&#160;was founded with the purpose of Making Every Delivery Safe For People.</p><p>Since our founding in 2001, LBL has grown tremendously. From offering general transportation we now offer fully integrated logistics solutions and services&#8212;including public bonded warehouse, heavylifting and heavy transportation services, LMW consultancy and compliance services, chemical and dangerous cargo logistics, marine and offshore logistics, container haulage and international freight forwarding. And starting from 20 employees in small town Kota Tinggi,Johor, we now have more than 200 employees and drivers and 7 offices in Malaysia and Singapore. A lot has changed since the first LBL truck appeared. But some things haven&#8217;t changed: our commitment and our belief in delivering our purpose of " Making Every Delivery Safe For People".</p><p>We are expanding in line with rapid growth of the Company. If you are keen and interested with being part of member in realizing LBL purpose, possess the right attitude and willing to shape the future of Malaysia Logistics safety performance. We welcome you to be part of Lima Bintang team!</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor - Others. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/project-operation-supervisor-4485455?jobId=jobstreet-my-job-4485455&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 
