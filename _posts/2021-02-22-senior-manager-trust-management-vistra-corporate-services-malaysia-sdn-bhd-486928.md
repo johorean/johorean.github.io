@@ -1,0 +1,21 @@
+---
+title: "Vistra Corporate Services (Malaysia) Sdn Bhd Vacancies Senior Manager, Trust Management" 
+category: Jobs 
+date: 2021-02-22 
+excerpt: "Vistra Corporate Services (Malaysia) Sdn Bhd is currently looking for suitable person to fill in the Senior Manager, Trust Management which based in Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Vistra Corporate Services (Malaysia) Sdn Bhd is looking for new potential candidates to fill in for <b>Senior Manager, Trust Management</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Key Responsibilities</strong></p><ul><li>Acting as deputy head of the Trust Operations Support Department</li><li>Manages and supervise the operations of the trust, including fiduciary and transaction reviews, and trust accounting</li><li>Review and comment on trust deeds, supplemental deeds, agreements, and other legal documents to ensure the Trustees&#8217; legal rights are fully protected</li><li>Deal with complex matters with multiple internal stakeholders</li><li>Provide clarification on legal language or specifications to the Singapore and Hong Kong Trust Management team</li><li>Conduct regular review, analysis, and reporting of business performance, including designing and implementation of operational systems to streamline operations</li><li>Comply with the Group&#8217;s internal control and audit standards</li><li>Manage ad hoc projects</li></ul><p><strong>Attributes/ Technical Skills</strong></p><ul><li>Develop and maintain technical knowledge of trust and corporate structures</li><li>Develop and maintain current knowledge of alterations in trust legislations</li><li>Detail-oriented able to work with minimum supervision in a fast-paced environment</li><li>Strong leadership skills and have experience in leading teams.</li><li>Strong work ethic; professional and approachable</li><li>Able to multitask and is meticulous</li><li>Inquisitive and self-motivated</li><li>Strong knowledge of the regulatory and compliance regime</li><li>Excellent communication skills</li></ul><p><strong>Relevant Experience</strong></p><ul><li>Possess at least 5 years of trust experience or applicable trust administration experience</li><li>Possess knowledge and understanding of trust and corporate law and procedures</li><li>Educated to degree level or equivalent professional qualification in law, equity, and trusts</li><li>STEP Diploma qualification would be an advantage</li><li>Candidates with conveyancing experience are encouraged to apply.</li></ul><p><strong>Computer Skills</strong></p><ul><li>Proficient user of Microsoft Packages including Powerpoint, Excel, and Word</li></ul><p><strong>Languages</strong></p><ul><li>English</li><li>Mandarin language proficiency will be an advantage</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div><strong>Vistra Malaysia</strong> is a global independent provider of trust, fiduciary, corporate and fund services delivering personal and tailored solutions to international corporations, institutional investors and high net worth individuals and their families. With over 2500 professionals globally, we provide a full range of corporate, trust and business services solutions with a specialization of company formation in 42 premier jurisdictions to our valued clients. As a unique player in the industry with a truly balanced geographic spread, we are now seeking passionate individuals to join our expanding business.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/senior-manager-trust-management-4486928?jobId=jobstreet-my-job-4486928&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
