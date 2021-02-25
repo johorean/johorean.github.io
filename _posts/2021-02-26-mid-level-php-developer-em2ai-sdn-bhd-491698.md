@@ -1,0 +1,21 @@
+---
+title: "EM2Ai Sdn Bhd Vacancies Mid-Level PHP Developer" 
+category: Jobs 
+date: 2021-02-26 
+excerpt: "EM2Ai Sdn Bhd is currently looking for suitable person to fill in the Mid-Level PHP Developer which based in Johor, Subang Jaya" 
+tags: [Johor, Subang Jaya] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>EM2Ai Sdn Bhd is looking for new potential candidates to fill in for <b>Mid-Level PHP Developer</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p>We are looking for a <strong>PHP developer</strong> to join our dynamic company with a mission to inspire ethical healthcare. We are a company that seeks to provide comprehensive dental healthcare services in Asia Pacific, equipping everymen with treatment plan knowledge through the use of technology. Candidate should be passionate about <strong>technology and building sustainable web and mobile solutions</strong> that are integrated into our healthcare ecosystem. Candidate should be a team player who <strong>recommends and proposes solutions</strong> in our integrated ecosystem. In this position, candidate will <strong>develop PHP web application</strong> for our enterprise-class solutions. An organized, detail-oriented work ethic is a must.</p><p><strong>You will play an important role in:</strong></p><ul><li><strong>Designing, developing, debugging and supporting</strong>&#160;web applications and their infrastructure.</li><li>Producing materials to&#160;<strong>support technical documentations</strong>, including code documentations.</li><li><strong>Creating technical design documents</strong>&#160;from business and technical requirements, and describe levels of effort involved.</li><li><strong>Handling integration</strong>&#160;of user-facing elements developed by front-end developers.</li><li>Experience in supervised learning AI models is a plus.</li><li>Understanding the dynamics and practices in<strong>working with development environment versus a production environment</strong>.</li><li>Must have an&#160;<strong>acute awareness for security and breaches</strong>&#160;in the application development.<strong>&#160;</strong></li></ul><p><strong>To be successful in this role, you will need to have:</strong></p><ul><li><strong>Strong knowledge of PHP</strong>&#160;web frameworks such as Laravel framework and MySql.</li><li><strong>3 - 5&#160;years of experience in PHP coding</strong>.</li><li>Understanding of&#160;the full synchronous behavior of PHP, MVC design patterns.</li><li>Ability to&#160;<strong>troubleshoot, test and maintain</strong>&#160;the core product software and databases to ensure strong optimization and functionality.</li><li>Understanding of machine interface technologies like <strong>XML, JSON and REST API&#8217;s.</strong></li><li>At least&#160;<strong>basic familiarity with at least 1 of the large cloud hosting</strong>&#160;ecosystems (AWS, Azure, CenturyLink, etc).</li><li>Familiarity with&#160;<strong>SQL/NoSQL databases</strong>&#160;and their declarative query languages.&#160;</li></ul><p>Applicants who are interested in this role are invited to apply with their comprehensive resume, stating their current and expected salary via "Apply Now" button.</p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>EM2Ai Sdn Bhd is an IT solution start-up company specializing in artificial intelligence and healthcare software for the dental industry. Our ultimate aim is to improve patients&#8217; health and health administration through intelligent, advance and cost effective technologies.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor, Subang Jaya. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/mid-level-php-developer-4491698?jobId=jobstreet-my-job-4491698&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
