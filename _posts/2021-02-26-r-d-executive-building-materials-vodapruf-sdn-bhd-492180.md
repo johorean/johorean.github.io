@@ -1,0 +1,21 @@
+---
+title: "Vodapruf Sdn Bhd Vacancies R&D Executive (Building Materials)" 
+category: Jobs 
+date: 2021-02-26 
+excerpt: "Vodapruf Sdn Bhd is currently looking for suitable person to fill in the R&D Executive (Building Materials) which based in Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Vodapruf Sdn Bhd is looking for new potential candidates to fill in for <b>R&D Executive (Building Materials)</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Job description:</strong></p><p>- PRODUCT FORMULATION IMPROVEMENT. Assist to adjust and develop product formulations according to customer needs, change in raw material quality, availability, or price. Regular contact with the raw material suppliers to ensure the best solution is derived for product usage. Also to ensure operation quality is well controlled, and optimize it as and when necessary with cost-saving in mind as the final objective.</p><p>- MACHINERY AUTOMATION. Assist in research, evaluate and design in machine and equipment from China and Western supplier and compare the advantages. To in-depth understand current machinery operation detail, and collaborate with the supplier to fully automate all procedures to save cost.</p><p>- OPERATION ENHANCEMENT. Assist in overseeing the entire development process of new or existing products or materials, from the initial planning phase to implementation of production. The scope shall include worker training, improvement in the standard operating procedure to streamline and save cost. The scope will also involve the assisting of a regular ongoing factory expansion plan.</p><p><strong>Requirement:</strong></p><p>- Candidate shall possess above-average critical thinking and problem-solving skills. Must be able to analyze and examine to find the best solutions in various situations</p><p>- Strong multi-tasking work skills and able to pick up knowledge and understanding in different fields of application which includes chemical, mechanical, people management and business operation management.</p><p>- Candidate must possess at least Bachelor's Degree, and preferably a Master or Doctorate in any subject.</p><p>- At least 3 Year(s) of working experience in engineering or science-related fields.</p><p>- Extremely passionate, and able to work fast and effectively as will be directly reporting to the company managing director.</p><p><strong>Company website: www.vodapruf.com</strong></p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>VODAPRUF was founded in Year2103, focus on the manufacturing of LIGHTHERM (Lightweight Concrete), and in recent year branched into the manufacturing of Vpanal (ALC Panel).</p><p>Corporate vision to be a global leader in precast wall/block manufacturing through product customizer &amp; chemical technology advancement.</p><p>We are a company focused on talent development to help build our expanding business and we believe all employees are our strongest assets lead to our success, we are seeking for dynamic, dedicated and self-motivated candidates for the following position.</p><p>In line with our business expansion strategy, we are keen to add aggressive and goal orientated personals into our organisation. Individuals whom are go-getter and with dynamic personality are welcomed to be part of our ever growing member.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/r-d-executive-building-materials-4492180?jobId=jobstreet-my-job-4492180&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
