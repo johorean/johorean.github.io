@@ -1,0 +1,21 @@
+---
+title: "Tidy Group of Companies - Tidy Locks & Fittings Sdn. Bhd. Vacancies Personal Assistant to Group CEO (PA)" 
+category: Jobs 
+date: 2021-03-02 
+excerpt: "Tidy Group of Companies - Tidy Locks & Fittings Sdn. Bhd. is currently looking for suitable person to fill in the Personal Assistant to Group CEO (PA) which based in Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Tidy Group of Companies - Tidy Locks & Fittings Sdn. Bhd. is looking for new potential candidates to fill in for <b>Personal Assistant to Group CEO (PA)</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Job Responsibilities</strong></p><ul><li>To co-ordinate and follow up on work status both internally and externally on behalf of CEO</li><li>To handle corporate development project, includes research and fact finding. Follow attainable project timeline and keep teams on task complete milestones according to schedule</li><li>To ensure accuracy of all submission to CEO office</li><li>Committee member of Internal Audit committee.</li><li>Maintain appointment schedule by planning and scheduling meetings, conferences, teleconferences and travel.</li><li>Prepare reminders, minutes, reports, memos, letters and any other administrative support when required.</li><li>Arrange itinerary for Group CEO.</li><li>Devise and maintain an organized filing system for all documents.</li><li>Maintain strict confidentially and interact professionally with all levels of management, staff and business associates and clients.</li><li>Other comprehensive, ad hoc duties as assigned</li></ul><p><strong>Job Requirements</strong></p><ul><li>Candidate must possess at least Diploma/Advanced/Higher/Graduate Diploma in Secretarial or equivalent.</li><li>Excellence management skills and ability to schedule priorities efficiently.</li><li>People-oriented and result-oriented personality.</li><li>Resourceful, good problem-solving skill, proactive and take initiative.</li><li>At least 5 Year(s) of working experience in the related field is required for this position.</li><li>Preferably Manager specialized in Secretarial/Executive &amp; Personal Assistant or equivalent.</li><li>Computer literate with good knowledge in Microsoft Office.</li><li>Professional discretion and trustworthy.</li><li>Good oral and written skills.</li><li>Required language(s): Fluent in English (Must), Bahasa Malaysia, Mandarin.</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>The success of Tidy Group was sparked off by the incorporation of Tak Lee Trading in 1982 under the sole proprietorship of Mr. Lim Kee Tan, in trading furniture hardware, fittings and accessories.</p><p>Today, Tidy Group, fortified with its own factories and affiliates companies, is a far cry from its small beginnings as a trading company. The Group has not only successfully built its strength in establishing an active sales network throughout Malaysia; but its products are currently present in the global markets. Through the support of a competent management team backed by their vast industry experiences, both in Malaysia and China,</p><p>Tidy Group takes pride in its capability to expand and offer an extensive range of products from internationally recognized brands to serve the needs of the local market : -</p><p>Furniture locks, fittings, hardware and accessories Electronic locks and accessories Drawer runner systems</p><p>Wet tissues, non-woven fabric and sofa accessories</p><p>In Tidy, customers often regarded us as their reliable and strategic business partner for their business.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/personal-assistant-to-group-ceo-pa-4494195?jobId=jobstreet-my-job-4494195&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
