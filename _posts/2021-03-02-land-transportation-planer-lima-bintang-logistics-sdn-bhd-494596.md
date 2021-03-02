@@ -1,0 +1,21 @@
+---
+title: "Lima Bintang Logistics Sdn Bhd Vacancies Land Transportation Planner" 
+category: Jobs 
+date: 2021-03-02 
+excerpt: "Lima Bintang Logistics Sdn Bhd is currently looking for suitable person to fill in the Land Transportation Planner which based in Johor - Others" 
+tags: [Johor - Others] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Lima Bintang Logistics Sdn Bhd is looking for new potential candidates to fill in for <b>Land Transportation Planner</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Land Transportation Planner</strong></p><p><strong>Senai, Johor</strong></p><p><strong>We are looking for an experienced Land Transportation Planner to monitor the awarded shipment according to the plan in achieving on-time delivery and ZERO (0) failure towards customer satisfaction &amp; requirements.</strong></p><p><strong>What does a Land Transportation Planner</strong> <strong>job description include?</strong></p><p>1.&#160;&#160;&#160;&#160;&#160;Monitor the overall performance of the operation plan by acknowledging the customer requirements from the Customer Service Unit.</p><p>2.&#160;&#160;&#160;&#160;&#160;Engage with Customer Service &amp; Marketing Units to demand orders in utilizing the trucks.</p><p>3.&#160;&#160;&#160;&#160;&#160;Analyse the oriented results or data gained from the operation performance.</p><p>4.&#160;&#160;&#160;&#160;&#160;Comply with the Leadership training towards the subordinates &amp; instructions by the Superior.</p><p><strong>Key skills and qualifications of a Land Transportation Planner:</strong></p><ul><li>Candidate must possess at least Diploma</li><li>At least 3 years of working experience in the related field is required for this position and specialised in the logistics/transportation industry</li><li>Excellent knowledge of ISO</li><li>Good team leadership</li><li>Good communication skills, spoken and written in English and Bahasa Melayu</li><li>Good active listening, interpersonal, negotiation, and presentation skills</li><li>Adept with Microsoft Office Suite (Outlook, Excel, Word, etc.)</li><li>Possess an international passport and own transport (motorcar)</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>Lima Bintang Logistics&#160;was founded with the purpose of Making Every Delivery Safe For People.</p><p>Since our founding in 2001, LBL has grown tremendously. From offering general transportation we now offer fully integrated logistics solutions and services&#8212;including public bonded warehouse, heavylifting and heavy transportation services, LMW consultancy and compliance services, chemical and dangerous cargo logistics, marine and offshore logistics, container haulage and international freight forwarding. And starting from 20 employees in small town Kota Tinggi,Johor, we now have more than 200 employees and drivers and 7 offices in Malaysia and Singapore. A lot has changed since the first LBL truck appeared. But some things haven&#8217;t changed: our commitment and our belief in delivering our purpose of " Making Every Delivery Safe For People".</p><p>We are expanding in line with rapid growth of the Company. If you are keen and interested with being part of member in realizing LBL purpose, possess the right attitude and willing to shape the future of Malaysia Logistics safety performance. We welcome you to be part of Lima Bintang team!</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor - Others. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/land-transportation-planner-4494596?jobId=jobstreet-my-job-4494596&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
