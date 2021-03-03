@@ -1,0 +1,21 @@
+---
+title: "Cape EMS Manufacturing (M) Sdn Bhd Vacancies WAREHOUSE SUPERVISOR" 
+category: Jobs 
+date: 2021-03-03 
+excerpt: "Cape EMS Manufacturing (M) Sdn Bhd is currently looking for suitable person to fill in the WAREHOUSE SUPERVISOR which based in Johor - Others" 
+tags: [Johor - Others] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Cape EMS Manufacturing (M) Sdn Bhd is looking for new potential candidates to fill in for <b>WAREHOUSE SUPERVISOR</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p>1) Plan, organize, supervise, and participate in daily warehouse operation and activities, including the receipt, documentation, storage, safety and distribution of equipment and supplies and maintenance of inventory.</p><p>2)&#160;Train, supervise and evaluate the performance of assigned warehouse employees assign workloads to warehouse workers.</p><p>3) Receive, unpack, pack, load, issue, store and deliver materials, textbooks, supplies or equipment; complete packing slips for shipments as assigned.</p><p>4) Route, schedule, pack and prepare orders for delivery; load vehicles; schedule and oversee deliveries and pick-ups.</p><p>5) Supervise the processing of requisitions and requests to invoice for reimbursements of warehouse codes; complete requisitions for needed materials to assure adequate stock levels.</p><p>6) Prepare and maintain a variety of records and logs and prepare reports as required; maintain inventory of items in the warehouse; file records as required; supervise the assembly of inventory printouts and catalogs as required.</p><p>7)&#160;Monitor automated warehousing system; operate a computer to enter data, correct errors and control key screens as required.</p><p>8) Operate and demonstrate use of specialized warehouse equipment as necessary; assure proper and routine maintenance and servicing of warehouse vehicles and equipment.</p><p>9)&#160;Observe health and safety regulations; maintain warehouse in a clean, safe, and orderly condition.</p><p>10) Assist management in establishing warehouse standards and procedures; advise of budget-related needs; assist in the bid process for various supplies as required.</p><p><strong>Requirements :</strong></p><p>1) Candidate must possess at least a Bachelor&#8217;s Degree / Post-Graduate Diploma/Professional Degree.</p><p>2) At least 3 Year(s) of working experience in the related field is required for this position.</p><p>3) Good command of English &amp; Malay (spoken and written).</p><p>4)&#160;Results oriented, strong follow up and good negotiation skills.</p><p>5) Pleasant personality and able to interact all level of people.</p><p>6)&#160;Able to operate forklift and reach truck will be an added advantage.</p><p>7)&#160;A good working knowledge of health and safety and security requirements.</p><p>8) Willing to work overtimes on weekend or public holiday.</p><p>9)&#160;Have valid license Class D or Class E with GDL would be advantageous.</p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>We Are One of the&#160;Malaysia Based Contract Manufacturer (CM) Specialize In The EMS SMT Manufacturing And Box Built&#160;Assembly Of Electronical Products In The Field Of&#160;Wireless Communication.&#160;</p><p>We were established in 2010</p><p>Group Established 1996</p><p>Paid Up Capital RM 20 Million</p><p>Factory Area 150,000 Sq Ft</p><p>Quality System ISO9001 &amp; 14001 ISO13485:2003</p><p>Total Staff Strength: 300</p><p>To support its business expansion, we invite dynamic, committed, self-motivated and qualified candidates to join our team.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor - Others. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/warehouse-supervisor-4496025?jobId=jobstreet-my-job-4496025&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
