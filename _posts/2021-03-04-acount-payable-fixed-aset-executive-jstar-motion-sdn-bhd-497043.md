@@ -1,0 +1,22 @@
+---
+title: "Jstar Motion Sdn Bhd Vacancies Account Payable & Fixed Asset Executive" 
+category: Jobs 
+date: 2021-03-04 
+excerpt: "Jstar Motion Sdn Bhd is currently looking for suitable person to fill in the Account Payable & Fixed Asset Executive which based in Johor - Others" 
+tags: [Johor - Others] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Jstar Motion Sdn Bhd is looking for new potential candidates to fill in for <b>Account Payable & Fixed Asset Executive</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Responsibilities:</strong></p><p><strong>Account Payable</strong></p><ul><li>Timely and accurate processing of inter-company invoices;</li><li>Monthly reconciliation of inter-company invoices;</li><li>Validate employee expense claims to ensure compliance with local travel and entertainment policies;</li><li>Process payments to employees on timely basis;</li><li>Liaise effectively with internal and external vendors on matters relating to accounts;</li><li>Ensure all documents are validated and processed before month end closing;</li><li>Review purchase requisition on timely basis.</li></ul><p><strong>Fixed Asset</strong></p><ul><li>Review fixed asset requisition, register fixed asset and create SAP asset tag;</li><li>Check for completeness and accuracy of fixed assets sub ledger and month-end closing activities such as account reconciliations, journal entries and adjustments;</li><li>Ensure timely and accurate capitalize of fixed asset;</li><li>Generate and review monthly depreciation postings;</li><li>Collaborate with team members to monitor asset disposals and movements;</li><li>Lead and coordinate the fixed asset annual physical inventory count exercise;</li><li>Prepare CAPEX and depreciation budget.</li></ul><p><strong>Overall</strong></p><ul><li>Ensure Internal Control compliance across activities, and able to identify and address any gaps;</li><li>Support external and internal audits and ensure adequate follow up on issues identified during external and internal audit;</li><li>To perform any other ad-hoc work as and when required.</li></ul><p><strong>Requirements:</strong></p><ul><li>Candidate must possess at least a Certificate or Diploma, Advanced/Higher/Graduate Diploma in Finance/Accountancy/Banking or equivalent;</li><li>At least 1 year of working experience in the related field is required for this position;</li><li>Good credit in English, Malay, Mathematics and accounting subjects with proficient in Microsoft Office;</li><li>Must be a team player and enjoy working in a fast pace environment;</li><li>Independent and able to meet tight deadline;</li><li>Outstanding attention to detail, accuracy, and ability to multitask;</li><li>Able to speak/ read/ write English &amp; Mandarin fluently;</li><li>Working knowledge of US GAAP / IFRS and SAP FICO module is an advantage.</li><li>Willing to work 6 days (Alternate Saturdays) in Kulai, Johor</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>Jstar Motion Sdn Bhd was established in July 2019 and is privately owned by J-Star Motion Corporation USA under the NEEQ listed company, Jiecang Group. We are an OEM manufacturer of Electronically-controlled Desk Lifting Column and Electronically-controlled Lifting Desk Frame. Due to our high standards, our products become globally respected for use as office furnitures.</div>
+<div>The factory in Bandar Indahpura spanning about 21,000 square metres is our first factory in Asia region and has begin the operation since June 2020.&#160;The factory is designated for office space, R&amp;D and workshops specializing in lifting column assembly and electronics including the state of art technology machines; laser cutting, palletizer robot and welding robot.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor - Others. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/account-payable-fixed-asset-executive-4497043?jobId=jobstreet-my-job-4497043&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
