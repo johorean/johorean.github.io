@@ -1,0 +1,21 @@
+---
+title: "FFG Engineering Sdn Bhd Vacancies Project Engineer or  Draughtsman" 
+category: Jobs 
+date: 2021-03-05 
+excerpt: "FFG Engineering Sdn Bhd is currently looking for suitable person to fill in the Project Engineer or  Draughtsman which based in Johor - Others" 
+tags: [Johor - Others] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>FFG Engineering Sdn Bhd is looking for new potential candidates to fill in for <b>Project Engineer or  Draughtsman</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>1.Project Engineer</strong></p><p><strong>Responsibilities:</strong></p><ul><li>To conduct business development &amp; Management areas such as searching for new potential clients, presentation and elaboration of products and offers, business negotiation.</li><li>To provide technical advice to existing customers.</li><li>Responsible for planning and execution the projects assigned which includes co-ordination, scheduling and supervision of project.</li><li>Follow-up with potential and existing customers to secure orders or maintain strong business relationship by focusing and building on long term customer development.</li><li>Other relevant assignments as per instruction from the company.</li><li>Candidates fluent in Mandarin preferred as role require candidates to deal with Mandarin spekaing clients.</li><li>Prepare quotation</li><li>Perform engineering calculation for the project.</li></ul><p><strong>Skill / Qualification &amp; Experience Requirements</strong></p><ul><li>Candidate must possess at least a bachelor&#8217;s degree, Post Graduate Diploma, Professional Degree, any field.</li><li>Required skill(s): AutoCad/solidwork.</li><li>Preferably Senior Executives specializing in Engineering - Mechanical/Automotive or equivalent.</li><li>Full-Time position(s) available.</li><li>Required language(s): English, Bahasa Malaysia<strong>, Mandarin.</strong></li><li>Candidate must be willing to travel to outstation and foreign country.</li><li>Good working attitude, responsible, independent, excellent in time management</li></ul><p><strong>2.Draughtsman</strong></p><p><strong>Responsibilities:</strong></p><ul><li>Responsible in preparing 2D &amp; 3D layout drawing and fabrication drawing using Autocad/solidworks</li><li>Organise Bill Of Material and prepare fabrication drawing using either Autocad or Solidworks.</li><li>Work closely with clients, consultant and superior to meet customer requirement.</li><li>Perform engineering calculation for the project.</li></ul><p><strong>Skill / Qualification &amp; Experience Requirements</strong></p><ul><li>Candidate must possess at least a bachelor&#8217;s degree, Post Graduate Diploma, Professional Degree, any field.</li><li>3D Design Software Experience (preferable Solid works/Autodesk Inventor/Bocad)</li><li>Preferably Junior Executives specializing in Engineering - Mechanical/Automotive or equivalent.</li><li>Good working attitude, responsible, independent, excellent in time management and able to meet deadlines.</li><li>Full-Time position(s) available.</li><li>Able to speak Mandarin will be an advantage.&#160;</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>FFG ENGINEERING SDN.BHD. was an established engineering firm who specialised in&#160;design and fabrication of latex glove machinery. We are one of the pioneer in the field. Our busioness&#160;cover the region of Asia country and Latin America.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor - Others. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/project-engineer-or-draughtsman-4498427?jobId=jobstreet-my-job-4498427&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
