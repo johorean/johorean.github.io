@@ -1,0 +1,21 @@
+---
+title: "SHIYA SDN BHD Vacancies M&E COORDINATOR" 
+category: Jobs 
+date: 2021-03-07 
+excerpt: "SHIYA SDN BHD is currently looking for suitable person to fill in the M&E COORDINATOR which based in Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>SHIYA SDN BHD is looking for new potential candidates to fill in for <b>M&E COORDINATOR</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Responsibilities:</strong></p><ul><li>Assist and report to site management on M&amp;E related matters and the progress of M&amp;E works.</li><li>Conduct and take lead in M&amp;E sub-contractors meeting and prepare minutes of meeting.</li><li>Liaise and coordinate with the M&amp;E consultants or sub-contractors on drawings, material submission, request for information and site evaluation of work done.</li><li>Collaborate with consultant and authorities on M&amp;E works.</li><li>Coordinate and obtain approval for all sample submission and shop drawings from consultants.</li><li>To plan on works schedule, manpower requirements, supplies and materials when necessary.</li><li>Ensure minimize wastage and arrange proper storage place for all materials related to M&amp;E.</li><li>Supervise all M&amp;E works carried out as scheduled and in accordance to drawings, specifications and requirements.</li><li>Organize and conduct functional test and commissioning of all M&amp;E materials and equipment.</li><li>Do site inspection of M&amp;E works with client&#8217;s Clerk of Works.</li><li>Assist management for ISO Quality Management System (QMS) implementations for the company.</li><li>Any assignment as deemed fit and necessary by the Management.</li></ul><p><strong>Requirements:</strong></p><ul><li>Candidate must possess at least Diploma / Professional Certificate / Bachelor's Degree in Engineering (Electrical/Electronic) or equivalent.</li><li>At least 3&#160;Year(s) of working experience in similar position or related field.</li><li>Preferably Senior Executive / Senior Coordinator.</li><li>Required Skill(s): Computer literature, excellent communication skill and teamworks.</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>Shiya Sdn Bhd has over 30 years of experience in related fields.&#160;It was incorporated in Malaysia under the Companies Act 1965 on 12 October 1983 as private limited company.&#160;</p><p>The history of Shiya Sdn Bhd began with the involvement in construction works upon obtaining the Class D license from Pusat Khidmat Kontraktor (PKK).&#160;</p><p>Several projects were successfully secured from the private sector as well as government agencies such as Jabatan Kerja Raya, Majlis Bandaraya Johor Bahru, Majlis Perbandaran Johor Bahru Tengah, Tenaga Nasional Berhad and many more companies.</p><p>With rapid growth in the construction industry, Shiya Sdn Bhd has successfully upgraded to Class A Contrator in 1993.&#160;Some of the remarkable projects includes Johor International Convention Centre (PERSADA), Johor Specialist Hospital and several housing development projects.&#160;</p><p>Up to date, Shiya Sdn Bhd has successfully completed and handover approximately RM855 million worth projects consisting of various types of building and civil engineering works.&#160;</p><p>With the existing expertise and resources that the Company gained to date, the Board is dedicated to strengthen the Company by carrying out more challenging development projects both locally and in overseas.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/m-e-coordinator-4498852?jobId=jobstreet-my-job-4498852&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
