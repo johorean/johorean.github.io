@@ -1,0 +1,21 @@
+---
+title: "Foong Cheng Construction Sdn. Bhd. Vacancies Construction Site Supervisor" 
+category: Jobs 
+date: 2021-03-08 
+excerpt: "Foong Cheng Construction Sdn. Bhd. is currently looking for suitable person to fill in the Construction Site Supervisor which based in Johor, Melaka, Selangor, Penang" 
+tags: [Johor, Melaka, Selangor, Penang] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Foong Cheng Construction Sdn. Bhd. is looking for new potential candidates to fill in for <b>Construction Site Supervisor</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p>We are looking to employ a dedicated and experienced Site Supervisor to oversee construction projects and supervise the construction team.</p><p><strong>This role will need a minimum of three years of work experience:-</strong></p><ul><li>Assisting related executive to plan, monitor and ensure smooth implementation and monitor of projects assigned from inception to completion on time and of desired quality</li><li>To arrange day works for workers and supervise workers to ensure that they carried out the works as required</li><li>To coordinate with clients, sub-contractors and workers on all projects aspects</li><li>Scheduling, verify and check all incoming and outgoing materials, tools &amp; equipment</li><li>Control material wastage at site</li><li>Analyzing blueprints to ensure that construction projects meet design, safety, and budget specifications</li><li>&#160;Able to interpret building plans as well as demonstrate exceptional leadership, communication, and problem-solving skills</li><li>To report the progress and quality of the overall project</li><li>Maintaining an accurate record of construction employee attendance</li><li>Manage workforce performance and instituting disciplinary measures as needed</li><li>Preparing relevant daily reports</li><li>Enforcing site safety rules to minimize work-related accidents and injuries</li><li>Process worker payroll and other miscellaneous financial transactions</li><li>Training new construction employees</li><li>Handle any other ad-hoc duties and tasks assigned</li></ul><p><strong>Requirements:-</strong></p><ul><li>Preferably Senior-Executive specialized in Engineering - Civil/ Construction/ Structural/ Architecture equivalent</li><li>Proven experience working as a Site Supervisor</li><li>Basic English and Bahasa Malaysia communication skills (additional language knowledge will be an added advantage)</li><li>Independent, analytical, detail-oriented, organized, and possess positive working attitude</li><li>Working knowledge of construction tools and equipment</li><li>Knowledgeable of building codes and construction safety regulations</li><li>Outstanding leadership skills</li><li>Strong analytical and problem-solving skills</li><li>Excellent organizational and communication skills</li><li>Possess good communication and interpersonal skills</li><li>Possess own transport</li><li>Willing to work outstation</li></ul><p><strong>Salary &amp; Benefits:-</strong></p><ul><li>6 working days in a week</li><li>Regular day time working hour (8am-5pm)</li><li>Annual leaves entitlement</li><li>EPF, SOCSO, SIP</li><li>Medical&#160;</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>Foong Cheng Construction Sdn. Bhd. is a private limited company and a fast expanding construction company. We provide effective construction management based on the needs of each customer. Our company culture is to ensure minimum wastage of time and resources in order to enhance our efficiency and competitiveness.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor, Melaka, Selangor, Penang. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/construction-site-supervisor-4499469?jobId=jobstreet-my-job-4499469&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
