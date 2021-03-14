@@ -1,0 +1,22 @@
+---
+title: "E-perpetual Sdn. Bhd. Vacancies Sales & Marketing Coordinator" 
+category: Jobs 
+date: 2021-03-14 
+excerpt: "E-perpetual Sdn. Bhd. is currently looking for suitable person to fill in the Sales & Marketing Coordinator which based in Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>E-perpetual Sdn. Bhd. is looking for new potential candidates to fill in for <b>Sales & Marketing Coordinator</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><div><strong>Highlight:</strong><ul><li>Career Advancement</li><li>Opportunity to lead a division.</li><li>Company on high growth mode with much opportunities for internal talent development.</li></ul><br><strong>Job Description:</strong><ul><li>Implement marketing and advertising campaigns by assembling and analyzing sales forecasts; preparing marketing and advertising strategies, plans, and objectives.</li><li>Prepare marketing reports by collecting, analyzing, and summarizing sales data.</li><li>Track sales data, maintain promotional materials inventory, plan meetings and trade shows, maintain databases, and prepare report.</li><li>Keep promotional materials ready by coordinating requirements with design department, sales department and other relevant department.</li><li>Support Regional Sales by providing sales data, market trends, forecasts, account analyses, and new product information.</li><li>Research competitive products by identifying and evaluating product characteristics, market share, pricing, and advertising; maintaining research databases.</li><li>Plan meetings and trade shows by identifying, assembling, and coordinating requirements, establishing contacts, developing schedules and assignments.</li><li>Accomplish organization goals by accepting ownership for accomplishing new and different requests.</li><li>Implement organisational processes and strategic changes to adapt to market needs.</li><li>Explore opportunities to add value to job accomplishment.</li><li>Perform tele-marketing when there&#8217;s new product initiative.</li><li>Attend weekly meeting and report weekly activities.</li><li>Record log activities on daily tasks.</li></ul><br><strong>Job Requirement:</strong><ul><li>Good communicator and pleasant looking.</li><li>Candidates fluent in<strong> Mandarin</strong> preferred as role requires candidate to deal with Mandarin speaking clients.</li><li>Must be able to converse in English &amp; Bahasa Malaysia.</li><li>Must be IT savvy to access company&#8217;s system portal.</li><li>Must be punctual and well discipline in conduct.</li><li>Team player with good attitude in covering peers to ensure company&#8217;s good image is maintained at all time.</li><li>Responsible and full of integrity dealing with customers, peers and superior.</li><li>Minimum diploma or other professional certificate.</li><li>Multi-tasking and willing to take on additional responsibilities.</li><li>Organised in handling document and paperwork.</li></ul></div></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+<strong>E-perpetual Sdn. Bhd.</strong>&#160;is the ever first memorial park in South Peninsular Malaysia which spans over 100 acres of undulating terrain. Perpetual Memorial Park has been officially approved by the land Office.&#160;Perpetual Memorial Park is landscaped with beautiful environment, undulating hill full with flora and calm flowing streams. These help to create an atmosphere of peace and tranquillity, perfect for final resting place.&#160;In the midst of expanding our business we are currently looking for suitable candidates to fill in the position as above.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/sales-marketing-coordinator-4492593?jobId=jobstreet-my-job-4492593&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
