@@ -1,0 +1,21 @@
+---
+title: "MyAngkasa Emas Medicare Sdn Bhd Vacancies Business Development Executive/Manager I 3k - 5k I Johor & Kelantan" 
+category: Jobs 
+date: 2021-03-17 
+excerpt: "MyAngkasa Emas Medicare Sdn Bhd is currently looking for suitable person to fill in the Business Development Executive/Manager I 3k - 5k I Johor & Kelantan which based in Johor, Terengganu, Kuala Lumpur" 
+tags: [Johor, Terengganu, Kuala Lumpur] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>MyAngkasa Emas Medicare Sdn Bhd is looking for new potential candidates to fill in for <b>Business Development Executive/Manager I 3k - 5k I Johor & Kelantan</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Responsibilities and Duties</strong></p><ul><li>Establish new business by researching markets, identifying prospects, organizing sales calls, and presenting comprehensive business solutions.</li><li>Recruiting Agency (Consultants) force to the assigned area to expand the market size.</li><li>Set Targets to the Group Mangers and constantly follow up them to achieve the same and adhere the Targets assigned to you</li><li>Product briefing to the newly recruited Agency team and to the new cooperatives and corporates whenever required.</li><li>Maintain business leads and allocate the leads to the appropriate Group Managers.</li><li>Develop positive relationships with customers and agencies.</li><li>Act as the point of contact and handle customers and agencies as per the individual needs.</li><li>Resolve conflicts and provide solutions to customers and agencies in a timely manner.</li><li>Set and track sales account targets, aligned with company objectives.</li><li>Suggest actions to improve sales performance and identify opportunities for growth.</li><li>Assist in development and implementation of marketing plan that raises brand awareness.</li><li>Submission of daily /weekly &amp; Monthly Sales reports.</li><li>Coordinating with Operations department and follow up for the</li><li>Welcome kit to the customers from the assigned area.</li><li>Coordinating and follow up with Claims Department for the members admitted under GHS.</li><li>Conducting events and roadshows for promoting products.</li></ul><p><strong>Requirements:</strong></p><ul><li>Preferably from insurance background</li><li>Candidate with relevant experience will be considered for Sales Manager position</li><li>Candidate must possess at least Diploma</li><li>At least 2 years (s) of working experience in the related fields is required for this position</li><li>Good interpersonal and communication skill</li><li>Able to travel based on business needs</li><li>Possess own transport will be added advantage</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>As an organization concerned about the welfare of cooperative members, MYANGKASA EMAS MEDICARE SDN BHD offers healthcare to its members through the Program EMAS for a Sustainable Lifestyle.</p><p>Program EMAS is a comprehensive program for a Sustainable Lifestyle aimed at supporting and complementing the government&#8217;s efforts to improve the quality of lives of Malaysians through the provision of better Healthcare Protection (Takaful/Insurance), Overseas Emergency Assistance, Cash Back Reward Cards, Professional Funeral Management Services as well as Discounts on Will Writing Fees and Estate Administration Fees.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor, Terengganu, Kuala Lumpur. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/business-development-executive-manager-i-3k-5k-i-johor-kelantan-4509690?jobId=jobstreet-my-job-4509690&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
