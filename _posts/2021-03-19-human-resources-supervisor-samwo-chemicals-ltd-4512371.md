@@ -1,0 +1,21 @@
+---
+title: "Samwoo Chemicals Ltd Vacancies Human Resources Supervisor" 
+category: Jobs 
+date: 2021-03-19 
+excerpt: "Samwoo Chemicals Ltd is currently looking for suitable person to fill in the Human Resources Supervisor which based in Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Samwoo Chemicals Ltd is looking for new potential candidates to fill in for <b>Human Resources Supervisor</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Job Descriptions</strong></p><ul><li>Developing and implementing HR strategies and initiatives aligned with the overall business strategy</li><li>Bridging management and employee relations by addressing demands, grievances or other issues</li><li>Managing the recruitment and selection process</li><li>Support current and future business needs through the development, engagement, motivation and preservation of human capital</li><li>Develop and monitor overall HR strategies, systems, tactics and procedures across the organization</li><li>Nurture a positive working environment</li><li>Oversee and manage a performance appraisal system that drives high performance</li><li>Maintain pay plan and benefits program</li><li>Assess training needs to apply and monitor training programs</li><li>Report to management and provide decision support through HR metrics</li><li>Ensure legal compliance throughout&#160;human resource management</li></ul><p><strong>Requirements</strong></p><ul><li>Candidate must possess at least Bachelor's Degree/Post Graduate Diploma/Professional Degree&#160;in any field.</li><li>Required language(s):&#160;English, Bahasa Malaysia, Mandarin is a plus</li><li>At least 3&#160;Year(s) of working experience in the related field is required for this position.</li><li>Manufacturing working background is preferred</li><li>In-depth knowledge of labor law</li><li>People oriented and results driven</li><li>Experience designing compensation and benefits packages</li><li>Ability to develop clear and fair company policies</li><li>Excellent analytical and decision-making abilities</li><li>Demonstrable experience with Human Resources metrics</li><li>Knowledge of HR systems and databases</li><li>Excellent active listening, negotiation and presentation skills</li><li>Competence to build and effectively manage interpersonal relationships at all levels of the company</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>SAMWOO CHEMICALS LTD. was established in 1969 in Hong Kong specializing in colorant and masterbatch products. We also offer a wide range of other products including PVC compound, thermoplastic elastomer, engineering plastic and various types of paints and inks. Samwoo Chemicals earned a solid reputation as a leading chemicals manufacturer in Southern China. Our advanced production facilities and technical support team are stationed in Hong Kong, Dongguan, Shanghai and Vietnam. Our philosophy is to nurture good talents and enable them to build a long term career with the organization.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</p><p>In line with our ambitious new&#160;plant development in Malaysia, Johor. We are now seeking qualified and experienced candidates for full time&#160;operating in our Branch offices in Malaysia. If you&#160;have the skills, talent and dedication that we are&#160;looking for, seek us out:</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/human-resources-supervisor-4512371?jobId=jobstreet-my-job-4512371&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
