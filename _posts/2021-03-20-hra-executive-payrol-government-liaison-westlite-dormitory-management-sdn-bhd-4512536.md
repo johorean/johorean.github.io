@@ -1,0 +1,25 @@
+---
+title: "Westlite Dormitory Management Sdn Bhd Vacancies HRA Executive – Payroll & Government Liaison" 
+category: Jobs 
+date: 2021-03-20 
+excerpt: "Westlite Dormitory Management Sdn Bhd is currently looking for suitable person to fill in the HRA Executive – Payroll & Government Liaison which based in Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Westlite Dormitory Management Sdn Bhd is looking for new potential candidates to fill in for <b>HRA Executive – Payroll & Government Liaison</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Job Responsibilities</strong></p><p>Carry out day-to-day administration activities &amp; function. As an advisor on specific areas of Employment Law, IMI, JTK, KDN, Embassy and assist to negotiate during employee disputes and to ensure the wider workforce is aware of company policies and procedures; Implement and maintain related policy and operation procedures; Strengthen the relations between employer and Government Body.</p><ol><li>Identify &amp; Sources appropriate talent for current and future open roles within the organization</li><li>Explore international markets, especially form neighbor countries to attract candidate in recruitment</li><li>Develop relationships with recruitment agencies, manage procurement and measurement process</li><li>Prepare recruitment reports to keep tab on costs involve, timeline for recruitment and etc</li><li>Handling foreign workers affairs and liaise with KDN, JTK, Immigration, Embassy, SPKA, FWCMS, My EG, FOMEMA and etc for new recruitment and replacement</li><li>Fully responsibility all FW/ESD application issue</li><li>Strengthen the relationship between employer with Government Body</li><li>Be the eye, ear and voice of both employees and employers</li><li>In Charge of employee welfare</li><li>Gather information, feedback, input and suggestion from workers. Find out their thought/needs and convert it to action plans practically</li><li>Execute disciplinary policy and ensure it is practiced within legislation</li><li>To assist in monthly payroll preparation and Budget</li><li>Assist Manager and HR Team&#8217;s to manage all the preparation and ad-hoc duties assigned</li></ol><p><strong>Job Requirements</strong></p><ol><li>Degree/Diploma in Human Resources or related, preferably with 2-5 years&#8217; experience in Government Liaison &amp; FW recruitment process</li><li>Must have good communication and PR skills and able to socialize well at all level of people</li><li>Good command of both spoken and written business English</li><li>Excellent interpersonal, communication &amp; organization skills and ability to work independently under tight deadlines</li><li>Knowledge in Employment Act 1955 and others related Act</li><li>Team player who is dynamic, self-motivated and result oriented</li></ol></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>Westlite Dormitory is a subsidiary of <strong>Centurion Corporation Limited</strong>, a diversified business group <strong>listed on the Singapore Stock Exchange.&#160;</strong></div>
+<div><br>
+We are one of the leading independent dormitory owner-operators in Malaysia and Singapore, and fast expanding our footprint in the region. &#160;Driven by a passion to care for workers, we adopt a holistic approach to providing quality community living for our residents.</div>
+<div>Our team of dormitory management professionals possesses a wealth of experience in the development and management of worker dormitories. &#160;We work closely with&#160;our customers&#160;to meet the accommodation needs of theirs workers and take pride in putting their well-being first. &#160;Strategically located near industrial parks, our dormitories provide safe and comfortable living environments for residents, complete with well-designed amenities and social and recreational activities. &#160;For customers peace of mind and convenience, we offer daily transport to and from worksites and late night medical services for&#160;their workers.</div>
+<div><strong>Westlite Dormitory</strong>. Your Home, Your Community&#160;</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/hra-executive-payroll-government-liaison-4512536?jobId=jobstreet-my-job-4512536&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
