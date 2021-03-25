@@ -1,0 +1,21 @@
+---
+title: "Wentel Engineering Sdn Bhd Vacancies QA ENGINEER" 
+category: Jobs 
+date: 2021-03-25 
+excerpt: "Wentel Engineering Sdn Bhd is currently looking for suitable person to fill in the QA ENGINEER which based in Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Wentel Engineering Sdn Bhd is looking for new potential candidates to fill in for <b>QA ENGINEER</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p>RESPONSIBILITIES:</p><ul><li>To ensure that quality of products comply with customer requirement.</li><li>Responsible for the quality control aspects of IQC, PQC, OQC &amp; FA as well as the work from sub-contractors.</li><li>Collect and analyse quality data using statistical control tools</li><li>To implement and evaluate quality strategies and system to ensure conformity of parts to quality standards.&#160;</li><li>To prepared the presentable Corrective Action Report after consult with the respective&#160;person and person in charge.</li><li>Respond to Customer Issues Regarding Product Quality and Quality Systems.</li><li>Responsible for customer esquires related to quality issue, customer claim, customer return and&#160;&#160;coordinate customer audit.</li><li>Conduct root cause investigations when quality issues do arise, communicate, findings and train staff on improvements / preventative measures</li><li>Establish manufacturing inspection test processes, which ensure component dimensions meets the requirements of the drawings</li><li>To do arrangement for test equipment to calibration and to ensure calibration record&#160;maintain properly and up date.&#160;&#160;</li><li>To prepare quality inspection plan &amp; Standard operation procedure for all new products and existing products.&#160;</li><li>Initiate and implement Continuous Improvement projects</li></ul><p>&#160;&#160;<strong>Requirements:</strong></p><ul><li>Bachelor's Degree, Diploma, Advanced/Higher/Graduate Diploma/ Certificate in Engineering Mechanical / Industrial or equivalent</li><li>At least 3 &#8211; 5 of working experience in related field.</li><li>Preferably with sheet metal fabrication and semiconductor product&#8217;s knowledge</li><li>Knowledge with ISO 9001 and ISO 14001 procedure &amp; Implementation</li><li>Knowledge in CPK and SPC is an advantage</li><li>Familiar with CMM (Coordinate Measuring Machine)</li><li>Preferably Engineer specialized in Quality Control/Assurance or equivalen</li><li>Strong communication program management skills and problem solving abilities</li><li>Willing to traveling to Singapore</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>Established in 2000, Wentel Engineering has experienced steady growth in sales and productivity, attributed primarily to excellent customer servicing, precision engineering, on-time deliveries and highly skilled employees. WE is a fabricator of sheet metal specialties that applies leading edge technology to provide metal parts services to every phase of the process. While providing valued customers with products and services at unparalleled levels of reliability, uncompromised quality and competitive cost, WE has achieved ISO 9001:2015 and ISO 14001:2015.&#160;With strategic acquisition and investment in advanced technology equipment and trained personnel, WE is poised to stay competitive in the forefront of engineering innovation.</p><p>Product &amp; Services</p><p>Fabrication and manufacturing of metal parts for machneries.and semiconductor product. </p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/qa-engineer-4516651?jobId=jobstreet-my-job-4516651&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
