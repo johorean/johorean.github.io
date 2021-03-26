@@ -1,0 +1,30 @@
+---
+title: "Celestica Electronics (M) Sdn Bhd Vacancies Computer System Validation Specialist" 
+category: Jobs 
+date: 2021-03-26 
+excerpt: "Celestica Electronics (M) Sdn Bhd is currently looking for suitable person to fill in the Computer System Validation Specialist which based in Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Celestica Electronics (M) Sdn Bhd is looking for new potential candidates to fill in for <b>Computer System Validation Specialist</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><div><strong>Job Responsibilities:</strong></div><div>&#9679; Gathers Business Requirements and prepares<strong> FDA compliant</strong> documents based on those requirements.<br>&#9679; Interacts with the business community and customers to understand business processes and define tools can be leveraged to optimize the business process.<br>&#9679; Ensures team members are provided with timely and accurate project information and status updates.<br>&#9679; Ensure all systems are running in compliance with company and site policies.<br>&#9679; Plan, Analyse and&#160; document tests for Manufacturing Execution Systems and other site systems in compliance with <strong>FDA regulations.</strong><br>&#9679; Lead application validation.<br>&#9679; Manage adjustments or improvements to equipment and processes.<br>&#9679; Lead risk analysis to identify system and process controls.<br>&#9679; Assessment of changes and impact on validated systems</div><div>&#9679; Ability to Identify, gather, analyse and properly document system requirements.<br>&#9679; Capable of ensuring that documents plus practices attain quality standards and applicable regulatory conformance.<br>&#9679; Capable of performing risk analysis using tools such as <strong>FMEA</strong>&#160;<br>&#9679; Capable of implementing software validation engineering test plans, test cases/scripts.<br>&#9679; Ability to propose solutions and collaborate in software validation procedures and processes.<br>&#9679; Proven skills on implementation of computerized system validation projects with 3 years in developing computerized system validation plan and protocols.<br>&#9679; Strong written and verbal communication skills with the ability to work through technical issues with customers both remotely and in person.<br>&#9679; In-depth knowledge of object oriented languages<strong> (Java, C++) </strong>and or good knowledge of scripting languages <strong>(Visual Basic, VB Script, JavaScript, HTML, Perl)</strong> and relational Data Bases and SQL.<br>&#9679; Ability to analyze and understand business requirements and to design solution specifications.<br>&#9679; This position requires a high energy level and a passion for excellence.<br>&#9679; Very good command of written &amp; spoken English.<br>&#9679; Proven skills in projects management.<br>&#9679; Organization and time management with little overall supervision.<br>&#9679; Excellent technical knowledge in specialized domains.<br>&#9679; Knowledge of development in an Windows Client/Server Platform or Unix Client/Server Platform</div><div><strong>Job Requirements :</strong></div><div>&#9679; Bachelor degree in computer software, industrial, mechanical engineering or electrical engineering.<br>&#9679; Training in <strong>validation methodologies, technologies and process control computer systems.</strong></div><div>&#9679; <strong>3 - 5 years of IT computer validation </strong>with experience in <strong>medical device manufacturing operation.</strong><br>&#9679; Experience in a regulated environment with in depth knowledge and experience with <strong>cGMPs/GLPs/GAMP </strong>regulations related to medical device manufacturing systems, CFR Part 820, 210, 211, 21 CFR Part 11, ISO 13485, ISO 14971.</div><div>&#9679; Duties may require extended periods of sitting and sustained visual concentration on a computer monitor or on numbers and other detailed data.<br>&#9679; Repetitive manual movements (e.g., data entry, using a computer mouse, using a calculator, etc.) are frequently required.<br>&#9679; Occasional overnight travel is required.</div><div>&#9679; Applicants must be willing to work in<strong> Senai</strong>,Johor.</div></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+	Celestica (NYSE, TSX: CLS) enables the world&#8217;s best brands. Through our recognized customer-centric approach, we partner with leading companies in Aerospace and Defense, Communications, Enterprise, HealthTech, Industrial, Capital Equipment and Energy to deliver solutions for their most complex challenges. As a leader in design, manufacturing, hardware platform and supply chain solutions, Celestica brings global expertise and insight at every stage of product development &#8211; from drawing board to full-scale production and after-market services for products from advanced medical devices, to highly engineered aviation systems, to next-generation hardware platform solutions for the Cloud.
+	
+	<div>
+		Headquartered in Toronto, with talented teams spanning 40+ locations in 13 countries across the Americas, Europe and Asia, we imagine, develop and deliver a better future with our customers.</div>
+<div>
+		Celestica would like to thank all applicants, however, only qualified applicants will be contacted.</div>
+<div>
+		Celestica does not accept unsolicited resumes from recruitment agencies or fee based recruitment services.</div>
+</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/computer-system-validation-specialist-4502755?jobId=jobstreet-my-job-4502755&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
