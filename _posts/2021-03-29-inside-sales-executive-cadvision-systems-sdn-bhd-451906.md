@@ -1,0 +1,21 @@
+---
+title: "CADVision Systems Sdn Bhd Vacancies Inside Sales Executive" 
+category: Jobs 
+date: 2021-03-29 
+excerpt: "CADVision Systems Sdn Bhd is currently looking for suitable person to fill in the Inside Sales Executive which based in Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>CADVision Systems Sdn Bhd is looking for new potential candidates to fill in for <b>Inside Sales Executive</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Job Description:</strong></p><ul><li>Lead in sales activities to achieve sales targets as agreed with Sales Director</li><li>Hunt for new customers</li><li>Maintain pertinent customer information critical to winning sales and ensure they are recorded in CRM</li><li>Initiate, plan and participate in marketing activities (online or offline) related to generating new sales leads</li><li>Maintain proper records of sales calls, sales progress with customers, and report progress to Sales Director</li><li>Identify the most efficient manner to close each sale opportunity</li><li>Lead and coordinate technical support and pre-sales resources efficiently and effectively to identify solutions for customers and maximize sales opportunities</li><li>Build long-term, value-based relationships with customers to entrench CVS products and solutions within customer bases</li><li>Seek personal and team improvements through ongoing upgrading of sales skills and knowledge</li></ul><p><strong>Job Requirements:</strong></p><ul><li>Strong work ethic</li><li>Familiar with MS Office (Word, Excel and Power Point)</li><li>Easily adaptable to fast-paced environment</li><li>Eager and motivated to make a difference to the engineering community.</li><li>Good communication and inter-personal skills</li><li>High integrity and respect for others.</li><li><strong>Fresh graduates are encourage to apply.</strong></li></ul><p>All successful applicants will be provided with free training to achieve a required certification (industry recognized certification) before they engage with customers and potential customers. Additional knowledge and value-added to the candidate profile.</p><p>Opportunities given to attend <strong>SALES BOOT CAMP</strong> which arrange by principal (Oversea)</p><p><strong>We offer an attractive compensation package to attract high achievers.</strong></p><p>For those interested, we invite you to forward us your resume and contact details via online.</p><p>The underfined job scope giving you a chance to learn more that what you are expecting as you will need to grab this opportunities and giving yourself a chance to start your new journey or challenge. Good for fresh graduates if you do not have goals for your career path.</p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>CADVision Systems Sdn. Bhd. (CVS) is a leading partner for Dassault Systemes, SolidWorks in the Southeast Asia region serving over 1,200 customers offering advanced and proven engineering solutions that empower our customers to respond to increasingly competitive industry through better design and greater innovation, faster and more cost effective.</p><p>With a growing team across four offices in Malaysia and Singapore, we work shoulder-to-shoulder with our clients to integrate innovative technologies and expertise to deliver real results.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/inside-sales-executive-4519006?jobId=jobstreet-my-job-4519006&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
