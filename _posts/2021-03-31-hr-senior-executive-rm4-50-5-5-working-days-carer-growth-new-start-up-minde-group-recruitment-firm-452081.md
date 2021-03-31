@@ -1,0 +1,30 @@
+---
+title: "MINDe Group - Recruitment Firm Vacancies HR Senior Executive - RM4,500 (5.5 working days | Career growth | New Start up)" 
+category: Jobs 
+date: 2021-03-31 
+excerpt: "MINDe Group - Recruitment Firm is currently looking for suitable person to fill in the HR Senior Executive - RM4,500 (5.5 working days | Career growth | New Start up) which based in Kuala Lumpur" 
+tags: [Kuala Lumpur] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>MINDe Group - Recruitment Firm is looking for new potential candidates to fill in for <b>HR Senior Executive - RM4,500 (5.5 working days | Career growth | New Start up)</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><div>Our client is is a Manufacturer on apparel which had certified fabric technology focusing on anti-bacterial and anti-odor</div><div>A young and energetic team always on innovation of change and focusing on what's important on current market needs.</div><div>With current growing stage, client is looking for more talents to join their team now!&#160;</div><div><strong>Working Location: Ulu Tiram<br>Salary up to RM4500</strong></div><div><strong>Mandarin Speaker needed</strong></div><div><strong>Report to Director</strong></div><div>We are looking for somone who have Human Resource Background at least for 3 years with enough of experience and&#160;able to take in charge of full spectrum of HR functions in the company independently without having any superior.</div><div><strong>Duties:-</strong></div><ul><li>Process monthly payroll, allowances and OT.</li><li>Maintain and record employees' profile, attendance, punctuality, absence, annual leave, medical certificate, salary, allowance, bonus, deduction, shortage, overpaid etc.</li><li>Handle monthly statutory payments (EPF, SOCSO, EIS &amp; PCB).</li><li>Prepare and issue EA form.</li><li>Handle overtime and leave applications.</li><li>Ensure company licence, vehicle road tax and insurance are up to date and renewed.</li><li>Liaise with all government bodies, local authorities and agencies.</li><li>Create and issue company notices and warning letters.</li><li>Manage the recruitment process such as posting the job advertisement on online portals, screening candidates, conducting interviews and liaising with recruitment agencies.</li><li>Prepare employment, promotion, salary increment letters, the necessary equipment and stationaries for incoming new employees.</li><li>Brief new employees on the company rules and regulations.</li><li>Ensure the smooth running of emails, internet and printers in the office premises.</li><li>Manage petty cash and cheques. Deposit cheques at designated banks.</li><li>Handle part timers' daily salary and issue salary vouchers.</li><li>Process reimbursements.</li><li>Calculate sales team's commissions.</li><li>Handle procurement of office necessities and supplies.</li><li>Proper filing of all soft copy and hard copy documents.</li><li>Manage and solve all staff related issues.</li></ul><div><strong>Requirements:-</strong></div><ul><li>Candidate must possess at least a Diploma, Advanced/Higher/Graduate Diploma, Bachelor's Degree, Post Graduate Diploma, Professional Degree, any field.</li><li>Required skill(s): Microsoft Office.</li><li>At least <strong>3 year(s) of working experience</strong> in the related field is required for this position.</li><li>Preferably Senior Executives specializing in Human Resources or equivalent.</li><li>Able to work <strong>5.5 days (alternate half day Saturday)</strong></li><li><b>Mandarin speaker</b> is a must.</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+<div>
+<strong>Founded since 2007</strong></div>
+<div>
+<strong>Officially registered since 2009</strong></div>
+<div>
+<strong>Who are we?</strong><br>
+		We are the mindful matchmakers. We match teams of professionals to help companies grow, while creating opportunities for candidates to find the right vocation. We build lasting robust relationships. In a world of constant change, we strive to seek the best candidate that fills not only a vacancy, but truly integrates with a team to bring it to greater heights. We are professional negotiators. We are the connectors. The negotiators who bring both company and candidate to an equal ground. We are talent builders for our clients, and career advisers for the candidates. We are people experts. We know the people we work with, and the industries we represent. We close positions for our clients by understanding the people they need. We build teams with insightful recruitment. To build a team, we delve into what makes the industry work, gathering in-depth insights to fill vacancies with the right talent. Our evangelists are team builders. As the chief, the alpha of the team, they have to make sure their group stays cohesive. They appreciate having the right people on board, as they know how important good personalities and excellent skills are to their team. Our purpose is to exist as an opportunity creator. We understand that not everyone has a dream job. Not everyone is suited to what they do. We identify talent. We bring them to the companies who need them. We enhance lives and create opportunities.<br>
+		We help companies &amp; teams Grow Through Connections.</div>
+</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Kuala Lumpur. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/hr-senior-executive-rm4-500-5-5-working-days-%7C-career-growth-%7C-new-start-up-4520881?jobId=jobstreet-my-job-4520881&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
