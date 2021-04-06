@@ -1,0 +1,24 @@
+---
+title: "Water Engineering Technology Sdn Bhd Vacancies Site Supervisor / Wireman - Mechanical / Electrical n Instrumentation" 
+category: Jobs 
+date: 2021-04-06 
+excerpt: "Water Engineering Technology Sdn Bhd is currently looking for suitable person to fill in the Site Supervisor / Wireman - Mechanical / Electrical n Instrumentation which based in Johor, Perak, Sarawak" 
+tags: [Johor, Perak, Sarawak] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Water Engineering Technology Sdn Bhd is looking for new potential candidates to fill in for <b>Site Supervisor / Wireman - Mechanical / Electrical n Instrumentation</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Job description:</strong></p><ol><li>Coordination, supervision and monitoring of mechanical, electrical and instrumentation (E&amp;I) work in construction site to ensure completion of project within timeline and in accordance with drawings, specifications, plans, and statutory compliances</li><li>Responsible for the arrangement of site works and related activities</li><li>Perform quantity and quality checks on the project&#8217;s materials on site</li><li>Frequent inspection, monitoring and following up on construction works to achieve project quality standard</li><li>Plan, organise, and coordinate site audit, inspection, testing, and commissioning activities among subcontractors/vendors and consultants/client.</li><li>Identify and solve all technical difficulties, variation orders and other problems that may be arose on site</li><li>Liaise effectively on site administration which include site safety and control of materials/plant on site</li><li>Communicate and liaison with clients, sub-contractors, suppliers and government authorities on project related issue</li><li>Coordinate closely with inter-discipline (civil, mechanical, and process) sub-contractors, vendors, peers, or engineers on respective requirements that impact mechanical, E&amp;I works</li><li>Provide daily/weekly/monthly work progress, update site issue and report to project engineers</li><li>Other tasks &amp; projects as assigned from time to time</li></ol><p><strong>Job requirements:</strong></p><ul><li>Professional Certificate, or Diploma in Mechanical, Electrical Engineering or subject related to Building Construction</li><li>Minimum 3 years&#8217; mechanical, E&amp;I experience (HV, MV, LV, ELV, SCADA, and/or Telemetry) in construction of water, wastewater, hydropower, solar PV farm, and/or other major infrastructure works</li><li>Competent Wireman registered with Suruhanjaya Tenaga is an advantage (PW4, PW2)</li><li>Willing to travel and station within Malaysia when required</li><li>Self-motivated, able to work with minimum supervision</li><li>&#160;Able to read and understand construction drawings</li><li>Good supervisory skill</li><li>Computer literate MS Office</li><li>Able to communicate oral and written in Bahasa and English</li><li>Possess technical knowledge and capability to solve technical and site issue</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+	Water Engineering Technology Sdn Bhd was first incorporated in 1980 and today, more than two decades after its incorporation, WET prides itself as one the the leading Mechanical &amp; Electrical engineering firm in the water and wastewater industry. With the extensive years of experience, WET is now capable of providing turnkey M&amp;E contracting services for the municipal water supply schemes. In addition, WET is also involved in the provision of operation and maintenance services for water treatment plants and sewage pumping stations which effectively placed WET in the position to provide the total solution for M&amp;E Systems in municipal Water Supply Scheme from design, supply, install, testing and commissioning of M&amp;E Systems down to operation and maintenance of the plants</div>
+<div>
+	We are one of the leading players in water related M&amp;E works for municipal water,wastewater and Oil &amp; Gas industries.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor, Perak, Sarawak. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/site-supervisor-wireman-mechanical-electrical-n-instrumentation-4526803?jobId=jobstreet-my-job-4526803&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

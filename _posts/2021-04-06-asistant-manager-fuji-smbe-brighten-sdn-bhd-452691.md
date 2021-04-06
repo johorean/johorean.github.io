@@ -1,0 +1,21 @@
+---
+title: "Fuji SMBE Brighten Sdn Bhd Vacancies Assistant Manager" 
+category: Jobs 
+date: 2021-04-06 
+excerpt: "Fuji SMBE Brighten Sdn Bhd is currently looking for suitable person to fill in the Assistant Manager which based in Johor - Others" 
+tags: [Johor - Others] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Fuji SMBE Brighten Sdn Bhd is looking for new potential candidates to fill in for <b>Assistant Manager</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p>Responsibilities:</p><ul><li>To ensure that our product meeting clients&#8217; quality and delivery requirement.</li><li>To ensure smooth running of daily production flow with the highest possible quality and efficiency.</li><li>To liaise machine supplier for repairs and machine maintenance.</li><li>To maintain quality programs such as ISO for effective production operations and ensure all written procedures (SOP)are being adhered.</li><li>Good communication skills &amp; interpersonal skills.</li><li>Carry out reasonable assigned duties from time to time by management.</li></ul><p>Requirements:</p><ul><li>A Diploma or Bachelor's Degree in&#160;Engineering (preferably Mechanical) or equivalent.</li><li>At least 3 year(s) of working experience in the production is required for this position.</li><li>Ability to work independently and handle multiple tasks.</li><li>Able to show leadership in leading the production team to achieve target.</li><li>Good working attitude and ability to interact with people.</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>&#160;Fuji SMBE Switchgear Group formerly known as SMB Electric Pte Ltd, the Company is a market leader in the design and manufacture of proprietary low voltage switchgear and control gear solutions in Singapore. In December 2014, the Company was acquired by Fuji Electric Co., Ltd and renamed as Fuji SMBE Pte Ltd (''Fuji SMBE''). With a long operating history since 1973, Fuji SMBE has gained industry recognition for its expertise in motor and power control systems, switchgear manufacturing, electrical distribution systems to various market applications and OEM solutions.</p><p>Not one to rest on its laurels, the Fuji SMBE Switchgear Group has expanded oversea and set up manufacturing locations in countries such as Malaysia, Indonesia and Australia in order to target the growing demand for advanced switchgear solutions in region. This foray has proved to be very beneficial as the switchgear group was able to achieve greater economies of scale through labour and cost savings. The switchgear group also distributes switchgear solutions oversea to Africa, the Middle East, India, and other parts of Asia.&#160;&#160;</p><p>Over the years, the switchgear group has gained invaluable experience and expertise in a comprehensive array of power distribution products and application solution for the Commercial, residential, Industrial Process Plants, Infrastructural developments. Food processing, Pharmaceutical, and the Marine/Oil &amp; Gas applications as well as for the specialized industries such as Data Centers and other Mission Critical projects such as Hospitals. The group is continuously committed to introduce state-of-the-art equipment and technology upgrades to its product offerings.</p><p>The most valuable assets of this division are the people. The group breeds a culture of care, concern and learning for the employees, believing that the staff will be motivated to serve and in turn, create further value for the organization.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor - Others. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/assistant-manager-4526691?jobId=jobstreet-my-job-4526691&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
