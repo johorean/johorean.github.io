@@ -1,0 +1,21 @@
+---
+title: "Lyreco Office Supplies (M) Sdn Bhd Vacancies Sales Executive (Outdoor Sales)" 
+category: Jobs 
+date: 2021-04-09 
+excerpt: "Lyreco Office Supplies (M) Sdn Bhd is currently looking for suitable person to fill in the Sales Executive (Outdoor Sales) which based in Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Lyreco Office Supplies (M) Sdn Bhd is looking for new potential candidates to fill in for <b>Sales Executive (Outdoor Sales)</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>MAIN RESPONSIBILITIES:</strong></p><p>To&#160;reach out and present Lyreco service solution to the business at the designated territory area assigned to you and ensure we become one of the preferred supplier to our customers&#8217; choice</p><p><strong>KEY ACCOUNTABILITIES:</strong></p><ul><li>Do daily door-to-door canvasing in designated area assigned to you</li><li>Winning new customer accounts through strategic business development planning</li><li>Do door to door prospect visit</li><li>To understand prospect purchasing needs and present most suitable pricing and quotation offer</li><li>Initiate account creation for prospect using our internal sales tool</li><li>To achieve monthly sales margin and target given</li><li>Servicing existing customer according to the company set schedule to ensure their needs are being attended to professionally</li><li>Provide full purchase and business dealing information to prospect customer to ensure proper business dealing understanding is established</li><li>Any other relevant adhoc tasks assign to you from time to time by the management</li></ul><p><strong>SKILLS &amp; QUALIFICATION:</strong></p><ul><li>Positive thinking / Never say never&#160;</li><li>Team oriented character, able to achieve individually and contribute to team&#8217;s achievement</li><li>Aggressive, Dauntless, determined to achieve</li><li>Strong mindset, able to work under pressure</li><li>Resilience, able to self-motivate consistently</li><li>Required language(s):&#160;Bahasa Malaysia, mandarin, English</li><li>Minimum&#160;2&#160;Year(s) of working experience in the related field is required for this position.</li><li>Required Skill(s): Negotiation skill, Listening skill, Selling skill</li><li>Preferably Junior Executive specialized in Sales - B2B industry or equivalent</li></ul><p><strong>What We Offer:</strong></p><ul><li>Competitive salary including sales commission and incentive</li><li>Medical and insurance benefits</li><li>Sales experience in dealing with corporate customer</li><li>Career growth</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>Lyreco group is the European leader and the third largest distributor of workplace products and services in the world.&#160;</p><p>A privately owned company since 1926, Lyreco has constantly adapted to the evolutions of workplace thanks to its constant focus on excellence in customer experience, strong partnerships with renowned suppliers, and efficient logistics.&#160;</p><p>The group directly operates in 25 countries in Europe and Asia and covers 17 additional markets on 4 continents through a network of distribution partners.</p><p><strong>Delivering What Any Workplace Needs</strong></p><p>As a specialist of the work environment, Lyreco's expertise keeps on&#160;extending&#160;to cover&#160;all workplace needs: office supplies, furniture, IT equipment, printing solutions, personal protective equipment, hygiene, coffee and catering.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/sales-executive-outdoor-sales-4529914?jobId=jobstreet-my-job-4529914&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
