@@ -1,0 +1,22 @@
+---
+title: "Gemilang Coachwork Sdn Bhd Vacancies English Language Specialist (Corporate Trainer Cum Marketeer)" 
+category: Jobs 
+date: 2021-04-12 
+excerpt: "Gemilang Coachwork Sdn Bhd is currently looking for suitable person to fill in the English Language Specialist (Corporate Trainer Cum Marketeer) which based in Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Gemilang Coachwork Sdn Bhd is looking for new potential candidates to fill in for <b>English Language Specialist (Corporate Trainer Cum Marketeer)</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Purpose of Position:</strong></p><p>To provide Language support for all employees via regular training session and various business support channels. In addition, to support the organisation &#8216;<strong>Corporate Branding</strong>&#8217; initiative in developing relevant contents for the company online and offline communication platform.&#160;&#160;</p><p><strong>Job Responsibilities:</strong></p><ul><li>You will be the &#8216;<strong>English Language Specialist</strong>&#8217; for the company.&#160;</li><li>You will be responsible to improve our employees&#8217; English language capability through <strong>regular training</strong> session covering Writing, Speaking, Reading and Listening skill.</li><li>You will need to <strong>support</strong> our employees&#8217; especially in <strong>proof-reading</strong> their written contents for business purpose via <strong>different communication channels</strong> such as email, business correspondence, print-out, etc, as when necessary.</li><li>You will need to <strong>design and develop</strong> suitable <strong>training contents</strong> with <strong>assessment</strong> for the in-house English course. You will be responsible to consistently build the &#8216;<strong>Knowledge Based</strong>&#8217; for English language related to in-house business operation.</li><li>You will be responsible to develop suitable contents for our &#8216;<strong>Corporate Branding</strong>&#8217; purpose at <strong>different platform</strong> such as LinkedIn, facebook, Corporate Website, internal correspondence, etc.</li><li>You will be responsible to provide <strong>basic public relation response</strong> for the company&#8217;s marcom areas.&#160;</li></ul><p><strong>Job Criteria:</strong></p><ul><li>Minimum a bachelor&#8217;s degree in Mass Communication with specialisation in ESL (English as Second Language);</li><li>Preferably candidate who has completed the TTT (Train-The-Trainer) Programme;</li><li>Possess at least 2-3 years teaching/ lecturing/ training experience especially for Business English language;&#160;</li><li>Past experience in proof-reading marketing material and/ or the field of marketing communication / public relation will be advantages;&#160;</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div><strong>Gemilang</strong> is the industry leading and Asia fastest growing bus body manufacturer.&#160; Since its inception in 23rd September 1989, <strong>Gemilang </strong>has experienced 2 decades of international growth, breakthrough technological innovation and a strong reputation for excellence.&#160; Under the leadership of a strong and responsible management team,<strong> Gemilang </strong>continues to drive the frontiers of innovation, and rapid international growth with its highly motivated and successful team.&#160;</div>
+<div><strong>Gemilang Coachwork Sdn. Bhd.</strong> is primarily involved in bus body fabrication. We have expanded rapidly in recent years and now looking for suitable person to join our organisation to grow with us.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/english-language-specialist-corporate-trainer-cum-marketeer-4533459?jobId=jobstreet-my-job-4533459&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

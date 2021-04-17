@@ -1,0 +1,23 @@
+---
+title: "Mybrushgroup of companies Vacancies Mechanical Engineer - Design" 
+category: Jobs 
+date: 2021-04-12 
+excerpt: "Mybrushgroup of companies is currently looking for suitable person to fill in the Mechanical Engineer - Design which based in Johor - Others" 
+tags: [Johor - Others] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Mybrushgroup of companies is looking for new potential candidates to fill in for <b>Mechanical Engineer - Design</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p><span>The Mechanical Engineer supports product engineering activities which involves analysing, designing and prototyping equipment, jigs, processes or automation to improve production and quality.</span></p><p><strong>Responsibilities</strong></p><ul><li><span>Work closely with clients, production and quality on product specifications and requirements</span></li><li><span>Determine design requirement, drawing specification, machining specification, installation and testing method to meet target function</span></li><li><span>Plan on projects design structuring to effectively and efficiently create design within timeline.</span></li><li><span>Design or redesign mechanical&#160;devices or machine or jig fixture using analysis and computer-aided design in 2D or 3D</span><span></span></li><li><span>Develop and test prototypes of devices been design</span></li><li><span>Analyze the test results and change the design as needed</span></li><li><span>Work closely with production and quality to understand design issues and formulate solutions to ensure intended design objectives</span></li><li><span>Prepare related SOPs of product for production to control products assembly method will be the same to create same quality of products for future</span></li></ul><p><strong>Requirements</strong></p><ul><li>Degree in Mechanical Engineering</li><li>2 years experience in design of mechanical and/or thermal equipment</li><li><span>3 years experience in manufacturing industry</span></li><li><span>Good knowledge of pneumatic and motorized systems</span></li><li>Experienced using 3D CAD software such as SolidWorks and CREO</li><li>Experience working with suppliers</li><li>Experience developing and testing prototypes</li><li>Familiar with process improvement or Kaizen</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+<div><strong>MyBrush started out as a contract brush manufacturer more than two decades ago and from our modest beginning has today grown into a reputable manufacturer of a wide range of quality products.&#160;<br><br>Over the years, MyBrush has continuously refined and perfected the process and technical know-how of brush making to become one of the best manufacturers in the industry. This achievement could only be made possible tbrough our intensive research and development initiatives and employing the latest technology in our manufacturing process.&#160;<br><br>To guarantee the quality of our products stand up to highest standard, the company has also invested heavily into the newest equipment and machineries coupled with constant vigilant practice of international standards. It is for these fundamental management philosophies that made our products today are the preferred choice by some of the most renowned brands.&#160;<br><br>As our research and development matures along with the growth of our business, new capabilities are now opening up new potential business opportunities. So as our capabilities grows, the company is looking beyond traditional contract manufacturing business of brushes and venturing into strategic partnership with parties who desires to work with a reputable and reliable manufacturer which possesses both research and design capabilities.&#160;<br><br>MyBrush is now in a position to offer joint product development where we can provide a comprehensive platform of design, product development and manufacturing facility as a one stop solution in product commercialization.</strong></div>
+</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor - Others. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/mechanical-engineer-design-4534434?jobId=jobstreet-my-job-4534434&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

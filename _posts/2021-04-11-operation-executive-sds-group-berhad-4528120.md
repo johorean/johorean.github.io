@@ -1,0 +1,21 @@
+---
+title: "SDS Group Berhad Vacancies Operation Executive" 
+category: Jobs 
+date: 2021-04-11 
+excerpt: "SDS Group Berhad is currently looking for suitable person to fill in the Operation Executive which based in Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>SDS Group Berhad is looking for new potential candidates to fill in for <b>Operation Executive</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><div><strong>Job descriptions:</strong>To assist the Operations Manager with his routine duties and responsibilities as below:1.&#160;&#160;&#160;&#160;&#160;Periodically monitor and compile:<ul><li>Outlet purchase cost</li><li>Outlet Labour cost</li><li>Outlet Disposal Detail Report</li><li>Outlet Items Sales Detail Report</li><li>Tender Report</li><li>Hourly &amp; Transaction Report</li><li>Food Delivery Report</li><li>Average Spending Report</li><li>Month to date report</li><li>Over time report</li></ul><br>2.&#160;&#160;&#160;&#160;&#160;Prepare presentation materials and take minutes of meeting for Ops meeting, PIC meeting and Chef meeting.3.&#160;&#160;&#160;&#160;&#160;Prepare training contents and materials for SOP Training for outlet management staff, take attendance and consolidate training feedback.4.&#160;&#160;&#160;&#160;&#160;Back up as Internal SOP Auditor when necessary.5.&#160;&#160;&#160;&#160;&#160;Ad hoc task which includes compile, consolidate and dissemination of information on behalf of Operations Manager, transfer of stocks, dispatch of important/sensitive documents and small purchases.6.&#160;&#160;&#160;&#160;&#160;Assist in new outlet openings.&#160;<strong>Requirement:</strong><ul><li>6 days per week, random off days &amp; 9 hours&#8217; flexible shift.</li><li>Salary Range between RM2500-RM3000 per month.</li><li>Any discipline in Hospitality or Food and Beverage. Not compulsory but will be an added bonus.</li><li>At least 2 years in Food and Beverage, Hospitality or Airline Service industry.</li><li>Own transport and willing to commute between all outlets.</li><li>Toll, parking &amp; petrol claimable</li><li>Hostel for candidate outside of Johor state.</li><li>Epf, Socso, Annual Bonus and yearly increment (subjected to work performance)</li><li>Internal and external proficiency trainings.&#160;&#160;</li></ul></div></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>SDS is the retail subsidiary of SDS Groups. As a Johor home-grown company, SDS Groups develop its business with three subsidiary brands including SDS, wholesale subsidiaries Top Baker and Daily&#8217;s Bakery. Top Baker and Daily&#8217;s Bakery are bakery product suppliers and wholesalers delivering delectable bread to nationwide daily. New factory launched in Seremban has begun its operation in October 2017 serving more confectioneries to Malaysians.</p><p>SDS which is well-recognized in Johor region for its quality confectionery products valuable for money and excellent customer service. Since 1987, SDS continuously invents new creations monthly to keep customer&#8217;s excitement in SDS products. Aligned with the Share, Dine, Smile motto &#8211; SDS envisions to give its valued customer the most unique and enjoyable dining experience.&#160;</p><p>The wide array of SDS confectionery includes bread, pastries, and cakes. Beside bakery, SDS Cafe is providing western food, local food, casual dining, coffee and beverages. Other than that, festive cookies, hampers, mooncakes, baby full month and wedding gift sets are also available at SDS.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/operation-executive-4528120?jobId=jobstreet-my-job-4528120&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

@@ -1,0 +1,21 @@
+---
+title: "Greater Asia Seafood Sdn Bhd Vacancies Receptionist cum Admin" 
+category: Jobs 
+date: 2021-04-12 
+excerpt: "Greater Asia Seafood Sdn Bhd is currently looking for suitable person to fill in the Receptionist cum Admin which based in Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Greater Asia Seafood Sdn Bhd is looking for new potential candidates to fill in for <b>Receptionist cum Admin</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Job Descriptions:</strong></p><ul><li>Serves visitors by greeting, welcoming, and directing them appropriately.</li><li>Notifies company personnel of visitor arrival.</li><li>Informs visitors by answering or referring inqueries.</li><li>Directs visitors by maintaining employee and department directories.</li><li>Maintain security and telecommunications system.</li><li>Operates telecommunications systems by following manufacturer&#8217;s instruction for house phone and console operations.</li><li>Maintains security by following procedures, monitoring logbook, and issuing visitor badges.</li><li>Keep a safe and clean reception area by complying with procedures, rules, and regulations.</li><li>Supports continuity among work teams by documenting and communicating actions, irregularities, and continuing needs.</li><li>Assist production department in capturing daily raw-mate receiving data, daily finish goods produce into computer database.</li><li>Maintain proper recording and storage of production data for easy referring.</li><li>Prepare/printing production forms.</li><li>Any ad-hock task assigned.</li></ul><p><strong>Job Requirements:</strong></p><ul><li><span>Candidate must possess at least Higher Secondary School/STPM/&#8221; A&#8221; Level/Pre-U or higher in Business Studies / Administration.</span></li><li><span>Proficient in spoken and written English and mandarin spoken is an added advantage.</span></li><li><span>Strong computer capabilities in MS Excel, MS Word, and Power Point.</span></li><li><span>Excellent oral communication skills, interpersonal skills, and customer management skill.</span></li><li><span>At least 2 years&#8217; experience in related field.</span></li><li><span>Possess own transport and a valid driving license (B, D).</span></li><li><span>Must be trustworthy, punctual, and able to work extended hours.</span></li><li><span>Positive working attitude and good health, ability to work independently and under pressure in fast-paced environment with minimal supervision.</span></li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>We are an established integrated seafood manufacturer with our highly advanced plant based in Pasir Gudang. Our speciality in farming and processing of Black Tiger Shrimps has earned us a place in the export market, at the very highest level of excellence.</p><p>Generally, we are highly responsible for the below four (4) core values:</p><p>To nature and the environment, by ensuring our farming and processing procedures are done in a sustainable way.</p><p>To our employees, by providing a workplace that is happy, nurturing a sense of teamwork, secure and safe.</p><p>To our products, treating the shrimps with care and respect as should be accorded to this priceless gift mother nature has awarded us a wholesome and nutritious food.</p><p>To our customers, by maintaining the high quality and value of our products.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/receptionist-cum-admin-4534957?jobId=jobstreet-my-job-4534957&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
