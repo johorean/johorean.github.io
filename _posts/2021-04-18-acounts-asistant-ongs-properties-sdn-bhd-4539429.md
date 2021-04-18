@@ -1,0 +1,20 @@
+---
+title: "Ongs Properties Sdn Bhd Vacancies Accounts Assistant" 
+category: Jobs 
+date: 2021-04-18 
+excerpt: "Ongs Properties Sdn Bhd is currently looking for suitable person to fill in the Accounts Assistant which based in Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Ongs Properties Sdn Bhd is looking for new potential candidates to fill in for <b>Accounts Assistant</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p>Interested candidates, please apply online with your <strong>complete detailed resume via Jobstreet.com</strong></p><p><strong>Responsibilities</strong></p><p>&#183;&#160;&#160;To assist in the day-to day accounting functions and operations.</p><p>&#183;&#160;&#160;To handle petty cash reconciliation, purchase order and budget monitoring.</p><p>&#183;&#160;&#160;To update fresh fruit bunch (FFB) monthly schedule, bank reconciliation and prepare monthly payment voucher(s) for supplier payments.</p><p>&#183;&#160;&#160;To prepare documents and payments for submission to KWSP, PERKESO, LHDN &amp; HRDF and other institutions as deemed necessary.</p><p>&#183;&#160;&#160;To partake in administrative works such as filling documents, monitoring insurance policy expiration dates and others as deemed necessary.</p><p>&#183;&#160;&#160;To support the Account Team with any ad-hoc tasks which may arise.</p><p><strong>Requirements</strong></p><p><span>&#183;&#160;&#160;Candidate must possess at least a Higher Secondary/STPM/"A" Level/Pre-U, Diploma, Advanced/Higher/Graduate Diploma, Finance/Accountancy/Banking or equivalent.</span></p><p><span>&#183;&#160;&#160;&#160;At least 3 year(s) of working experience in the related field is required for this position.</span></p><p><span>&#183;&#160;&#160;&#160;Required language(s): Bahasa Malaysia, English.</span></p><p><span>&#183;&#160;&#160;&#160;Applicants must be willing to work in&#160;</span><strong>Taman Adda Height, Johor Bahru.</strong></p><p><span>&#183;&#160;&#160;&#160;Preferably Non-Executives specializing in Finance - Corporate Finance / Investment / Merchant Banking</span></p><p><span>&#183;&#160;&#160;&#160;Full-Time position(s) available.</span></p><p><span>&#183;&#160;&#160;&#160;Possess own transport.</span></p><p><span>&#183;&#160;&#160;&#160;</span><strong>Yearly increment and performance bonus</strong></p><p><span>&#183;&#160;&#160;&#160;</span><strong>Outstanding career and development opportunities</strong></p><p>The Admin &amp; Personnel Department</p><p>Ongs Properties Sdn. Bhd.</p><p>No 79-01 Jalan Adda 3/1,</p><p>Taman Adda,</p><p>81100 Johor Bahru,</p><p>Johor.</p><p>Telephone: 60-7-3644558</p><p>Interested candidates, please apply online with your <strong>complete detailed resume.</strong></p><p>Only shortlisted candidate will be notified.</p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>Ongs Properties Sdn. Bhd., and related entities, primarily operate within the palm oil and property industries. Established in 1973, Ongs Properties Sdn. Bhd. has been an active player in the property market, especially in Johor Bahru. In East Malaysia, Ongs Properties Sdn. Bhd.&#8217;s related entities operate palm oil estates in Sabah and Sarawak, focusing on the cultivation and harvesting of fresh fruit bunches using leading technologies, machineries and systems. In Sarawak, the palm oil estates have also pioneered cattle integration, focusing on breeding and wholesale.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/accounts-assistant-4539429?jobId=jobstreet-my-job-4539429&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
