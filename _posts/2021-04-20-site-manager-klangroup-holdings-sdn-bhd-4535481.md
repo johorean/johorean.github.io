@@ -1,0 +1,20 @@
+---
+title: "Klanggroup Holdings Sdn Bhd Vacancies SITE MANAGER" 
+category: Jobs 
+date: 2021-04-20 
+excerpt: "Klanggroup Holdings Sdn Bhd is currently looking for suitable person to fill in the SITE MANAGER which based in Johor, Kuala Lumpur, Melaka, Negeri Sembilan, Penang, Perak, Sabah, Selangor, Sarawak, Terengganu" 
+tags: [Johor, Kuala Lumpur, Melaka, Negeri Sembilan, Penang, Perak, Sabah, Selangor, Sarawak, Terengganu] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Klanggroup Holdings Sdn Bhd is looking for new potential candidates to fill in for <b>SITE MANAGER</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><div>&#8226; To supervisor construction daily activities progress according to deadline.&#8226; To planning, monitor &amp; coordinate of sub-contractors and other trades construction works.&#8226; Monitoring of construction progress.&#8226; Ensure all material use and works are carried out in accordance to the contract requirements, drawing, project time schedule.&#8226; To plan and monitor the usage of equipment, machinery &amp; material at site&#8226; Manage on site work progress, work schedule, work quality and document management, site meeting, sub-contractor progress claim status.&#8226; Update and submit site progress for stage billing purposes.&#8226; Recording and compiling project information as required.&#8226; Plan &amp; keep track of stock availability on site to ensure smoothly work.&#160;&#8226; Planning for project development, work programmers, costing, project documentation &amp; all related work.&#8226; To liaise and follow up with clients, consultants, relevant authorities, general public, contractor and suppliers of projects undertaken by the Company.&#8226; To prepare work program, schedule and plan for project's resources, manage the allocation efficiently.&#8226; To attend site meeting with consultants and clients; organize internal meeting with subcontractor to resolve the technical and site logistic issues.&#8226; Scheduling material and equipment purchase and delivery.&#8226; Ensuring projects run smoothly and structures are completed within budget and on time.&#8226; Undertaking quality control and quality assurance of various products.<br><strong>Requirements:</strong>&#8226; Candidates must possess at least Diploma, Post Graduate Diploma, Bachelor Degree in Civil Engineering or equivalent.&#8226; Minimum 5 years of working experience in the related field is required for this position.&#8226; Experience in property development and construction field.&#8226; Able to read and understand construction drawing.&#8226; Posses good leadership &amp; management skills.&#8226; Able to work under pressure, multi task, problem solving,&#160;independently and meet tight deadlines.&#8226; Good command of Mandarin, English and Bahasa Malaysia is a mandatory.&#183;&#160;Willing to work in various construction site across <strong>Klang valley.</strong></div></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>KLANGGROUP is a property development company with an explicit objective that target of building the excellent property development for satisfying customer needs. Indeed, the company was formed by experienced businessmen who have professional knowledge and business acumen, which combine their respective strong financial resources to invest high-end property development at the selected prime location.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor, Kuala Lumpur, Melaka, Negeri Sembilan, Penang, Perak, Sabah, Selangor, Sarawak, Terengganu. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/site-manager-4535481?jobId=jobstreet-my-job-4535481&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
