@@ -1,0 +1,20 @@
+---
+title: "OBZA SERVICES SDN BHD Vacancies Account Executive Cum HR (Snr)" 
+category: Jobs 
+date: 2021-04-21 
+excerpt: "OBZA SERVICES SDN BHD is currently looking for suitable person to fill in the Account Executive Cum HR (Snr) which based in Johor Bahru" 
+tags: [Johor Bahru] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>OBZA SERVICES SDN BHD is looking for new potential candidates to fill in for <b>Account Executive Cum HR (Snr)</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Account Executive (Main Task)</strong></p><ul><li>Handle full set of accounts and oversea all related accounting tasks</li><li>Monitoring of issuance of invoice, DO, PO, PV, CN and OR</li><li>Prepare and analyze schedule expenses for auditor</li><li>Liaise with Management Team, Vendors, Client, Auditors and any other statutory bodies for Statutory Reporting, Corporate Governance and Compliance's matter</li><li>Documentation for tax (SST)</li><li>Responsible and maintain fixed asset and inventory register</li></ul><p><strong>Human Resource (Secondary Task)</strong></p><ul><li>To prepare payroll computation such as salary, overtime, allowances, commissions and etc</li><li>Manage accurate attendance and leave record of the employees</li><li>Check staff attendance, leave record and manage overall staff personnel files, ensuring all information are properly kept with highest level of confidentiality</li><li>Manage and kept record for workers SWAB test, training and course</li><li>Process statutory payment (i.e EPF, SOCSO, EIS &amp; Income Tax) and ensure timely submission</li><li>Prepare journal for payroll and other journal entries.</li></ul><p><strong>Requirement</strong></p><ul><li>Candidate must possess at least Diploma in Account or relevant field.</li><li>Required language(s): Bahasa Malaysia, English (<span>Candidates fluent in English is preferred)</span></li><li>At least 5 years experiences in Accounting</li><li>Knowledge in <span>MS Word, Excel and PowerPoint</span></li><li>Maintain the highest level of confidentiality and professionalism at all time</li><li>Able to work under pressure with good time management skills.</li><li><span>Good interpersonal skills and able to work with all levels of employees</span></li><li>Candidates are required to have driving license and possess own transport.</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>OBZA SERVICES SDN BHD is a Malaysia Bumputra</p><p>company registered with the Finance Ministry.</p><p>OBZA deals with the supply of a wide range of</p><p>equipment and parts related to the oil &amp; gas,</p><p>marine and utility industries.</p><p>OBZA was incorporated on 14 September 2012</p><p>and has been progress since then. We offer a</p><p>competitive price, shortest possible delivery as</p><p>well as an efficient and reliable service to our</p><p>client.</p><p>Our excellent services have been rewarded with</p><p>continuous business from esteemed organizations</p><p>which demands nothing short but the best services</p><p>from the vendors.</p><p>Being a young and aggressive company, OBZA</p><p>believes in the continual pursuance of excellence</p><p>through an efficient and reliable service. These</p><p>efforts are geared to suit the needs of a demanding</p><p>and ever developing industry.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor Bahru. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/account-executive-cum-hr-snr-4543643?jobId=jobstreet-my-job-4543643&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

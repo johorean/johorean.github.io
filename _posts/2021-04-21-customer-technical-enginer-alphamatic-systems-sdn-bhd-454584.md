@@ -1,0 +1,25 @@
+---
+title: "ALPHAMATIC SYSTEMS SDN BHD Vacancies CUSTOMER TECHNICAL ENGINEER" 
+category: Jobs 
+date: 2021-04-21 
+excerpt: "ALPHAMATIC SYSTEMS SDN BHD is currently looking for suitable person to fill in the CUSTOMER TECHNICAL ENGINEER which based in Johor Bahru, Puchong" 
+tags: [Johor Bahru, Puchong] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>ALPHAMATIC SYSTEMS SDN BHD is looking for new potential candidates to fill in for <b>CUSTOMER TECHNICAL ENGINEER</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><div><div><strong>Highlights</strong><ul><li><strong>Long term career development and planning</strong></li><li><strong>Fully sponsored training</strong></li><li><strong>Vast and diverse e-learning courses</strong></li></ul><div>As the name implied, being a&#160;<strong>Customer Technical Engineer</strong>, you need to interact closely with customers and provide technical support to contract customers meeting the committed Service Level Agreement (SLA). First, you assist customers to resolve issues via phone and remote support. If problem persist, you will arrange to go on-site. Besides, you will also involve in new installation on endpoint devices and project deployment on critical systems e.g. Servers, Storage and Network equipment which managed by Technology Specialist.</div></div><br><strong>What do you need to be successful?</strong><ul><li>Minimum <strong>2 year IT support experience</strong></li><li>Degree in <strong>IT, Computer Science </strong>or Engineering</li><li>You will need to be keen in learning because there are various technology, solutions &amp; products from multiple vendors e.g. Microsoft, HPE, DellEMC, Vmware, Veeam etc.</li></ul><div><br><strong>How can we made you more successful in this role?</strong></div><ul><li>Mentor programme guided by Technology Specialist / Project Manager.</li><li>Involve and learn in projects implementation for sizable and sophisticated project which led by dedicated Project Manager/Technology Specialist.</li><li>Once you have sufficient experience &amp; exposure, you will be given opportunities to deploy a smaller project with guidance from the Technology Specialist Team.</li></ul><div><br><strong>Why this job is important to you?</strong></div><ul><li>Opportunity to participate in special certification programme as MCSA, CCNA etc. with fully sponsored training/e-learning &amp; exams couple with incentives once passed.</li><li>You have a proper career path to move on as Technology Specialist then to Project Lead and Project Manager.</li><li>You will gain abundant exposure and experience in latest technology and solutions.</li><li>Your experience and knowledge learned in 2 years on this position will equivalent to anyone working in as internal IT support engineer for 4 years or more.</li><li>You would be proud and grateful of the growth of your personal value because of the multiple competencies you have gained and critical experiences you are exposed to.</li><li>It is your stepping stone and turning point in building your career as a Technology Specialist or Technology Consultant or Project Manager eventually.</li></ul></div></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+<strong>History</strong></div>
+<div>
+<strong>Alphamatic Group</strong> is one of the Malaysia's leading information and communication technology service, solution and consultancy providers. Established in 1983, Alphamatic Group has grown tremendously to an established organization. Throughout its history of providing value-added solutions, Alphamatic has maintained the basic principle of giving its customers the best product with the best service. Strategic alliance with key industry players strengthens its capability and reliability to ensure its customers are ahead of the market!</div>
+<div>
+<strong>Alphamatic Systems </strong>is a leading &amp; well established System Integrator, we have strong capabilities in delivering enterprise and corporate business solutions. With about 150 employees, we are growing our business unit and we are positive in developing our business growth to meet our expansion&#8217;s demands. We have been winning industry awards from year to year as we have a depth of understanding of business requirements and integrating these values of solutions to enhance our clients&#8217; businesses. Our growth is built on consistent performance in delivering successful projects and underpinned by strong client relationships.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor Bahru, Puchong. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/customer-technical-engineer-4544584?jobId=jobstreet-my-job-4544584&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
