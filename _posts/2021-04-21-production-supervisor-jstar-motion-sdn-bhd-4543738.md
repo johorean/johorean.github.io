@@ -1,0 +1,21 @@
+---
+title: "Jstar Motion Sdn Bhd Vacancies Production Supervisor" 
+category: Jobs 
+date: 2021-04-21 
+excerpt: "Jstar Motion Sdn Bhd is currently looking for suitable person to fill in the Production Supervisor which based in Johor - Others" 
+tags: [Johor - Others] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Jstar Motion Sdn Bhd is looking for new potential candidates to fill in for <b>Production Supervisor</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Responsibilities</strong></p><p><span>&#183;&#160;&#160;&#160;&#160;&#160;Manage workforce according to the production plan</span></p><p><span>&#183;&#160;&#160;&#160;&#160;&#160;Plan and assign daily duties to workers.</span></p><p><span>&#183;&#160;&#160;&#160;&#160;&#160;Responsible to meet daily output, yield and quality target.</span></p><p><span>&#183;&#160;&#160;&#160;&#160;&#160;Monitor hourly performance and response with necessary action to meet target.</span></p><p><span>&#183;&#160;&#160;&#160;&#160;&#160;Ensure daily production figures are correct.</span></p><p><span>&#183;&#160;&#160;&#160;&#160;&#160;Escalation point of daily issue from individual lines.</span></p><p><span>&#183;&#160;&#160;&#160;&#160;&#160;Ensure workforce are trained to perform their task.</span></p><p><span>&#183;&#160;&#160;&#160;&#160;&#160;Identify all issues and suggest for improvements.</span></p><p><span>&#183;&#160;&#160;&#160;&#160;&#160;Update production reporting.</span></p><p><span>&#183;&#160;&#160;&#160;&#160;&#160;Update all related production numbers in SAP</span></p><p><span>&#183;&#160;&#160;&#160;&#160;&#160;Responsible for disciplinary issues for workers under his charge.</span></p><p><span>&#183;&#160;&#160;&#160;&#160;&#160;Key person for Stock Take activities.</span></p><p><span>&#183;&#160;&#160;&#160;&#160;&#160;Ensure the workforce follow all company rules and regulations.</span></p><p><strong>Requirements</strong></p><ul><li>Diploma or Degree in any field</li><li>3 years of experience as production supervisor</li><li><span>Able to communicate and write in Bahasa Malaysia, English &amp; Mandarin(added advantage) in order to communicate with Mandarin speaking employees, local and overseas.</span></li><li>Able to understand and learn technical topics</li><li>Good skills in MS Office</li><li>Organizational and leadership abilities</li><li>Communication and interpersonal skills</li><li>Self-motivated with a results-driven approach</li><li>Knowledge in Root Cause Analysis</li><li>Good knowledge is SAP</li><li>Willing to work 6 days in Kulai, Johor</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>Jstar Motion Sdn Bhd was established in July 2019 and is privately owned by J-Star Motion Corporation USA under the NEEQ listed company, Jiecang Group. We are an OEM manufacturer of Electronically-controlled Desk Lifting Column and Electronically-controlled Lifting Desk Frame. Due to our high standards, our products become globally respected for use as office furnitures.</div>
+<div>The factory in Bandar Indahpura spanning about 21,000 square metres is our first factory in Asia region and has begin the operation since June 2020.&#160;The factory is designated for office space, R&amp;D and workshops specializing in lifting column assembly and electronics including the state of art technology machines; laser cutting, palletizer robot and welding robot.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor - Others. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/production-supervisor-4543738?jobId=jobstreet-my-job-4543738&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
