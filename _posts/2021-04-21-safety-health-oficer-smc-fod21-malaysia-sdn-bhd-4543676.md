@@ -1,0 +1,21 @@
+---
+title: "SMC Food21 (Malaysia) Sdn. Bhd. Vacancies Safety & Health Officer" 
+category: Jobs 
+date: 2021-04-21 
+excerpt: "SMC Food21 (Malaysia) Sdn. Bhd. is currently looking for suitable person to fill in the Safety & Health Officer which based in Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>SMC Food21 (Malaysia) Sdn. Bhd. is looking for new potential candidates to fill in for <b>Safety & Health Officer</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>RESPONSIBILITIES :</strong></p><p>1.&#160;&#160;&#160;&#160;&#160;&#160;Ensure a safe workplace environment without risk to health.</p><p>2.&#160;&#160;&#160;&#160;&#160;&#160;To develop and ensure that all SHE policies, procedures, rules and regulations are adhered to and are regularly reviewed, updated and communicated.</p><p>3.&#160;&#160;&#160;&#160;&#160;&#160;Ensure the Company meets its statutory obligations in all areas pertaining to SHE and welfare at work, including statutory training and reporting.</p><p>4.&#160;&#160;&#160;&#160;&#160;&#160;&#160;Ensure the completion and regular review of risk assessments for all work equipment and operations.</p><p>5.&#160;&#160;&#160;&#160;&#160;&#160;Ensure that all accidents are documented, investigated and recommended improvements implemented.</p><p>6.&#160;&#160;&#160;&#160;&#160;&#160;Ensure that safety inspections are carried out, fire drills and fire alarms are correctly reported, risk assessments and self-safety working procedures are managed and employees are aware of their responsibilities.</p><p>7.&#160;&#160;&#160;&#160;&#160;&#160;Establish a full programme of documented SHE inspections, audits and checks.</p><p>8.&#160;&#160;&#160;&#160;&#160;&#160;Establish a structured programme of SHE training throughout the Company and liaise with external SHE consultants in the provision of training programmes and services.</p><p>9.&#160;&#160;&#160;&#160;&#160;&#160;&#160;Ensure full and accurate SHE training records are maintained.</p><p>10.&#160;&#160;Manage and devise the agenda for, chair and formulate &amp; distribute minutes for the SHE Committee meetings.</p><p>11.&#160;&#160;Ensure that all agreed action points are completed within deadlines. Keep up to date with all aspects of relevant SHE &amp; welfare at work legislation and communicate relevant changes to the business.</p><p>12.&#160;&#160;Provide regular reports to the Management Team on relevant SHE activities.</p><p><strong>Requirement :</strong></p><p>1.&#160;&#160;&#160;&#160;&#160;&#160;Certificate in Safety and Health</p><p>2.&#160;&#160;&#160;&#160;&#160;&#160;Minimum 5 year(s) of working experience in the related field is required.</p><p>3.&#160;&#160;&#160;&#160;&#160;&#160;Able to work independently.</p><p>4.&#160;&#160;&#160;&#160;&#160;&#160;Candidate with good working attitude and eager to learn new thing will be prioritized.</p><p>5.&#160;&#160;&#160;&#160;&#160;&#160;Able to work in fast paced environment and perform under pressure.</p><p>6.&#160;&#160;&#160;&#160;&#160;&#160;Good Communication skills with leadership qualities.</p><p>7.&#160;&#160;&#160;&#160;&#160;&#160;Must be willing to work in PTP, Johor.</p><p>Candidates with the above qualifications &amp; qualities are welcomed to submit your application via online.</p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div><strong>SMC Food21 </strong>are in the business of blending together basic ingredients such as sugar, milk and cocoa into an intermediate product.</div>
+<div>With our business expansion, we are looking for high caliber individuals to join our team.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/safety-health-officer-4543676?jobId=jobstreet-my-job-4543676&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
