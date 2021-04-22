@@ -1,0 +1,21 @@
+---
+title: "Makino Asia Sdn Bhd Vacancies Manufacturing Engineer" 
+category: Jobs 
+date: 2021-04-22 
+excerpt: "Makino Asia Sdn Bhd is currently looking for suitable person to fill in the Manufacturing Engineer which based in Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Makino Asia Sdn Bhd is looking for new potential candidates to fill in for <b>Manufacturing Engineer</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Primary Roles</strong></p><p>Effective introduction on new manufacturing process, ensuring all production process are optimize to achieve the desirable productivity level to meet Quality, Delivery and Cost target.</p><p>Provide technical guidance and leadership to the production team to resolve daily production issues related to Quality and Delivery.</p><p>Conduct production process review to identify improvement needs, propose and lead initiatives to implement changes that is aligned to company&#8217;s goals &amp; objective</p><p><strong>Main Duties &amp; Responsibilities</strong></p><ol><li>Support all New Product Introduction activities through participation in DFM/DFX activities with R&amp;D engineers and production team to meet schedule and quality requirements.</li><li>Preparation of all necessary documentations, procedures, standard work and fixtures needed on all new manufacturing processes introduced.</li><li>Drive optimum optimal utilization of resources and equipment to meet efficiency&#8217;s goals and targets.</li><li>Participate in decision making on non-conformal material disposition and scraps, driving initiatives to make necessary changes and improvement to avoid re-occurrences.</li><li><span>Identify bottle necks/risks and initiating corrective actions by working closely with relevant functions to ensure smooth Engineering trial and Production start up.</span></li><li><span>Work closely with the suppliers to ensure the Product Quality.</span></li><li>Ensure safe work processes and ensure all safe work practices are strictly followed.</li><li>Collaboration with all related departments stake holders to achieve KOI target.</li><li>Execute Kaizen plan to drive QDC improvement periodically / as per factory wide schedule initiative.</li><li>To provide periodical feed-back to the management team on area of improvement and formulae plans to address gap.</li></ol><p><span>Experience&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;:</span></p><p><span>1.&#160;&#160;&#160;&#160;Min 5 years of related experiences in Sheet Metal fabrication facility.</span></p><p><span>2.&#160;&#160;&#160;&#160;Min 5 years in similar capacity.</span></p><p><span>3.&#160;&#160;&#160;&#160;</span>Knowledge in Solid Designer and Auto Cad essential.</p><p><span>4.&#160;&#160;&#160;&#160;Knowledge on Lean Manufacturing preferred.</span></p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+	We are a fully integrated manufacturing company, engineering production, administration, sales office and service centre under one roof. This is a new set up company in Malaysia, I-Park Kulai, Johor, a subsidiary of Makino Asia Pte Ltd. Advanced processing, manufacturing and assembly are the key integral functions of the enterprise. The&#160;uniqueness of MAKINO ASIA is the combination of its highly qualified people and the business concept of customer orientation. We offer our customer and last but not least in the&#160;constant training of our people.&#160;</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/manufacturing-engineer-4545008?jobId=jobstreet-my-job-4545008&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
