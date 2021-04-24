@@ -1,0 +1,20 @@
+---
+title: "VERSA MANUFACTURING SDN BHD Vacancies Program Manager (Commercial)" 
+category: Jobs 
+date: 2021-04-24 
+excerpt: "VERSA MANUFACTURING SDN BHD is currently looking for suitable person to fill in the Program Manager (Commercial) which based in Johor Bahru" 
+tags: [Johor Bahru] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>VERSA MANUFACTURING SDN BHD is looking for new potential candidates to fill in for <b>Program Manager (Commercial)</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Responsibilities</strong></p><ul><li>Coordinate internal resources and third parties/ vendors for the flawless execution of projects</li><li>Ensure that all projects are delivered on-time, within scope and within budget</li><li>Assist in the definition of project scope and objectives, involving all relevant stakeholders and ensuring technical feasibility</li><li>Ensure resource availability and allocation</li><li>Develop a detailed project plan to monitor and track progress</li><li>Manage changes to the project scope, project schedule and project costs using appropriate verification techniques</li><li>Measure project performance using appropriate tools and techniques</li><li>Report and escalate to management as needed</li><li>Manage the relationship with the client and all stakeholders</li><li>Perform risk management to minimize project risks</li><li>Establish and maintain relationships with third parties/ vendors</li><li>Create and maintain comprehensive project documentation</li><li>Meet with clients to take detailed ordering briefs and clarify specific requirements of each project</li><li>Delegate project tasks based on junior staff members&#8217; individual strengths, skill sets and experience levels</li><li>Track project performance, specifically to analyse the successful completion of shirt and long-term goals</li><li>Meet budgetary objectives and make adjustments to project constraints based on financial analysis</li><li>Develop comprehensive project plans to be shared with clients as well as other staff members</li></ul><p><strong>Requirements/ Qualifications</strong></p><ul><li>Candidate must possess at least Bachelor's Degree/Post Graduate Diploma/Professional Degree in Business Studies/Administration/Management or equivalent.</li><li>At least 5&#160;Year(s) of working experience in the related field is required for this position.</li><li>Preferably Manager specialized in Marketing/Business Development or equivalent.</li><li>Excellent interpersonal skill with both verbal and written communication</li><li>Good in relationship building, achieving sales goals and market knowledge.</li><li>Must be willing to travel within domestic countries and overseas.</li><li>Competency in Microsoft applications including Word, Excel, and Outlook</li><li>Knowledge of ERP (Epicor system) will be an added advantage.</li><li>Required language(s): English, Mandarin &amp; Bahasa Malaysia</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>Versa Group&#160;is the company involve in the manufacturing of Audio Multimedia Speaker system, PCBA &amp; Furniture. We seek and experience highly responsibility professional and sincere individual to join us in our growth path.</p><p>Interested candidate may email to hr@versamfg.com</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor Bahru. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/program-manager-commercial-4529150?jobId=jobstreet-my-job-4529150&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

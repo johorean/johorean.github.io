@@ -1,0 +1,20 @@
+---
+title: "P&B Metal Components (Asia) Sdn Bhd Vacancies Accounts Executive" 
+category: Jobs 
+date: 2021-04-24 
+excerpt: "P&B Metal Components (Asia) Sdn Bhd is currently looking for suitable person to fill in the Accounts Executive which based in Johor Bahru" 
+tags: [Johor Bahru] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>P&B Metal Components (Asia) Sdn Bhd is looking for new potential candidates to fill in for <b>Accounts Executive</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p>P&amp;B Metal Components (Asia) Sdn Bhd are looking for an Accounts executive to assist the existing finance department within our company, the role will incorporate:-</p><p><span>-&#160;&#160;</span>Accounting, finance, general administration within the finance department</p><p><span>-&#160;&#160;</span>Handling of import and export relevant procedures with respect to payments and documentation</p><p><span>-&#160;&#160;</span><span>Timely preparation of accounts, payroll, budgets and reports</span></p><p><span>-&#160;&#160;</span><span>Posting of entries into the MRP and Accounting system</span></p><p><span>-&#160;&#160;</span>Liaising with relevant government departments for SST payments</p><p>The successful candidate should have the following:-</p><p>-&#160;&#160;&#160;<span>Degree or Diploma holder in accounting or finance.</span></p><p>-&#160;&#160;&#160;Min. 5 years in accounting &amp; finance,</p><p>-&#160;&#160;&#160;Experience in a manufacturing environment of an MNC;</p><p>-&#160;&#160;&#160;Some experience with a recognised MRP system</p><p>-&#160;&#160;&#160;Hands on and involved, committed, responsible, flexible, stays calm under pressure;</p><p>-&#160;&#160;&#160;Excellent skills in common MS-Office-Applications (Word, Excel, PowerPoint etc.);</p><p>-&#160;&#160;&#160;Ideally experienced with SAGE accounting system</p><p>-&#160;&#160;&#160;Good English (spoken/written)</p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>Precious &amp; Base Metal Components (P&amp;B) makes high volume, high-speed and high-tech contact assemblies, exporting over 80% of its 100 million components annually to clients around the world. For being closer to our customers in industries such as:</p><p>Automotive:&#160;Safety critical and standard switches for ignition, handbrake, doors, lights etc.</p><p>Domestic appliances: thermostatic controls and switches for irons, kettles, ovens etc.</p><p>Electrical: Household and industrial switches, emergency controls, safety switch etc.</p><p>Since 2013, we have been operating a manufacturing facility in Johor.</p><p>Our commitment to high standards of quality and consistency make us the preferred partner of many globally operating companies. They demand consistent quality no matter where we produce. Certified to the highest standards (e.g. international automotive standard TS16949), some of the many manufacturing technologies we employ are:</p><p>Welding a pre-formed metal tape incorporating two or more layers of different metals</p><p>Riveting often involving very thin materials  </p><p>Wire welding, feeding silver or silver alloy wire at high speeds (500 ppm)</p><p>Tape welding precious metals such as gold where amounts must be precisely controlled</p><p>Auto riveting for particularly high volumes at speeds of up to 600 parts per minute (ppm)</p><p>Insert moulding, producing entire subassemblies (pressing, contacting and moulding)</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor Bahru. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/accounts-executive-4546647?jobId=jobstreet-my-job-4546647&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

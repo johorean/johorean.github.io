@@ -1,0 +1,20 @@
+---
+title: "New Star Food Industries Sdn Bhd Vacancies Admin & HR Executive (Administration)" 
+category: Jobs 
+date: 2021-04-24 
+excerpt: "New Star Food Industries Sdn Bhd is currently looking for suitable person to fill in the Admin & HR Executive (Administration) which based in Batu Pahat" 
+tags: [Batu Pahat] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>New Star Food Industries Sdn Bhd is looking for new potential candidates to fill in for <b>Admin & HR Executive (Administration)</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p>At our company, the Admin &amp; HR Executive (Administration) is responsible for the following tasks:-</p><ul><li>Monitoring and reviewing the administrative system and policies to ensure maximum effectiveness.</li><li>General administration duties and management.</li><li>Monitor, update, and manage documents regarding foreign workers (recruitment, permit extension, etc.).</li><li>Administrative tasks over employee benefits and welfare.</li><li>Manage company security systems.</li><li>Monitor organizational health and safety issues.</li><li>Provide support to HoDs to facilitate general administrative work.</li><li>Monitor outsourced IT services.</li><li>Act as a supporting role to HR-related matters.</li><li>Act as a liaison for the company to external entities.</li></ul><p>To be a great fit for the job, we require these specific skills:-</p><ol><li>Skill in writing reports and chronicles for reference purposes.</li><li>Skill in writing memorandums, letters, and proposals.</li><li>Skill in making group presentations, conducting grievance and disciplinary interviews,</li><li>Skill in sourcing updated knowledge on current human resource practices.</li><li>Skill in conducting counselling to employees.</li><li>Skill in problem-solving and decision-making.</li><li>Skill in organizing safety campaigns and activities.</li><li>Skill in providing specific directions and exercise total control on delegated tasks.</li></ol><p>We also require that you have adequate fluency in English, Mandarin, and Bahasa Melayu for the purposes of writing reports and liaison tasks.</p><p>Fresh grads are welcome to apply!</p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>NEW STAR FOOD INDUSTRIES SDN. BHD. is specialize in manufacturing wheat flour based snacks, and other related foodstuff. All products are marketed under an umbrella of house brand, "SNEK KU", which means "My Snack" in Malay.</p><p>The company was incorporated in 1976. Since then, it has transformed from a simple traditional family business into an enterprise with automated production lines and quality management system.</p><p>As one of the market leaders in this industry, NEW STAR FOOD has successfully established some famous product brands, namely "MiMi", "TamTam", "Shoyuemi" through sound customer relationship management. The products are also exported to more than 20 countries including Asian Region, Middle East, South Asia, Australia&amp; New Zealand etc. The management is committed to ensuring food safety and continuous improvement of work process as well as product quality through implementation of food safety management system (FSSC 22000).</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Batu Pahat. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/admin-hr-executive-administration-4545339?jobId=jobstreet-my-job-4545339&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
