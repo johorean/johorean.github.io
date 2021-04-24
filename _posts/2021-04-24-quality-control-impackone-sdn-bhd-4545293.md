@@ -1,0 +1,20 @@
+---
+title: "IMPACKONE SDN. BHD. Vacancies QUALITY CONTROL" 
+category: Jobs 
+date: 2021-04-24 
+excerpt: "IMPACKONE SDN. BHD. is currently looking for suitable person to fill in the QUALITY CONTROL which based in Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>IMPACKONE SDN. BHD. is looking for new potential candidates to fill in for <b>QUALITY CONTROL</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p>We are seeking an experienced, dedicated Quality Control Technician to join our team. In this position, you will maintain quality standards by approving incoming materials, in-process production, finished products, and recording the results. Excellent communication and leadership skills are a must, as well as a keen attention to detail</p><p><strong>Jobs Responsibilities:</strong></p><p>&#8226;&#160;&#160;&#160;Approve incoming materials by confirming specifications, conducting a visual and measurement test, and rejecting and returning unacceptable materials</p><p>&#8226;&#160;&#160;&#160;Approve in-process production by confirming required specifications, conducting visual and measurement tests, and communicating the required adjustments to the production supervisor</p><p>&#8226;&#160;&#160;&#160;Approve all finished products by confirming specifications and conducting required tests</p><p>&#8226;&#160;&#160;&#160;Return products for re-work if needed and complete documentation to confirm re-work</p><p>&#8226;&#160;&#160;&#160;Document and update inspection results by completing reports and logs</p><p>&#8226;&#160;&#160;&#160;Keep measurement equipment operating by following operating instructions and calling for repairs.</p><p>&#8226;&#160;&#160;&#160;Maintain safe work environment by following standards and procedures and complying with legal regulations</p><p>&#8226;&#160;&#160;&#160;Coach and mentor junior employees; seek opportunities to grow leadership in others</p><p>&#8226;&#160;&#160;&#160;Update job knowledge by participating in educational opportunities, reading technical publications, attending seminars, watching industry videos, etc.</p><p>&#8226;&#160;&#160;&#160;Accomplish organization mission by completing related results as needed</p><p><strong>Job Requirements:</strong></p><p>&#8226;&#160;&#160;&#160;&#160;&#160;&#160;Diploma/Degree in any field</p><p>&#8226;&#160;&#160;&#160;&#160;&#160;&#160;<strong>3+ years</strong> in a leadership technical position</p><p>&#8226;&#160;&#160;&#160;&#160;&#160;&#160;Work authorization. Security clearance</p><p>&#8226;&#160;&#160;&#160;&#160;&#160;&#160;Excellent computer skills, including MS Office</p><p>&#8226;&#160;&#160;&#160;&#160;&#160;&#160;Strong communication skills</p><p>&#8226;&#160;&#160;&#160;&#160;&#160;&#160;Understanding of manufacturing methods and procedures</p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p><strong>ImpackOne Sdn Bhd</strong> is part of PT Impack Pratama Group. One of the top specialty building material FRP &amp; Transparent roofing sheet, sealants, aluminum composite panels, anti corrosive &amp; heat insulation roofing and polymer sheets manufacturer in Asia Pacific&#160;with factories in Kulai- Johor,Vietnam, New Zealand, Australia and Indonesia.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/quality-control-4545293?jobId=jobstreet-my-job-4545293&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
