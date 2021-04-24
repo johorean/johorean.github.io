@@ -1,0 +1,20 @@
+---
+title: "MERISON (M) SDN BHD Vacancies Sales Executive" 
+category: Jobs 
+date: 2021-04-24 
+excerpt: "MERISON (M) SDN BHD is currently looking for suitable person to fill in the Sales Executive which based in Johor, Negeri Sembilan, Melaka" 
+tags: [Johor, Negeri Sembilan, Melaka] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>MERISON (M) SDN BHD is looking for new potential candidates to fill in for <b>Sales Executive</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div>Job Highlights<ul><li><span>Good career progression</span></li></ul><p><strong>Company provides customer base, the sales representatives have to:</strong></p><p><strong>JOB RESPONSIBILITIES:</strong></p><ul><li><span>Generate and develop sales to achieve sales target</span></li><li><span>Regularly visit stores as per coverage</span></li><li><span>Perform payment collection on time</span></li><li><span>Regularly provide sales service such as order, distribution, trade return, customer&#8217;s enquiries&#160;</span></li><li><span>Ensure sufficient stocks level and right products mix at outlets</span></li></ul><p><strong>JOB REQUIREMENTS:</strong></p><ul><li><span>Preferably 1 year experience in FMCG industry/ Sales Industry</span></li><li><span>Must possess a valid driving license and willing travel within assigned territory areas</span></li><li><span>Able to converse in Bahasa Malaysia, English and any other dialects would be an added advantage</span></li><li><span>Able to work independently and must have team spirit</span></li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p><strong>WHO ARE WE</strong></p><p>We are one of thee biggest distributor in Southern and East Coast region of Malaysia partnering with</p><p>international conglomerates distributing more than 40 brands in the retail arena of the consumer market. We are one of the largest supply chain management specialists with extensive touch points &amp; merchandizing.</p><p>Merison (M) Sdn Bhd is also a subsidiary of KATO SANGYO Co., Ltd, who is one of the largest food distributors in Japan and distinctive presence in China, Vietnam, Singapore and Malaysia. We are centered on embracing a growth mindset, and encouraging all employees to bring their best each day. With this, we create innovations that have a positive impact on the organization.</p><p><strong>CORPORATE CREDO</strong></p><p>We make people lives happy as the most valuable presence for both manufacturers and customers by enlightening capabilities and enhancing functions, and aim to achieve sustainable growth as a company with social value.</p><p><strong>MISSION</strong></p><p>Mission Our mission is to realize &#8220;People&#8217;s Happiness&#8221; by offering a &#8220;Rich Dietary Life&#8221;. All of our activities and efforts will target towards the achievement of this mission.</p><p><strong>What Do We Do?</strong></p><p>We provide Best in Class Route to Market execution to all our principals driving behind Extensive network coverage of hypermarkets, retail outlets, hotels, cafes, restaurants and bakeries from Negeri Sembilan to Johor and total east coast region. Excellence in speed to market execution of new products and launches. Strong and experienced management team to drive strong record of growth!</p><p>Send us your resume and explore all opportunities with us!</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor, Negeri Sembilan, Melaka. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/sales-executive-4547448?jobId=jobstreet-my-job-4547448&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
