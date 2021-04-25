@@ -1,0 +1,20 @@
+---
+title: "Dancom Group Vacancies HOTLINK FOOT SOLDIER / PROMOTER (FULL TIME / PART TIME)" 
+category: Jobs 
+date: 2021-04-25 
+excerpt: "Dancom Group is currently looking for suitable person to fill in the HOTLINK FOOT SOLDIER / PROMOTER (FULL TIME / PART TIME) which based in Selangor, Kuala Lumpur, Johor Bahru" 
+tags: [Selangor, Kuala Lumpur, Johor Bahru] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Dancom Group is looking for new potential candidates to fill in for <b>HOTLINK FOOT SOLDIER / PROMOTER (FULL TIME / PART TIME)</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Job Responsibilities:</strong></p><ul><li>Promote and Sell Hotlink product &amp; services (prepaid &amp; postpaid) to prospective customers.</li><li>Responsible to carry out all sales ground activities, including offsite roadshows and selling at designated retailer store.</li><li>Responsible to provide consumer feedback of Hotlink products &amp; services.</li><li>Responsible to conduct and act professionally as brand ambassadors of Maxis.</li><li>Grow and retain Hotlink activation and reload sell through at designated retailer store.</li><li>Ensure Hotlink simpack display and visual merchandising materials are available at the most prominent area in retailer store.</li><li>Uphold discipline in daily sales reporting submission and adherence to retailers store guidelines.</li></ul><p><strong>Requirements:</strong></p><ul><li>Able to speak and write in English &amp; BM. Ability to speak in Mandarin would be an added advantage.</li><li>Good communication skills and positive working attitude.</li><li>Retail and Sales experiences are added advantage.</li><li>Using Android Phone.</li><li>Good and Pleasant personality</li><li>Able to start work within a short notice period.</li><li>Possess own transport.</li></ul><p><span>Work location: Klang Valley/Selangor, 81100 Johor Bahru</span></p><p><span>Work hours: 6-days work week (Full time promoter - Off Weekday)</span></p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>About Dancom Group&#160;Dancom Group made its first footprint in Malaysia with the establishment of Dancom Telecommunications (M) Sdn Bhd in 1985; where it pioneered the first generation Dancall cellular handphone.&#160;Today, Dancom Group has significantly diversified its business with offices and operations in all the key cities nationwide. The group is involved in 3 core businesses:&#160;i) Sales &amp; DistributionOur sales and distribution business unit leads the distribution of products and services ranging from Telco and entertainment prepaid cards, consumer electronics and consumer premises equipment for office communication and automation.&#160;&#160;ii) Telecommunications Infrastructure &amp; Network ServicesA leading provider of comprehensive telecommunications infrastructure solutions for the mobile telecommunications industry.&#160;This business unit leads the successful delivery of end to end Project Management and Engineering Services to all major mobile telecommunications providers in Malaysia.&#160;iii) Technology enablers for Small Medium Enterprises and Education sectorsThe Technology Enablers Business Unit is an essential Research and Development (R&amp;D) arm for Dancom Group.&#160;This unit is the game changer tasked to spearhead innovation and changing business landscape for Small Medium Enterprises and the Education sectors.&#160;</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Selangor, Kuala Lumpur, Johor Bahru. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/hotlink-foot-soldier-promoter-full-time-part-time-4533559?jobId=jobstreet-my-job-4533559&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
