@@ -1,0 +1,20 @@
+---
+title: "IOI PAN-CENTURY OLEOCHEMICALS SDN BHD Vacancies MARKETING EXECUTIVE" 
+category: Jobs 
+date: 2021-04-29 
+excerpt: "IOI PAN-CENTURY OLEOCHEMICALS SDN BHD is currently looking for suitable person to fill in the MARKETING EXECUTIVE which based in Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>IOI PAN-CENTURY OLEOCHEMICALS SDN BHD is looking for new potential candidates to fill in for <b>MARKETING EXECUTIVE</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p><span>IOI Pan-Century is a member of IOI Oleochemicals Group, wholly owned by IOI Corporation Berhad, a very successful and dynamic conglomerate with major interests in Plantations, Properties, Leisure, Oleochemicals and Specialty Fats.&#160;We are a long established leading player in palm oil related products and activities, which comprise of refining, as well as production and processing of Oleochemicals and Soap Noodles.&#160;Due to continuous business growth, we are inviting suitably qualified candidates for the position mentioned below</span>.</p><p><strong>Job Requirements:-</strong></p><p><span>&#183;Degree holder in Marketing, Business Administration or related qualifications.</span></p><p><span>&#183;Preferably 1-3 years&#8217; experience in marketing of Oleochemicals products from a manufacturing environment, or in related industries.</span></p><p><span>&#183;Mature - preferable age of 25 years and above.</span></p><p><span>&#183;Proficiency in Microsoft office software and familiarity SAP application is an advantage.</span></p><p><span>&#183;Good command of spoken and written English and Bahasa Malaysia. A credit for mathematics is required. Proficiency in Mandarin is an added advantage.&#160;</span></p><p><span>&#183;Good communication and interpersonal skills. Good integrity and ability to work independently with minimum supervision.</span></p><p><span>&#183;Possess a strong analytical mind, capable of planning, strategizing, problem-solving and leading others.</span></p><p><strong>Job Description</strong></p><p><span>&#183;Responsible in marketing company's products to the assigned business areas to achieve budgets and KPIs.</span></p><p><span>&#183;Assist superior to compile reports and implementing marketing programs.</span></p><p><span>&#183;Coordinating with other departments to ensure smooth marketing operations from receiving order, shipment until final collection.</span></p><p><span>&#183;Knowledge of UCP 600, commercial export documents like Letter of Credit and Bill of Lading is an advantage.</span></p><p><span>&#183;To undertake other duties and projects as instructed by superior from time to time.&#160;</span></p><p><strong>Location&#65306; P</strong><strong>ASIR GUDANG - JOHOR</strong></p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>IOI Pan-Century is a member of IOI Oleochemicals Group, wholly owned by IOI Corporation Berhad, a very successful and dynamic conglomerate with major interests in Plantations, Properties, Leisure, Oleochemicals and Specialty Fats.&#160;We are a long established leading player in palm oil related products and activities, which comprise of refining, as well as production and processing of Oleochemicals and Soap Noodles.&#160;Due to continuous business growth, we are inviting suitably qualified candidates for the positions mentioned below.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/marketing-executive-4550902?jobId=jobstreet-my-job-4550902&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

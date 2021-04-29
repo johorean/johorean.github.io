@@ -1,0 +1,22 @@
+---
+title: "Mybrushgroup of companies Vacancies ESH EXECUTIVE" 
+category: Jobs 
+date: 2021-04-29 
+excerpt: "Mybrushgroup of companies is currently looking for suitable person to fill in the ESH EXECUTIVE which based in Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Mybrushgroup of companies is looking for new potential candidates to fill in for <b>ESH EXECUTIVE</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Primary responsibilities, Key relationships and Core values</strong></p><p><span>-Develop objectives and standards to comply with DOSH, DOE, Local</span></p><p><span>authorities and Client Safety and Environmental requirements</span></p><p><span>-Implement, maintain and improve environmental policy, protection programs and monitoring system</span></p><p><span>-Lead activities related to ESH</span></p><p><span>-Conduct safety and environmental review, analysis and reports</span></p><p><span>-Develop and conduct ESH awareness programs</span></p><p><span>-Manage PPE stock and distribution&#160;</span></p><p><strong>Key result area</strong></p><p><span>-ESH risk analysis and management</span></p><p><span>-Job hazard analysis and controls for identified hazards</span></p><p><span>-Incident investigations, statistics and reports</span></p><p><span>-Effectiveness of corrective and preventive actions</span></p><p><span>-Formulation and implementation of ESH programs and activities</span></p><p><span>-Performance and effectiveness ESH programs and activities.</span></p><p><span>-ESH inspections and audits</span></p><p><span>-Compliance to ESH requirements of DOSH, DOE, Clients and other statutory bodies</span></p><p><strong>Key knowledge / Job Specific Competencies</strong></p><p>-3 years of experience in ESH</p><p>-Working knowledge of DOSH and DOE requirements</p><p>-Working knowledge of OSHA 1994, FMA 1967 and EQA 1974 standards</p><p>-Working knowledge of ISO14001 standards</p><p>-Inspection and audit experience</p><p>-Experience with drafting process and procedures</p><p><strong>Personal Qualities</strong></p><p>-Detail orientation</p><p>-Interpersonal skills</p><p>-Observant</p><p>-Able to work and react quickly</p><p>-Work independently</p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+<div><strong>MyBrush started out as a contract brush manufacturer more than two decades ago and from our modest beginning has today grown into a reputable manufacturer of a wide range of quality products.&#160;<br><br>Over the years, MyBrush has continuously refined and perfected the process and technical know-how of brush making to become one of the best manufacturers in the industry. This achievement could only be made possible tbrough our intensive research and development initiatives and employing the latest technology in our manufacturing process.&#160;<br><br>To guarantee the quality of our products stand up to highest standard, the company has also invested heavily into the newest equipment and machineries coupled with constant vigilant practice of international standards. It is for these fundamental management philosophies that made our products today are the preferred choice by some of the most renowned brands.&#160;<br><br>As our research and development matures along with the growth of our business, new capabilities are now opening up new potential business opportunities. So as our capabilities grows, the company is looking beyond traditional contract manufacturing business of brushes and venturing into strategic partnership with parties who desires to work with a reputable and reliable manufacturer which possesses both research and design capabilities.&#160;<br><br>MyBrush is now in a position to offer joint product development where we can provide a comprehensive platform of design, product development and manufacturing facility as a one stop solution in product commercialization.</strong></div>
+</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/esh-executive-4551451?jobId=jobstreet-my-job-4551451&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

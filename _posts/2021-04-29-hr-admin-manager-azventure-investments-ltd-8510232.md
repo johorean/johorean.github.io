@@ -1,0 +1,24 @@
+---
+title: "Azventure Investments Ltd. Vacancies HR & Admin Manager" 
+category: Jobs 
+date: 2021-04-29 
+excerpt: "Azventure Investments Ltd. is currently looking for suitable person to fill in the HR & Admin Manager which based in Singapore" 
+tags: [Singapore] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Azventure Investments Ltd. is looking for new potential candidates to fill in for <b>HR & Admin Manager</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><div>The Human Resource &amp; Admin Manager will lead and direct the full functions of the Human Resources (HR) department for our manufacturing plant in JB. The HR Manager's responsibilities includes business partnering, recruitment, compensation &amp; benefits, learning &amp; development, payroll and enforcing company policies and practices. This role will also be required to manage the security operations of the company.</div><div>Responsibilities:</div><ul><li>Partners with the leadership team to understand and execute the organizations human resource and talent management strategy</li><li>Provides support and guidance to HR team, management, and other employees when dealing with HR related matters.</li><li>Manages the full talent acquisition process, from understanding business requirements, sourcing, qualifying to on-boarding of selected candidates</li><li>Analyses trends in compensation and benefits; research and propose competitive remuneration package to ensure the organization attracts and retains top talent.</li><li>Creates learning and development programs and initiatives that provide internal development opportunities for employees.</li><li>Oversees employee disciplinary meetings, terminations, and investigations.</li><li>Maintains compliance with federal, state, and local employment laws and regulations, and recommended best practices; reviews policies and practices to maintain compliance.</li><li>Maintains knowledge of trends, best practices, regulatory changes, and new technologies in human resources, talent management, and employment law.</li><li>Develop and implement HR and security policies and procedures</li><li>Manage local industrial and labour relations activities</li><li>Oversee security operations and expense management</li><li>Manage administrative function to ensure smooth operation of the company</li><li>Performs other duties as assigned.</li></ul><div>Requirements:</div><ul><li>Candidate must possess at least Bachelor's Degree/Post Graduate Diploma/Diploma in Business Studies/ Administration/ Human Resources or equivalent.</li><li>At least 10 Years of relevant working experience in the HR field is required for this position.</li><li>Prior experience in managing industrial relations with statutory boards</li><li>Candidates with prior working experience in electronics manufacturing will be preferred.</li><li>Strong leadership, communication and interpersonal skills</li><li>Able to work under pressure, organised and result-oriented.</li><li>Excellent communication skills both vertically and horizontally</li><li>Knowledge in compliance with SMETA/RBA and CTPAT is an advantage.</li><li>As the role will be required to work with counterparts in China, ability to communicate in Mandarin will be beneficial.</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+	As one of Singapore&#8217;s leading design and electronics manufacturer, our mission has always been succinctly singular: To deliver value beyond expectations.</div>
+<div>
+<br>
+	Driven by 4 R&amp;D centres, our services are second to none. With holistic manufacturing services, industrial design, mechanical engineering, software and hardware design, production, testing, design, material management and customer programme management, we support our clients with seamless, value-added service at every stage of your process from product transfer, component procurement, electronics PCB assembly, mechanical assembly, testing and finally shipping the products.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Singapore. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/hr-admin-manager-8510232/origin/sg?jobId=jobstreet-sg-job-8510232&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

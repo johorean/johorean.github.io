@@ -1,0 +1,23 @@
+---
+title: "EEW Malaysia Sdn Bhd Vacancies Project Controller" 
+category: Jobs 
+date: 2021-04-29 
+excerpt: "EEW Malaysia Sdn Bhd is currently looking for suitable person to fill in the Project Controller which based in Johor - Others" 
+tags: [Johor - Others] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>EEW Malaysia Sdn Bhd is looking for new potential candidates to fill in for <b>Project Controller</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Job Description</strong></p><ol><li>Support Commercial Project Engineering Team.</li><li>Ensure project cost control system is used on all projects.</li><li>Ensure all projects information is uploaded to shared drive for management review.</li><li>Prepare department&#8217;s presentation &amp; represent CPE at monthly management meetings.</li><li>Liaise with Project Manager on all CPE Department&#8217;s affairs and operations.</li><li>Manage customer satisfaction reviews and liaise with Project Manager.</li><li>Any other related task given from time to time.</li><li>Adhere to all the Quality/Safety &amp; Environmental requirements.</li><li>All other CPE job responsibilities as mention below:-</li></ol><ul><li>To establish and improve project management on working procedure and tracking systems.</li><li>Communicate with all relevant stakeholders to ensure the timeliness delivery of each projects and resolving conflicts.</li><li>Identifying, tracking, managing and resolving project issues.</li><li>Proactively disseminating project information to all relevant personnel.</li><li>Proactively managing contract scope with the Project Manager to ensure that only agreed contract scope is delivered, unless changes are approved through contract scope management.</li><li>Managing the overall schedule to ensure work is assigned and completed on time and within budget.</li><li>Execute all aspects of expediting functions and ensure delivery of project materials and services in accordance to the terms and conditions of the contract.</li><li>Participate in kick off meetings, ensure contractual terms and conditions are clearly understood and fulfilled by all stakeholders.</li><li>Interface closely with Production, QA/QC, Logistic, Procurement and Planning Department on manufacturing progress and status of material deliveries.</li><li>Ensure all document submissions and project status update covering vendor prints and final Vendor Data book shall be submitted to client on a timely basis.</li></ul><p><strong>Job Requirements</strong></p><ol><li>At least a Professional Certificate, Diploma, Advanced/Higher/Graduate Diploma, Bachelor's Degree, Post Graduate Diploma or Professional Degree in Engineering (Mechanical), Engineering (Metal Fabrication/Welding), Engineering (Industrial) or equivalent.</li><li>At least 5 year(s) of working experience in the related field is required for this position.</li><li>Executives specializing in Project, Sales - Engineering or equivalent.</li><li>Knowledge of steel pipes and materials specifications is an added advantage.</li><li>Pleasant personality, and people-oriented with good interpersonal and communication skills</li><li>Result driven, initiative and a team player.</li><li>Must be able to work independently.</li></ol></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+<div>Since more than 70 years, Erndtebr&#252;cker Eisenwerk supplies steel pipes and provides services for all kind of industries. To our clients worldwide, <strong>E</strong>rndtebr&#252;cker <strong>E</strong>isen<strong>w</strong>erk is also well known as <strong>EEW</strong>. Nowadays EEW is one of the leading specialists with the widest material range producing submerged-arc welded (SAW) steel pipes.</div>
+<div>Our Headquarters is located in Erndtebruck, Germany and we have a worldwide branch network and plant located in Erndtebr&#252;cker(German), Rostock (German), Pickhan (German), Bergrohr (German), Korea, Tg. Langsat, Pasir Gudang (Malaysia) &amp; Saudi Arabia. In line with our continuous improvement programme, we seek committed individuals to be part of our team.</div>
+</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor - Others. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/project-controller-4552457?jobId=jobstreet-my-job-4552457&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
