@@ -1,0 +1,20 @@
+---
+title: "UE E&C SANJIA (M) SDN BHD Vacancies HR Admin Executive" 
+category: Jobs 
+date: 2021-04-30 
+excerpt: "UE E&C SANJIA (M) SDN BHD is currently looking for suitable person to fill in the HR Admin Executive which based in Johor Bahru" 
+tags: [Johor Bahru] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>UE E&C SANJIA (M) SDN BHD is looking for new potential candidates to fill in for <b>HR Admin Executive</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p>We are looking for an HR &amp; Admin Executive to join our team and support the day-to-day activities of our GM department.</p><p>HR &amp; Admin Executive responsibilities include processing employee data, updating company policies and assisting in the hiring process. To be successful in this role, you should have solid organizational skills and be familiar with HR &amp; admin functions.</p><br><p><strong>Key Tasks Include But Not Limited To:</strong></p><ul><li>Design compensation and benefits packages</li><li>Implement performance review procedures (e.g. quarterly/annual and 360&#176; evaluations)</li><li>Develop fair HR policies and ensure employees understand and comply with them</li><li>Implement effective sourcing, screening and interviewing techniques</li><li>Assess training needs and coordinate learning and development initiatives for all employees</li><li>Monitor HR department&#8217;s budget</li><li>Act as the point of contact regarding labor legislation issues</li><li>Manage employees&#8217; grievances</li><li>Create and run referral bonus programs</li><li>Review current HR technology and recommend more effective software</li><li>Measure employee retention and turnover rates</li><li>Oversee daily operations of the HR department</li><li>Assist the leader in administrative works</li></ul><br><p><strong>General Requirements:</strong></p><ul><li>Proven work experience as an Admin Executive, HR Executive or similar role</li><li>Familiarity with Human Resources Management Systems and Applicant Tracking Systems</li><li>Experience with full-cycle recruiting</li><li>Good knowledge of labour legislation (particularly employment contracts, employee leaves and insurance)</li><li>Demonstrable leadership abilities</li><li>Solid communication skills</li><li>Preferably Diploma/BSc/MSc in Human Resources Management or relevant field</li><li>Fluent in English, Mandarin and Bahasa, <span>both speaking and writing in order to report to the directors from China.</span></li></ul><p><strong>Potential Exposure:</strong></p><ul><li>Resolving employment disputes</li><li>Attending hearings at the industrial court</li><li>Attending hearings at the IR</li><li>Learn to handle legal cases related to employment, dismissal, etc</li><li>Chances of attending court trials and hearings</li></ul><p>Fresh graduates are welcome to apply for this position.</p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>UE E&amp;C Sanjia (M) Sdn Bhd, a property developer, was established in 2012.&#160;Is a&#160;joint ventured company between UE E&amp;C Ltd from Singapore and Sichuan Sanjia Real Estate&#160;Group from China.&#160;Both companies&#160;have 20 years of track&#160;records in property development, construction, engineering&#160;and&#160;real estate management experiences.</p><p>Our recent project in Iskandar Malaysia, Sovereign Bay, is a freehold high rise sea view condominium with hotel management concept.&#160;Ideally located with full condo facilities and the convenience of neighbourhood amenities.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor Bahru. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/hr-admin-executive-4553505?jobId=jobstreet-my-job-4553505&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
