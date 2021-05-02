@@ -1,0 +1,20 @@
+---
+title: "PELENTONG ELECTRONIC INDUSTRIES SDN. BHD. Vacancies Line Leader" 
+category: Jobs 
+date: 2021-05-02 
+excerpt: "PELENTONG ELECTRONIC INDUSTRIES SDN. BHD. is currently looking for suitable person to fill in the Line Leader which based in Johor Bahru" 
+tags: [Johor Bahru] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>PELENTONG ELECTRONIC INDUSTRIES SDN. BHD. is looking for new potential candidates to fill in for <b>Line Leader</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p><strong><em>Job Requirement:</em></strong></p><ul><li>Proficient in Bahasa and English languages, both verbal and written;</li><li>Computer literate and intermediate user of Microsoft Office Suite such as Excel, Powerpoint and Words;</li><li>Basic understanding of training cycle, training methodology and training system;</li><li>Basic understanding of manufacturing environment such as process and production lines, machinery and equipment set up, operation set-up and daily system;</li><li>Basic understanding of problem solving steps, continuous improvement and root cause failure analysis;</li><li>Basic knowledge of proper documentation; 8 Self-starter and able to work under stress and pressure;</li><li>Able to work overtime and fast learner. Applicant must active and able to take their own initiative when there is no people to guide or monitor them.</li></ul><p><strong><em>Job Descriptions:</em></strong></p><ul><li>Give orders and instructions to assembly line workers so that each member of the production line is aware of what they need to do and what they're responsible for a maximize quality and productivity;</li><li>Assign tasks based on what orders have come in and which members of the team are working on each day. They set up the production line to complete these orders efficiently;</li><li>If there are any issues with production or fulfilling orders on time, line leaders quickly identify these problems and find ways to resolve them so that deadlines are still met without compromising quality;</li><li>To be involved in plant continuous improvement activities and PMES (Daily System);</li><li>Ensure that all members of the team follow company policies and that healthy and safety regulations are being enforced to meet safety compliance;</li><li>To comply with all cleaning requirement and standards set including the method used to achieve those standards;</li><li>Maintain all documentation and records related to operation activities and maintenance activities;</li><li>Report to related personal for selecting, ordering and purchasing material;</li><li>Organizing the repair and routine maintenance of production equipment;</li><li>Organizing relevant training sessions.</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>Pelentong Electronic Industries Sdn. Bhd.&#160;is a 100% local based wire harness manufacturing company, established in 1993. As of 2014, the company owns over 15,000 Square Feet built-up areas of factory,&#160;RM 2.5 Million paid-up capital, and over RM 5 Million turnover per year.&#160;In line with our IATF 16949:2016 and ISO 9001:2015 quality management programs, we have established the following quality policy to govern all quality aspects of our manufacturing processes from material preparation to customers and after sales service.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor Bahru. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/line-leader-4545833?jobId=jobstreet-my-job-4545833&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
