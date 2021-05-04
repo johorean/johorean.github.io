@@ -1,0 +1,20 @@
+---
+title: "Sankyu (M) Sdn. Bhd. Vacancies Warehouse Officer" 
+category: Jobs 
+date: 2021-05-04 
+excerpt: "Sankyu (M) Sdn. Bhd. is currently looking for suitable person to fill in the Warehouse Officer which based in Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Sankyu (M) Sdn. Bhd. is looking for new potential candidates to fill in for <b>Warehouse Officer</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Job Responsibilites:</strong></p><ul><li><span>Responsible for assisting Warehouse Manager for overall daily warehouse operation and logistics requirement.</span></li><li><span>Oversee the safe receive of inbound shipment, proper storage, easy retrieval and timely dispatch of goods.</span></li><li><span>Preparation of customs declaration. Identifying relevant product codes and performing custom clearance</span></li><li><span>Assist to review and update warehouse procedure (SOP), policies and control system</span></li><li><span>Responsible for executing and monitoring of HSEQ requirements at the warehouse</span></li><li><span>Understand incoterm</span></li><li><span>Preparation of operation reports for submission to management and the clients</span></li><li>To perform other duties as may be assigned by the superior from time to time</li></ul><p><strong>Requirements:</strong></p><ul><li><span>Candidate must possess at least a Diploma, Advanced/Higher/Graduate Diploma in any field.</span></li><li><span>At least </span><strong>3 year(s)</strong><span> of working experience in the related field is required for this position.</span></li><li><span>Good communication skills and proficient in both written and spoken English and Bahasa Malaysia.</span></li><li><span>Able to perform effectively in a high pressure and fast paced working environment</span></li><li><span>Applicants must be willing to work in </span><strong>Pelabuhan Tanjung Pelepas</strong><span>, Johor</span></li><li><span>Full-Time position(s) available</span></li></ul><p><span>Interested candidates, please apply online.&#160;Our office address and contact number are as below.</span></p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>Sankyu Malaysia first made its impact in Malaysia in the early 60s, when it took part in a power station project for the then National Electricity Board of Malaysia and Malayawata Steel Mill Project in Prai, Penang.</p><p>Sankyu (Malaysia) Sdn. Bhd. was incepted in Malaysia in 1979 as a joint-venture between Malaysian Partners and Sankyu Inc., Japan.</p><p>We are well represented in all the major cities and ports in Malaysia. Our headquarters is in Petaling Jaya, Selangor and with branch offices in Port Klang, Sepang (KLIA), Penang, Johor and Kuantan.</p><p>We serve the needs of a wide cross-section of business and industrial customers, ranging from Retail Super Market, Computer and Office Equipment Distributions, Steel Plant, Petroleum Refinery, Automotive, Power Plant, Electronic and Electric Manufacturer.</p><p>Due to our business expansion, we need the right person with the right working attitude and commitment to join us in following capacity at our Johor Bahru Branch</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/warehouse-officer-4556686?jobId=jobstreet-my-job-4556686&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

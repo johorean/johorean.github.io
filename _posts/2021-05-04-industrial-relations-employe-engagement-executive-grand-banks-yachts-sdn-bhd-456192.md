@@ -1,0 +1,20 @@
+---
+title: "GRAND BANKS YACHTS SDN BHD Vacancies Industrial Relations & Employee Engagement Executive" 
+category: Jobs 
+date: 2021-05-04 
+excerpt: "GRAND BANKS YACHTS SDN BHD is currently looking for suitable person to fill in the Industrial Relations & Employee Engagement Executive which based in Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>GRAND BANKS YACHTS SDN BHD is looking for new potential candidates to fill in for <b>Industrial Relations & Employee Engagement Executive</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Job Description:</strong></p><ul><li>Promote and maintain industrial harmony between the management and employees</li><li>To counsel, make recommendations and take constructive disciplinary actions under the human relations policy and procedures of the organization</li><li>To mediate and solve industrial relations amicably</li><li>Responsible in developing Employee Engagement Activities Annual Calendar</li><li>Responsible in planning and executing the employee engagement activities per plan</li><li>To ensure maximum participation in company organize activities</li><li>To promote and adhere to Company&#8217;s commitment on corporate social responsibility</li></ul><p><strong>Qualification:</strong></p><ul><li>Minimum a Degree in Law/Employment Law or equivalent</li><li>Fresh graduates can apply as on-job training will be provided</li><li>Computer literate and able to work independently</li><li>Strong communication and interpersonal skills</li></ul><p><strong>Benefits:</strong></p><ul><li>Competitive salary</li><li>Housing, transport and attendance allowance</li><li>Employee medical coverage</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>A PROUD HERITAGE</p><p>Since 1956, Grand Banks Yachts has built stunning yachts with classic designs, supreme comfort and precise detailing. These yachts and the character they represent appeal to our discerning customers and testify to our passion for the water. Over the years, we have taken pride in leading the market with our quality vessels and are serious about the responsibility of setting a higher standard. But we haven&#8217;t just led the yachting industry; we&#8217;ve changed it. We introduced the world to two popular vessel genres&#8212;cruising trawlers and Downeast express cruisers&#8212;forever altering how yachtsmen spend time on the water.</p><p>GRAND BANKS WINS INNOVATIVE PRODUCTION PROCESS OF THE YEAR (2019)</p><p>Grand Banks Yachts recently completed the re-vamp of their New Robot Facility, now boasting twin armed robotic milling capabilites, enhancing productivity, increasing production capacity and stream-lining the flow of production in the factory across their two brands; Grand Banks Yachts and Palm Beach Motor Yachts.</p><p>Grand Banks&#8217; use of a robotic 8-axis mill was given the award for Innovation in a Production Process. An intense 4-year restructure of Grand Banks Yachts, headed by CEO Mark Richards, has led the company to this fantastic achievement, and it&#8217;s safe to say &#8211; we can&#8217;t contain our excitement for what is to come for Grand Banks Yachts and its brands in 2020.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/industrial-relations-employee-engagement-executive-4556192?jobId=jobstreet-my-job-4556192&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

@@ -1,0 +1,21 @@
+---
+title: "Outspan Malaysia Sdn Bhd Vacancies Production Executive" 
+category: Jobs 
+date: 2021-05-04 
+excerpt: "Outspan Malaysia Sdn Bhd is currently looking for suitable person to fill in the Production Executive which based in Johor Bahru" 
+tags: [Johor Bahru] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Outspan Malaysia Sdn Bhd is looking for new potential candidates to fill in for <b>Production Executive</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Responsibilities:-</strong></p><ul><li>Assists in the development of production schedules with the Production Manager so that maximum productivity (online &amp; yield) is achieved, quality standards (shippable) are met, and customer delivery times/ dates are achieved.</li><li>Responsible for ensuring the Quality Control program been exercised to produce quality shippable products according to sales order in order to fulfill customer satisfaction.</li><li>Assist Production Manager in handling customer complaints.</li><li>Assists in other departments activities (such as maintenance, safety) to reduce downtime thus maximizing productivity.</li><li>Maintain the housekeeping and sanitation of the plant to comply with established standards. Responsible for ensuring compliance with food safety policy and other standard established such as HACCP, GMP, and etc.</li><li>Responsible for shift schedule to include work station assignments, rotations, employee breaks, overtime assignment, back-up for absent employee, and shift rotations.</li><li>Responsible for the training of all new employees in proper methods and procedures to perform job. Continues to develop and lead employees with on-going training.</li><li>Maintain standards of environmental, health and safety which are consistent with corporate standards.</li><li>Responsible for ensuring compliance with environmental, health and safety policy and other standard established.</li><li>Presents accurate and timely production shift report in a form for management use.</li><li>Responsible for ensuring all production documents/checklists are completed such as CIP checklist, production monitoring sheets and etc.</li><li>Able to complete ad-hoc assignments/ projects given by production manager on time.</li><li>Any other duties as required and assigned by the Management.</li><li>Ensure safety, 5S, and Good Manufacturing Practices.</li></ul><p><strong>Requirements:</strong></p><ul><li>Minimum 2 years or supervisory experience in manufacturing environment (food production manufacturing will be an advantage).</li><li>Diploma/ Degree (Process engineering, mechanical or other engineering related, Food Tech/ Food Science will be an advantage).</li><li>Computer literate (Microsoft application such as words, excel, power point &amp; etc.)</li><li>Strong leadership skills, organizational and planning abilities, problem solving skills are essential.</li><li><strong>Able to work shift</strong></li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>Olam International is a leading global integrated supply chain manager and processor of agricultural products and food ingredients, supplying various products across 16 platforms in 65 countries.</div>
+<div>At Olam, we continue to hire, engage, develop and retain both leaders and a diverse high-quality workforce, providing both with an inclusive work environment. Our employees worldwide work alongside many unique individuals &#8211; entrepreneurs, technical specialists, suppliers, customers, government stakeholders &#8211; all doing their best to achieve mutual success.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor Bahru. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/production-executive-4555723?jobId=jobstreet-my-job-4555723&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
