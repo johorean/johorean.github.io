@@ -1,0 +1,20 @@
+---
+title: "Herlo Consultancy Sdn Bhd Vacancies HUMAN RESOURCE EXECUTIVE | HIGH PAY | GREAT WORKING ENVIRONMENT" 
+category: Jobs 
+date: 2021-05-05 
+excerpt: "Herlo Consultancy Sdn Bhd is currently looking for suitable person to fill in the HUMAN RESOURCE EXECUTIVE | HIGH PAY | GREAT WORKING ENVIRONMENT which based in Johor Bahru" 
+tags: [Johor Bahru] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Herlo Consultancy Sdn Bhd is looking for new potential candidates to fill in for <b>HUMAN RESOURCE EXECUTIVE | HIGH PAY | GREAT WORKING ENVIRONMENT</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>High Pay, RM2700 To RM3200 + EPF + SOSCO + EIS</strong></p><p><strong>Your Benefits:</strong></p><ul><li>&#65039;Guarantee Annual Bonus</li><li>&#65039;Attendance Bonus</li><li>&#65039;Free Season Parking</li><li>&#65039;Dental &amp; Eyewear Benefits</li><li>&#65039;Team &amp; Company Gatherings</li><li>&#65039;Peer to Peer Recognition Scheme</li></ul><p><strong>Testimonial From Employee:</strong></p><p><strong>&#160;"</strong>Enjoyable and a place for young people to grow" - from&#160;Sales&#160;Personnel</p><p><strong>&#160;"</strong>Very driven and motivated environment" - from Customer Service Executive</p><p><strong>&#160;"</strong>Not your typical company" - from Marketing Executive</p><p><strong>So what will you be doing?</strong></p><ul><li>Handling incoming and outgoing calls. This role is primarily phone-based, you must be confident to communicate and speak to candidates.</li><li>Answer to <span>every enquiries on social media platform.</span></li><li>Assist in every position's hiring process.</li><li>Conduct basic phone screening, profile filtering and interview arrangements.</li><li>Enroll candidates to training classes.</li><li>Blast out ads on Facebook and other social media.</li><li>A<span>dministrative tasks including data entry and follow up.</span></li><li>Any other ad hoc assignments assigned from time to time.</li></ul><p><strong>We do have a few job requirements that we will love to be upfront with you,</strong></p><ul><li>Fluent in English speaking and Mandarin speaking (As you will be required to handle candidates who are required to converse in Mandarin).</li><li>Good in using MS Office &amp; Google Excel.</li><li>Attentive to details and good in time management.</li><li>Patience, willing to learn and complete own job tasks given.</li><li>Able to coordinate recruitment independently.</li><li>Most importantly, you must love to work and speak to people.</li></ul><p>If you have read till now, and believe that the above describes you. What are you waiting for, your career is awaiting you!</p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>Herlo Consultancy is a fast growing firm which provides business consultancy and support services for our Singapore clients.&#160;</p><p>We managed brands like PNSG, Tian Wei Signature &amp; PEM Confinement Nanny Agency, which are all leading brands in their field of work in Singapore. Since establishment, we have help multiple companies to grow from scratch to becoming multimillion dollars revenue organisation.</p><p>We are also proud to report a&#160;3 digit percentage growth year on year for the past 2 years.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor Bahru. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/human-resource-executive-%7C-high-pay-%7C-great-working-environment-4557308?jobId=jobstreet-my-job-4557308&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
