@@ -1,0 +1,20 @@
+---
+title: "Stellar Education Sdn Bhd Vacancies Teacher" 
+category: Jobs 
+date: 2021-05-06 
+excerpt: "Stellar Education Sdn Bhd is currently looking for suitable person to fill in the Teacher which based in Johor Bahru" 
+tags: [Johor Bahru] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Stellar Education Sdn Bhd is looking for new potential candidates to fill in for <b>Teacher</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Come join one of the fastest growing education institute in Johor Bahru &amp; Iskandar Puteri!</strong></p><p><span>Due to our school's expansion plan, we are looking for suitable candidates to join our team.</span></p><p><strong>Academic Team</strong></p><p><em>IMMEDIATE POSITIONS TO BE FILLED</em></p><p><strong>Job Responsibilities:</strong></p><ul><li><span>Various subject teacher for preschool/primary/secondary school;&#160;</span></li><li><span>Prepare scheme of work and lesson plans of the assigned teaching subject;</span></li><li><span>Deliver lessons effectively according to the learning ability of the students within the class;</span></li><li><span>Assess and evaluate students&#8217; learning progress and prepare relevant reports for the Academic Head and/parents;</span></li><li><span>Keep abreast with the latest teaching pedagogy and technologies to enhance the quality of teaching and learning;</span></li><li><span>Participate in extra co-curriculum activities with students and support all school activities and events;</span></li><li><span>Being a role model for the students generally and in humanistic education specifically.</span></li></ul><p><strong>Job Requirements:&#160;</strong></p><ul><li><span>Minimum Degree in Education/Teaching/Training; candidates with Degree in equivalent professional qualifications or Diploma in Education are also encouraged to apply.</span></li><li><span>Minimum 2 years of experience in teaching profession, with a broad and thorough knowledge in the appointed teaching subject. Teaching experience in international school or in Cambridge IGCSE curriculum or equivalent will be an added advantage.</span></li><li><span>Strong commitment and passion for education.</span></li><li><span>Highly motivated, responsible, compassionate and innovative.</span></li><li><span>Good communication and interpersonal skills; fluent in multiple languages; well verse in presentations; computer literate</span></li></ul><p><span>Interested individuals may send in their resumes to hr(a)stellar.edu.my with the email subjects provided</span></p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>Stellar Education Group embodied the following schools:-</p><ul><li><strong>Stellar Preschool </strong></li></ul><p>(139, Jln Beringin, Taman Melodies, 80250 Johor Bahru, Johor)</p><p>https://www.facebook.com/stellar.preschool/</p><ul><li><strong>Stellar International School</strong></li></ul><p>(1-3 Almas, Persiaran Laksamana, Puteri Harbour, 79100 Nusajaya)</p><p>https://www.facebook.com/stellar.international/</p><ul><li><strong>Sand &amp; Stars Kindergarten </strong></li></ul><p>(G-09 Bistari Impian, Jalan Serantau, Taman Dato Onn, 80350 Johor Bahru, Johor)</p><p>https://www.facebook.com/stellar.sandandstars/</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor Bahru. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/teacher-4558832?jobId=jobstreet-my-job-4558832&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
