@@ -1,0 +1,25 @@
+---
+title: "MSSBIOFRESH SDN BHD Vacancies Operation Executive/Head Operation" 
+category: Jobs 
+date: 2021-05-07 
+excerpt: "MSSBIOFRESH SDN BHD is currently looking for suitable person to fill in the Operation Executive/Head Operation which based in Johor Bahru" 
+tags: [Johor Bahru] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>MSSBIOFRESH SDN BHD is looking for new potential candidates to fill in for <b>Operation Executive/Head Operation</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>OPERATION EXECUTIVE</strong></p><p>Job Requirements</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Candidate must possess Diploma or Bachelor's Degree in any field.</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Required language(s): Bahasa Malaysia, English, Mandarin (Bonus)</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;At least 2 Year(s) of working experience in cleaning services is required for this position. Candidate with landscape experience is an advantage.</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Required Skill(s): Microsoft Office</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Possess on transportation.</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Willing to travel and work overtime.</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Good leadership skills.</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Well-disciplined and able to discipline downline.</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Good in balancing emotions.</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Good in customer service skills.</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Good in planning, organizing, leading and controlling multiple teams across different area.</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Good in supervising team with 360 eyes overview.</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Flexible on working hours and timing.</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Able to on-call to manage people during holidays (including public holidays)</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Must be good in English as you will be dealing with various clients (Mandarin speaker would be bonus)</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Good teamwork player</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Able to handle pressure and leading team with positivity.</p><p><strong>Job Responsibilities</strong></p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Coordinating and managing cross project team members to ensure that all parties on track with attendance, requirements, deadlines and schedules</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Conducting client engagement session to ensure their satisfaction on work parameters and to resolve issues and complaints</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Submitting project deliverables and ensuring that the downlines adhere to quality standards</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Administering cost for each project to ensure cost efficiency on project deliveries</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Establish and enforce proper operation methods, policies and principles</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Undertake any ad-hoc operation tasks with flexibility.</p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+	MSS Biofresh Sdn Bhd has been in business since 2013 and was registered under the Companies Act 1965. Today, the Company has grown steadily to the present status as one of the finest cleaning and landscaping maintenance service platform in Johor Bahru, Malaysia. We are the one stop solution for your cleaning issues. Personalized and customized solution on the go to both residential, commercial and industrial buildings.</div>
+<div>
+	We understand that cleanliness matters and the needs to have a preserved environment. With the current workforce of more than 100-man power and various machineries and equipment, we are able to suit our client&#8217;s needs right on with reasonable price.</div>
+<div>
+	We constantly monitor the feedback from our clients. It is our priority to ensure that our clients to have a complete peace of mind.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor Bahru. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/operation-executive-head-operation-4559540?jobId=jobstreet-my-job-4559540&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
