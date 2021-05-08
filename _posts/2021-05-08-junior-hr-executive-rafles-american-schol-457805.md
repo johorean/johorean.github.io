@@ -1,0 +1,25 @@
+---
+title: "Raffles American School Vacancies Junior HR Executive" 
+category: Jobs 
+date: 2021-05-08 
+excerpt: "Raffles American School is currently looking for suitable person to fill in the Junior HR Executive which based in Johor Bahru" 
+tags: [Johor Bahru] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Raffles American School is looking for new potential candidates to fill in for <b>Junior HR Executive</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>ESSENTIAL RESPONSIBILITIES</strong></p><ol><li>Assist in payroll administration include but not limited to preparation of monthly report, gathering and examine time sheet to ensure validity, overtime time, deductions, timely pay out to casual workers/part time workers.</li><li>Responsible for HR system administration include staff &amp; leave administration, coordinate with other department for data updates for payroll processing.</li><li>Keep track of staff confirmation, monitor staff contracts and expiry renewals and other employment HR-related due dates. Prepare HR related letters.</li><li>Maintain and update all Department&#8217;s JDs.</li><li>Ensure P-Files are maintained and documented.</li><li>Ensure HR data and records are up-to-date in electronics and physical formats.</li><li>Liase with insurance broker to maintain and update employees&#8217; healthcare coverage, ad-hoc medical claims and etc.</li><li>Register staff statutory membership, expat tax files, assist annual E-filing, tax clearance for out-boarding employees.</li><li>Handle employees relations issues (discipline action, counseling, grievances,investigations &amp; etc).</li><li>Prepare weekly and monthly HR reports, statistics and data for submission upon request.</li><li>Execute employees&#8217; welfare program.</li><li>Attend to queries and provide accurate information/ advice to employees.</li><li>Under-take ad-hoc assignment or duties by the Management when required.</li></ol><p><strong>QUALIFICATIONS:</strong></p><ul><li>Preferably Degree/Diploma holder in Human Resource Management with at least 3 years relevant HR experience, with proven track record of high integrity and handling confidential personnel information.</li><li>Previous experience as HR Assistant can be considered.</li><li>Proficient in Microsoft Office applications, Word, Excel and payroll system.</li><li>Meticulous, eye for details, resourceful ,ability to work independently, self-motivated and well organized.</li><li>Able to work in a fast-paced environment and have a pleasant disposition.</li><li>Good team player and committed to work/ team excellence.</li><li>Preferably bilingual in English and Mandarin to interact with internal and external stakeholders</li></ul><p><strong>WORK LOCATION:</strong></p><p>Raffles American School, Jalan Raffles, 79050 Iskandar Puteri, Johor</p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+<div>Raffles American School campus accommodates pre-kindergarten through 12th grade students. The 19-hectare school is envisioned as a holistic learning environment that is seamlessly interwoven into its beautiful setting. Given the slope of the site, The campus consists of three main &#8220;terraces,&#8221; with each terrace occupied by a cluster of grade levels.</div>
+<div>Our facilities include technology-integrated classrooms, science labs, visual art, libraries, and performing arts studios, as well as a performing arts center including a 800 seater auditorium and a black box theater.&#160;</div>
+<div>The campus also features a host of athletic amenities including: Two separate indoor air-conditioned gymnasiums, an olympic size swimming pool, a shallow training pool, outdoor tennis and basketball courts<strong>,</strong>&#160;soccer field, and stadium which includes a second full size soccer field, track and field, and 400 meter running track.</div>
+</div>
+<div><strong>Raffles American School is a learning community that empowers students to achieve their academic and life potential. Our rigorous and rich academic and co-curricular programs encourage student growth through a learning outcome approach, acknowledging multiple types of intelligence and paths to learning. We facilitate student success through collaboration with parents, a balanced focus on intellectual, emotional, physical, and social progress, and a profound belief that all students can learn.</strong></div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor Bahru. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/junior-hr-executive-4557805?jobId=jobstreet-my-job-4557805&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
