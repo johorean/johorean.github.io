@@ -1,0 +1,20 @@
+---
+title: "Southern University College Vacancies Video Editor" 
+category: Jobs 
+date: 2021-05-09 
+excerpt: "Southern University College is currently looking for suitable person to fill in the Video Editor which based in Johor Bahru" 
+tags: [Johor Bahru] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Southern University College is looking for new potential candidates to fill in for <b>Video Editor</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p>Requirements:</p><ul><li>Bachelor Degree in relevant field</li><li>Candidate must possess <strong>both photography and videography skills</strong></li><li>Candidate must possess knowledge in Adobe Creative Suite, especially <strong>Adobe Premiere Pro</strong>. Knowledge in AI, Photoshop, and InDesign will be an added advantage.&#160;</li><li>Preferably candidate with 1 to 2 years working experience</li><li>Strong communication skills</li><li>Ability to work independently</li></ul><p>Job Description:</p><ul><li>Responsible for photo and video shooting and editing for University College events</li><li>Responsible for the upkeep of photo and video clips database</li><li>To manage and upkeep all digital equipment such as cameras and video cameras</li><li>To involve in editing bi-annual magazine &lt;Southern Today&gt;, reflecting the high quality of the University College</li><li>To lead The Southern TV Student Crew in serving The Southern TV related to photo-taking, video-taking, and news reporting</li><li>To perform any other tasks assigned by the Management</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>Southern University College (Southern UC), previously known as Southern College, was established in 1990. It is the first non-profit higher education institute in Malaysia. The establishment of Southern College was to provide an alternative tertiary education for high school graduates to pursue higher qualifications in home country. Foon Yew Advanced Studies Programme was first set up in 1975 at Southern College and later Foon Yew Board of Directors made an application to the Ministry of Education for setting up Foon Yew College and then Southern College. Through twenty-two years of management and supports from the Chinese community, the Ministry of Higher Education finally approved Southern College to be upgraded to Southern University College in 2012. Southern UC aspire to become a full-fledged University by 2021 and aims to become a well-known International University by 2030.</p><p>The 33 acres of Southern University College campus, mainly donated by the philanthropist, Mr. Seow Wan Heong is located at Skudai, Johor Bahru. The campus reflects a fusion of Chinese and multicultural traditions of Malaysians.</p><p>Southern University College consists of:</p><ul><li>Faculty of Humanities and Social Sciences</li><li>Faculty of Business and Management</li><li>Faculty of Art and Design</li><li>Faculty of Engineering and Information Technology</li><li>Faculty of Chinese Medicine</li><li>Faculty of Education and Psychology</li><li>School of Foundation Studies</li><li>Southern Institute of Technical Education</li><li>School of Professional &amp; Continuing Education</li><li>Institute of Graduate Studies and Research</li><li>Research Institute of Chinese Ethnicity &amp; Culture</li><li>Research Institute of Malay Language and Culture.</li></ul></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor Bahru. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/video-editor-4550921?jobId=jobstreet-my-job-4550921&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
