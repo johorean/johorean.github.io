@@ -1,0 +1,20 @@
+---
+title: "Fitson Sdn Bhd Vacancies Production Supervisor/ Head of Production" 
+category: Jobs 
+date: 2021-05-10 
+excerpt: "Fitson Sdn Bhd is currently looking for suitable person to fill in the Production Supervisor/ Head of Production which based in Johor Bahru" 
+tags: [Johor Bahru] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Fitson Sdn Bhd is looking for new potential candidates to fill in for <b>Production Supervisor/ Head of Production</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>FITSON</strong>&#160;was founded in 1994 and is an Original Equipment Manufacturer (OEM) and Original Design Manufacturer (ODM) specializing in producing Mother &amp; Baby care products with a 100% export to some of the biggest baby product companies.&#160;</p><p><strong>What do you need do in this role:</strong></p><ul><li>Establishment of planning, organizing, leading and controlling of all activities within the production function.</li><li>Efficient collaboration and coordination a crossed all departments.</li><li>Supervise overall production processes to ensure the KPI, capacity, quality &amp; cost of manufacturing &amp; IMS objectives are being achieved.</li><li>Effective manpower planning to achieve labour efficiency and productivity.</li><li>Provide technical assistance and troubleshooting in maintaining continuous operations.</li><li>Inspecting electrical components during and after installation.</li><li>Monitor daily reporting, update and prepare reports,&#160;flow diagrams and charts on production efficiency, yield, fall-off etc.</li></ul><p><strong>What do you need to have to be successful in this role:</strong></p><ul><li>Minimum SPM / STPM / Diploma / Advanced /Degree holders or its equivalent.</li><li>At least 2 - 5 years experience in plastic injection / Electronic industry.</li><li>Knowledge of plastic, rubber, silicone mechanical structure will be an added advantage.</li><li>Preferably with experience in Liquid Silicone injection moulding and electronic &amp; electrical.</li><li>Good supervision and leadership skills</li><li>Possess good interpersonal and communication skills.</li><li>Languages skills in Mandarin, English, Malay</li><li>Basic Competency for IMS implementation.</li></ul><p><strong>What are the benefits waiting for you:</strong></p><ul><li>Attractive remuneration and package will commensurate with experience and qualification</li><li>An attractive compensation packages</li><li>Fair work-life balance.</li><li>Opportunities for growth and advancement awaits the successful candidate.</li></ul><p>Are you ready to make that career shift &amp; grow a great portfolio with us? Click the &#8216;<strong>Apply Now</strong>&#8217; button and we will get in touch with you soon.</p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>FITSON was founded in 1994 and is an Original Equipment Manufacturer (OEM) and Original Design Manufacturer (ODM) specializing in producing Mother &amp; Baby care products with a 100% export to some of the biggest baby product companies in Europe, US, China, Japan and Asia. Over the years, we have built a strong track record in manufacturing various high quality baby products. We are expanding our organisation and are seeking talented, committed individuals to join and become part of our Fitson team.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor Bahru. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/production-supervisor-head-of-production-4562236?jobId=jobstreet-my-job-4562236&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
