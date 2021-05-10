@@ -1,0 +1,20 @@
+---
+title: "Tanjong Puteri Golf Resort Bhd Vacancies Chief Security Officer" 
+category: Jobs 
+date: 2021-05-10 
+excerpt: "Tanjong Puteri Golf Resort Bhd is currently looking for suitable person to fill in the Chief Security Officer which based in Johor - Others" 
+tags: [Johor - Others] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Tanjong Puteri Golf Resort Bhd is looking for new potential candidates to fill in for <b>Chief Security Officer</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Ensure the Safety and Security of Guest and Employee and Their Property During They Stay at The Resort</strong></p><ul><li>Patrol the Resort and its premises and checking on matters of security &amp; safety.</li><li>Arrange security guard to keep watch at the various entrances to prevent trespasses and strangers and to secure safety of guests.</li><li>Supervise the subordinate to arrange security guard on duty.</li><li>Handle initial investigation of theft and accidents involving guests or staff and supervise the subordinate to prepare reports and perform necessary action.</li><li>Lead, monitor and supervise the Safety and Health Committee activities and ensure compliance with relevant Act and regulations.</li><li>Ensure the normal function of the fire and safety precautions and the operation of firefighting equipment and evacuation procedures.</li><li>Liaise with local fire department, police and safety authorities and keep abreast of current developments and amendments to regulations. Liaise with the Resort management and other department to detect further needs of security and to prevent problems from arising.</li></ul><p><strong>Ensure all Employee obey the Resort Regulations</strong></p><ul><li>Assist in the preventing of theft of Resort properties by setting up guard stations at staff entrance and other exit channels to check on staff identity and packages.</li><li>Report on irregularities on Resort employee using the guest facilities.</li><li>Supervise the subordinate to mediate the dispute between Resort employee.</li></ul><p><strong>Contribute to Overall Efficiency of the Department</strong></p><ul><li>Supervise the records of all incidents, reports of theft and accidents, allegations and other occurrences, using the appropriate forms and log books.</li><li>Provide on the job training to staff.</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>Tanjong Puteri Golf Resort is a 54-hole Championship Golf Resort with comprehensive country club facilities including guestrooms and villas for accommodation. We are located within the rapidly growing Pasir Gudang area under the Iskandar Development project at the Southern Gateway of Malaysia. Tanjong Puteri Golf Resort has won numerous prestigious awards since opening in 1992. Our more recent awards include: * Rated 9th&#160;Best Golf Course in Malaysia 2011/ 2012 and Rated 3rd Most Scenic Golf Hole (Straits Course #17) in Malaysia 2011/2012 ~ By Golf Malaysia Readers' Poll. * Rated 6th Best Golf Course in Malaysia 2010/2011 ~ By Tee Times, New Straits Times. * Rated 3rd&#160;Best Golf Course in Malaysia 2010/2011&#160;~ By Asian Golf Monthly Readers' Poll. *&#160;Rated Top 5 Golf Course in Malaysia 2010 By Hospitality Asia Platinum Awards Malaysian. We are looking for a suitable candidate to complement our Management team.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor - Others. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/chief-security-officer-4561702?jobId=jobstreet-my-job-4561702&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

@@ -1,0 +1,20 @@
+---
+title: "Netiquette Software (M) Sdn Bhd Vacancies Sales And Marketing Executive" 
+category: Jobs 
+date: 2021-05-10 
+excerpt: "Netiquette Software (M) Sdn Bhd is currently looking for suitable person to fill in the Sales And Marketing Executive which based in Johor Bahru, Kuala Lumpur, Penang" 
+tags: [Johor Bahru, Kuala Lumpur, Penang] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Netiquette Software (M) Sdn Bhd is looking for new potential candidates to fill in for <b>Sales And Marketing Executive</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p>We are looking for 4 or more self driven individual to grow our customer base in Malaysia and South East Asia, there are 2 different positions in career direction; digital marketing and direct customer contact. In the digital marketing, candidates are expected to have good working understanding of digital marketing especially on SEO and SEM. For direct customer contact, this is outbound position and we are looking for candidates that have proven experience in engaging customers and abilities to meet sales target set for them.&#160;</p><p>In both career directions, this is a rewarding position for candidates that meet all the ticks.</p><p><strong>&#8226; Primary responsibilities</strong></p><ul><li>Business Development Role</li><li>Build and maintain prospects, customers and accounting partner channels database</li><li>Develop new channels and manage current distribution partners</li><li>Sales engagement and closing deals with new and existing customers</li><li>Prepare quotation and proposal for customer</li><li>Digital Marketer Role</li><li>Develop marketing collaterals</li><li>Develop and execute offline and digital marketing campaigns to generate leads</li><li>Organize marketing events to promote products and create business awareness</li><li>Prepare Script and work closely with in-house designer</li></ul><p><strong>&#8226; Secondary Responsibilities</strong></p><ul><li>Formulate and document product positioning and go-to-market plans</li><li>Develop and implement management processes and reporting</li><li>Develop and document business and/or sales and marketing plan</li><li>Assist in any ad-hoc projects as assigned</li></ul><p>Work Location: Johor Bahru (Mount Austin), Penang (Bayan Lepas) and KL (Bangsar South)</p><p>We also provide sponsor training courses approved by MDEC for continuous development.</p><p>Please indicate your preferred job role in your application.</p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>Netiquette Software (M) Sdb Bhd develop and manage Cloud base business solutions for SME businesses in South East Asia with more than 17 years of history. Our products range include accounting, inventory, payroll and Point of Sales solutions.</p><p>Our mission is to build up Netiquette Software as Asia No 1. Business solutions as business today are scaling up their operation faster and at the present moment, we are the only solutions provider that had localized our accounting software in these diverse languages and taxations regions.</p><p>We have presence include Singapore, Malaysia, Hong Kong, Indonesia, Philippines and Thailand.&#160;</p><p>We strongly believe in work hard &amp; play hard and you will be working in a environment where freedom, independent and creativity are strongly preferred style. Join our bunch of fun loving team today!</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor Bahru, Kuala Lumpur, Penang. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/sales-and-marketing-executive-4561673?jobId=jobstreet-my-job-4561673&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
