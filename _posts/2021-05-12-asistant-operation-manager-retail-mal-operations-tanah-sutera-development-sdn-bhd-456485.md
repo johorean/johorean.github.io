@@ -1,0 +1,20 @@
+---
+title: "Tanah Sutera Development Sdn Bhd Vacancies Assistant Operation Manager – Retail Mall Operations" 
+category: Jobs 
+date: 2021-05-12 
+excerpt: "Tanah Sutera Development Sdn Bhd is currently looking for suitable person to fill in the Assistant Operation Manager – Retail Mall Operations which based in Johor Bahru" 
+tags: [Johor Bahru] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Tanah Sutera Development Sdn Bhd is looking for new potential candidates to fill in for <b>Assistant Operation Manager – Retail Mall Operations</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p>Main Duties &amp; Responsibilities: -</p><ul><li>Handle the day to day operations in Mall ensuring operations are kept up to the highest quality standards.</li><li>Coordinates mall team and contractor employee works to oversee daily operations including maintenance, security, cleaning, car park, pest control and waste collection.</li><li>Manage tenant shops operational compliance.</li><li>Maintain high quality property stands through daily checks and periodic maintenance.</li><li>Handle all conflicts and disputes situation amongst tenants, customers, mall visitors in a smooth manner avoiding any disruption to mall operation.</li><li>Assists in inspecting the setup and operations of retail outlets in the Shopping Mall to</li><li>ensure adherence to Tenancy Agreements and statutory requirements.</li><li>Establishes and maintains good working relationships with Tenants of the Shopping Mall.</li><li>Effectively presents information and responds to the Tenant's inquiries in detail.</li><li>To ensure contractors comply with the mall's operating policies and procedures.</li><li>To secure quotations for maintenance repair works and replacement of parts to ensure good pricing.</li><li>Manage an effective inventory control on all replacement parts and tools.</li><li>Prepare relevant correspondence letters, e-mails, and reports to Tenants.</li><li>Escalating issues and problems to Operations Manager when necessary.</li></ul><p>Requirements: -</p><ul><li>Candidate must possess at least Bachelor Degree, Post Graduate Diploma, Professional Degree in Engineering (Electrical/Electronic, Mechanical/Civil Engineering) or Real Estate Management or equivalent.</li><li>At least 5 years of working experience in handling building / shopping mall and M&amp;E systems at a managerial level or in similar capacity related field is required for this position.</li><li>Meticulous and possess strong verbal and written communication skills.</li><li>Computer Literate (Microsoft Office).</li><li>Strong leadership, good personality and interpersonal skills.</li><li>Mature, independent with good planning, organizational and coordination skills.</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>Tanah Sutera Development Sdn Bhd, a company backed by a consortium of Malaysia and Singapore companies, owns a land bank covering an area well over 1000 acres located in the western corridor of the city of Johor Bahru. The land bank of the Company is divided into two main areas namely Taman Sutera and Taman Sutera Utama. Taman Sutera is strategically located directly across Sungai Skudai from the Tampoi Commercial Center while Taman Sutera Utama is nestled in between Taman Perling on the south and Taman Ungku Tun Aminah on the north.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor Bahru. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/assistant-operation-manager-retail-mall-operations-4566485?jobId=jobstreet-my-job-4566485&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
