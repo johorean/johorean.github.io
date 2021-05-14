@@ -1,0 +1,20 @@
+---
+title: "LUCA ACADEMY SDN. BHD. Vacancies Chinese Language Secondary Teacher (Welcome Fresh Graduates ! )" 
+category: Jobs 
+date: 2021-05-14 
+excerpt: "LUCA ACADEMY SDN. BHD. is currently looking for suitable person to fill in the Chinese Language Secondary Teacher (Welcome Fresh Graduates ! ) which based in Johor Bahru" 
+tags: [Johor Bahru] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>LUCA ACADEMY SDN. BHD. is looking for new potential candidates to fill in for <b>Chinese Language Secondary Teacher (Welcome Fresh Graduates ! )</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><div>We are a <strong>church based International School </strong>and would like to invite vibrant individuals who enjoy <strong>teaching Chinese Language to join us.</strong><div><strong>Who are we looking for:</strong></div><ul><li>Possess strong interest and is passionate in continuous learning and<strong> teaching in Chinese.</strong></li><li>Coaching and training will be provided by our leaders.</li><li>Adapting 21st century Cross Curricular Curriculum (CCC) approach.</li><li><strong>Fresh graduates are encouraged to apply.</strong></li><li>Has at least received the <strong>basic knowledge of Chinese Studies (Bachelor&#8217;s Degree)</strong>, and possesses a wide range of understanding in: various literature (Modern and old prose, poetry, play, film, novel, children's literature, etc.), history of literature, Chinese Etymology, phonology, exegesis, Chinese philosophy, and so on.</li></ul><div><br><strong>What will you need to do</strong></div><ul><li>Able to carry out a detailed analysis on a specific literary work (regardless of the literature type) as well as develop a logical, evidence-based, and reasonable personal comment and appreciation of the literary work.</li><li>Possesses an interest in creative work production/ research, and experienced in or currently in the field of creative work production/ research.</li><li>Able to adjust what he/ she knows to share it in a simplified, layman&#8217;s term to the listener or the audience by applying the knowledge gained in Chinese Studies, with reference to the needs of the audience or the receiving party.</li><li>Develop subject teaching materials and learning materials for the subjects and students.</li><li>&#160;Perform extra-curricular activities, including counselling of students, marking of Placement/Readiness assessments, and promotion/marketing of the school.</li></ul><div><br><strong>What will we provide you</strong></div><ul><li>Attractive Salary package</li><li>Performance Bonus</li><li>Further Education Support</li><li>Your Medical Claims are on Us</li></ul><div>Are you ready to make that career shift &amp; grow a great portfolio with us? Click the <strong>&#8216;Apply Now</strong>&#8217; button and we will get in touch with you soon.</div></div></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>A church based international homeschool at Kempas Utama, Johor Bahru, Johor, West Malaysia,&#160;</p><p>Our Vision:</p><p>Education is "Life impacts Lives".</p><p>Our Motto:</p><p>I Learn, I Love, I Live by Good Example!</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor Bahru. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/chinese-language-secondary-teacher-welcome-fresh-graduates-!-4555871?jobId=jobstreet-my-job-4555871&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
