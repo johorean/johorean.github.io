@@ -1,0 +1,24 @@
+---
+title: "Masterbrand Cabinets Inc. Vacancies Timber-Lumber Buyer" 
+category: Jobs 
+date: 2021-05-14 
+excerpt: "Masterbrand Cabinets Inc. is currently looking for suitable person to fill in the Timber-Lumber Buyer which based in Johor Bahru" 
+tags: [Johor Bahru] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Masterbrand Cabinets Inc. is looking for new potential candidates to fill in for <b>Timber-Lumber Buyer</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Key Responsibilities for the Timber/Lumber Buyer:</strong></p><p>&#183;&#160;Coordinates all activities related to procurement of Logs and kiln dried lumber beginning with intent to purchase through delivery to our suppliers.</p><p>&#183;&#160;Analyzes the requirements of the lumber, including preliminary specifications, preferred supplier, and date commodity is needed.</p><p>&#183;&#160;Solicits and evaluates proposals, contracts, and RFQ/RFP.</p><p>&#183;&#160;Investigates and/or interviews potential suppliers to determine if they meet the specified requirements including Lacey Compliance.</p><p>&#183;&#160;Visit new and existing suppliers to maintain and build supplier relationships.</p><p>&#183;&#160;Advises suppliers, team members, and management on the appropriate suppliers to be used.</p><p>&#183;&#160;Negotiates the lowest possible cost for the lumber balanced against the optimum quality and schedule needs in changing market conditions.</p><p>&#183;&#160;Assures that the lumber is delivered on schedule, at the negotiated price, and meets the quality standards of the suppliers and Masterbrand company.</p><p>&#183;&#160;Maintains timely control of orders, amendments, shipping notices, and other documents to assure accurate retention of records.</p><p>&#183;&#160;Coordinates appropriate methods needed to distribute lumber in a cost effective manner.</p><p>&#183;&#160;Insure adequate inventories at all times.</p><p>&#183;&#160;Check lumber inspection reports and invoices. Help Masterbrand suppliers settle claims and differences.</p><p>&#183;&#160;Plans and organizes own work including travel schedule with approvals.</p><p>&#183;&#160;Submit written reports, updates to Global Lumber Market as necessary.</p><p>&#183;&#160;Maintain memberships in professional organizations to ensure networking opportunities are maximized.</p><p><strong>Required Qualifications for the Timber/Lumber Buyer:</strong></p><p>&#183;&#160;Two or Four year degree in forest products, wood technology, forestry or ten years of relevant&#160;experience required</p><p>&#183;&#160;Requires knowledge of Global hardwood lumber markets, global grading/supply rules, INCO terms, and Governmental Regulation and Compliance.</p><p>&#183;&#160;Previous hardwood lumber or timber purchasing experience is preferred.</p><p>&#183;&#160;Ability to calculate figures and amounts such as discounts, interest, commissions, proportions, percentages, area, circumference, and volume.</p><p>&#183;&#160;Must possess a high level of personal and professional integrity</p><p>&#183;&#160;Be well organized, strong verbal and written communication skills in English is a must. Vietnamese, Mandarin and/or other languages is a plus.</p><p>&#183;&#160;Must be able to travel 40% of the time</p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>MasterBrand&#160;Cabinets&#160;is&#160;the&#160;premier&#160;kitchen&#160;and&#160;bath&#160;cabinet&#160;producer&#160;in&#160;the&#160;U.S.,&#160;holding&#160;the&#160;largest&#160;share&#160;of&#160;the&#160;cabinets&#160;market.&#160;The&#160;business&#160;offers&#160;a&#160;full&#160;range&#160;of&#160;cabinet&#160;styles&#160;and&#160;price&#160;points&#160;sold&#160;through&#160;multiple&#160;channels,&#160;including&#160;home&#160;retailers,&#160;builders,&#160;and&#160;dealers.&#160;
+
+
+<div>Being part of Fortune Brands, a $5 billion company with a range of market-leading brands in the home and security industries and more than 45 locations across the United States, gives our current and future employees, even more, access to career opportunities.&#160;</div>
+</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor Bahru. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/timber-lumber-buyer-4566844?jobId=jobstreet-my-job-4566844&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
