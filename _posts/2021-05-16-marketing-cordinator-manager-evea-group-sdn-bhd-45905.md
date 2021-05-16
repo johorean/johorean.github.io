@@ -1,0 +1,20 @@
+---
+title: "Evvea Group Sdn Bhd Vacancies Marketing Coordinator Manager" 
+category: Jobs 
+date: 2021-05-16 
+excerpt: "Evvea Group Sdn Bhd is currently looking for suitable person to fill in the Marketing Coordinator Manager which based in Johor Bahru" 
+tags: [Johor Bahru] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Evvea Group Sdn Bhd is looking for new potential candidates to fill in for <b>Marketing Coordinator Manager</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Responsibilities:</strong></p><p>&#183; <span>Develop or think of collateral for promotions to drive sales and increase brand awareness</span></p><p>&#183; <span>Prepare social media and ads marketing idea and strategy for monthly highlights and campaign.</span></p><p>&#183; Analysis on ads report.</p><p>&#183; <span>Provides support to partners and ensure all necessary tools are provided to make sure monthly highlights or campaign succeed.</span></p><p>&#183; <span>Manages the marketing team and make sure that KPI is met quarterly.</span></p><p>&#183; <span>Discuss and Implement sales mechanic's and promotion for sales team on a monthly, quarterly and yearly basis.&#160;</span></p><p>&#183; <span>Preparation of monthly sales and marketing reports based on tracking and analysis of sales trends by products and campaigns.</span></p><p>&#183; <span>Support Sales team with marketing collateral needed for partners.</span></p><p>&#183; <span>Think of product story and brand story to drive traffic and increase sales lead.</span></p><p>&#183; <span>Creating awareness within short period of time.</span></p><p>&#183; <span>Creating Video Content and very familiar with Social Media&#160;</span></p><p>&#183; <span>Seek for potential partnership and explore collaboration opportunities with influencer and editors.</span></p><p>&#183; <span>Establish good rapport with partners.</span></p><p>&#183; <span>Accountable for brand compliance</span></p><p><strong>Requirements:</strong></p><p>&#183; <span>Candidate must possess at least Bachelor's Degree/Post Graduate Diploma/Professional Degree&#160;in Marketing or Mass Communication.</span></p><p>&#183; <span>At least 5 Year(s) of working experience in the related field is required for this position.</span></p><p>&#183; <span>Preferably Manager specialized in Marketing/Business Development or equivalent.</span></p><p>&#183; <span>Positive Personalities, Highly Energetic, Hardworking and Honesty</span></p><p>&#183; <span>Focused, Result Oriented and Systematic</span></p><p>&#183; <span>Able to work with other departments and strong team work</span></p><p>&#183; <span>Able to think of creative ideas and think out of the box</span></p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>We are an established F&amp;B/IT/Project Development Group of restaurants in search of dynamic and enthusiastic employees. We seek dedicated individuals who are diligent in growing their potential and strength with us.&#160;</p><p> All our operating business are located in established township. Currently we have 3 Licensing Distributor of F&amp;B company under our group. We planned to establish further throughout whole Malaysia.</p><p> Send in your resume and be a part of the vibrant team.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor Bahru. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/marketing-coordinator-manager-4559055?jobId=jobstreet-my-job-4559055&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
