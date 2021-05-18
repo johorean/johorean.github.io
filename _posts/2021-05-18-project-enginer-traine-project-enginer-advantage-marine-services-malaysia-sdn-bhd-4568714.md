@@ -1,0 +1,20 @@
+---
+title: "Advantage Marine Services (Malaysia) Sdn Bhd Vacancies Project Engineer/Trainee Project Engineer" 
+category: Jobs 
+date: 2021-05-18 
+excerpt: "Advantage Marine Services (Malaysia) Sdn Bhd is currently looking for suitable person to fill in the Project Engineer/Trainee Project Engineer which based in Johor Bahru" 
+tags: [Johor Bahru] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Advantage Marine Services (Malaysia) Sdn Bhd is looking for new potential candidates to fill in for <b>Project Engineer/Trainee Project Engineer</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p>1.&#160;&#160;&#160;Assist the Project Manager in planning, coordinating and managing project technicalities and management requirements for assigned projects. Review and approve client&#8217;s contract and orders.</p><p>2.&#160;&#160;&#160;Liaise with Senior Management, consultants, contractors and all relevant parties in project design, drawing and related activities.</p><p>3.&#160;&#160;&#160;Monitor and lead engineering design team in project developments</p><p>4.&#160;&#160;&#160;Ensure project meets customer&#8217;s specifications and within schedule and budget</p><p>5.&#160;&#160;&#160;Communicate effectively and resolve issues with site, consultants, authorities and contractors</p><p>6.&#160;&#160;&#160;Responsible to coordinate and communicate with all relevant parties to meet requirement of the project</p><p>7.&#160;&#160;&#160;Hold/attend weekly meetings for better and effective communication among all the members involved</p><p>8.&#160;&#160;&#160;Participating in client, contractor&#8217;s meetings and resolve the engineering and management issues. Have close and frequent contact with project clients</p><p>9.&#160;&#160;&#160;Recognize technical problems and to initiate appropriate corrective actions</p><p>10.&#160;Communication, review and check drawings for completeness and correctness and issue approved drawings to QC engineer for distribution</p><p>11.&#160;Review and approve all clients invoices, suppliers invoice which relate to assigned project</p><p>12.&#160;Travel to client&#8217;s office, various sites and offshore if required for meetings, inspections and monitoring of the job progress/status.</p><p>13.&#160;Being in charge of the job site and execution of the projects.</p><p>Requirement</p><p>1. Min 3 year experience in marine and OG industry and well versed in Auto Cad or any 3D drawing</p><p>2. Min3 years experience in steel fabrication and able to read &amp; sketch 2D line diagram</p><p>3. Willing to travel to site, offshore &amp; overseas for assignment</p><p>4. Fresh graduates are encouraged to apply</p><p>5. Ability to communicate in Mandarin will be added advantage</p><p>6. Team Player with strong leadership skill and patient in mechanical/fabrication work.</p><p>7. Candidate with 5 years and above experience in steel fabrication works especially structure and piping will consider in Senior/Specialist position.</p><p>8. Attractive remuneration package</p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>Advantage Marine Services (Malaysia) SB is rapidly becoming a major force in providing quality, safe and timely services to our clients in Malaysia and beyond. We are developing a strong reputation among our clients for the ability to deliver and we are establishing strong ties with major players in the industry.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor Bahru. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/project-engineer-trainee-project-engineer-4568714?jobId=jobstreet-my-job-4568714&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

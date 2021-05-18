@@ -1,0 +1,20 @@
+---
+title: "DAISEI KUSHIYAKI SDN. BHD. Vacancies HR Executive" 
+category: Jobs 
+date: 2021-05-18 
+excerpt: "DAISEI KUSHIYAKI SDN. BHD. is currently looking for suitable person to fill in the HR Executive which based in Johor Bahru" 
+tags: [Johor Bahru] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>DAISEI KUSHIYAKI SDN. BHD. is looking for new potential candidates to fill in for <b>HR Executive</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><div><div><strong>Job Responsibilities:</strong></div><div><strong>HR &amp; Admin</strong></div><ul><li>Working knowledge of Industrial Relations practice, labour law and government regulations</li><li>Maintains staffing by establishing a recruiting and selection. Conducting and analyzing exit interview.</li><li>To issue warning letter and other letter upon request by the inter company or branch in charge person.</li><li>Carry out employee performance evaluation or the appraisal of employee work results on staff confirmation, yearly appraisals or on a periodic basis.</li><li>Responsible to manage employee conflicts, provide counseling to employee, hearing and resolving employee grievances and employee disciplinary issues</li><li>Prepare the report relative with HR policies such as Overtime report, headcount report, payroll, yearly bonus, annual salary review and others</li><li>Liaise with relevant bodies for monthly statutory submission.</li><li>Prepare&#160;Monthly Payroll Monitoring / Checking Employee attendance, OT, medical claims and others claim for all levels.&#160;</li><li>Conduct orientation to new joined staff and inform the employee about our company policies, benefit and procedures</li><li>Liaison with recruitment firm or newspaper agent for publish the job vacancy classified ad</li><li>Responsible for the day &#8211;to- day administrative assignments given by superior</li><li>Responsible to monitoring , re-check and key in the maintenance (motor Vehicle) record&#160;</li><li>Responsible to apply petrol card , in charge of company's mobile phone line tracking</li></ul><br><strong>Job Requirements:</strong><ul><li>Good Knowledge in MS Office - Excel/Word and power point.</li><li>Pleasant, mature, personality and good interpersonal skill, good discipline and meeting deadline</li><li>A sense of urgency and able to work under pressure</li><li><strong>Familiar of Employment Act 1955 and Government Statutory Requirements</strong></li><li>Candidate must possess at least Higher Secondary/STPM/"A" Level/Pre-U, Diploma/Advanced/Higher/Graduate Diploma in Business Studies/Administration/Management, Human Resource Management or equivalent.</li><li>Required language(s): Bahasa Malaysia, mandarin, English (to liaise with associates)</li><li>At least 4 Year(s) of working experience in the related field is required for this position. Preferably Junior Executive specialized in Human Resources or equivalent.</li><li>Candidate who can speak mandarin is take advantage</li><li><strong>Candidate who can work immediately is an added advantage.</strong></li></ul><br>.</div></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>Daisei Kushiyaki is centralised &#8220;lok lok&#8221; food processing factory for its licensee under the brand of &#8220;&#22823;&#25104;&#28172;&#28172;&#8221;. The business was started at Johor and was extended to Kuala Lumpur under licensing concept. Currently we have 16 outlets/ food trucks in Malaysia under the brand of &#22823;&#25104;&#28172;&#28172;.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor Bahru. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/hr-executive-4556200?jobId=jobstreet-my-job-4556200&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

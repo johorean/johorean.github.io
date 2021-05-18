@@ -1,0 +1,23 @@
+---
+title: "EDMI ELECTRONICS SDN BHD Vacancies HR Executive" 
+category: Jobs 
+date: 2021-05-18 
+excerpt: "EDMI ELECTRONICS SDN BHD is currently looking for suitable person to fill in the HR Executive which based in Johor - Others" 
+tags: [Johor - Others] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>EDMI ELECTRONICS SDN BHD is looking for new potential candidates to fill in for <b>HR Executive</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>RESPONSIBILITIES :-</strong></p><ol><li><span>Monitor the entire recruitment and selection process including pre-screening, interviewing and shortlisting of candidates according to job requirements, competencies and capabilities as well as possess the ability to assess and match the right candidates to the role according to requirements.</span></li><li><span>Perform day to day recruitment activities, dealing with e-mail, telephone and walk-in interview, processing applications and all other correspondence relating to recruitment.</span></li><li><span>Perform job postings on various recruitment channel.</span></li><li><span>Engage and liaise with agents and external recruitment agencies for candidates&#8217; placement when required.</span></li><li><span>Propose salary package for selected candidates by studying current market trend and existing company&#8217;s salary structure.</span></li><li><span>Prepare of letter of appointment / employment contract for any new join employees.</span></li><li><span>Conduct induction training for newly on-board employees.</span></li><li><span>Update and monitor of E-health Declaration System and perform investigation when required.</span></li><li><span>Attend to disciplinary issues, staff counselling, grievances, domestic inquiry, and other employee related matters in compliance with labour laws.</span></li><li><span>Prepare of correspondence letter including show cause, suspension and termination of employment letters when required.</span></li><li><span>Assist with the training grant / claim application.</span></li><li><span>Assist with the filing of training records accordance ISO training standard requirements.</span></li><li><span>Perform any other ad-hoc assignments as and when required by superior from time to time.</span></li></ol><p><strong>REQUIREMENTS :-</strong></p><ol><li><span>Possess a Degree / Diploma in Human Resources Management, Business Administration or equivalent</span></li><li><span>Minimum 3 years working experience in recruitment / general HR functions.</span></li><li><span>Knowledge of the Employment Act 1955 and Industrial Relations Act 1967 is a must.</span></li><li><span>Computer literate and familiar with Microsoft Office applications.</span></li><li><span>Meticulous and detailed-oriented person.</span></li><li><span>Maintains high level of confidentiality and integrity.</span></li><li><span>Ethical and integrity.</span></li><li><span>Experienced in mediation and conflict resolution processes.</span></li><li><span>Able to work independent with minimum supervision.</span></li></ol></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+<div><strong>EDMI Electronics Sdn. Bhd. </strong>is a leading multinational company that designs, manufactures and sells innovative and technologically advanced electronic Energy Meters, Automatic Meter Reading (AMR) Systems and Metering System Software. EDMI Electronics has an extensive range of smart products for use in revenue applications accross the Generation, Transmission and Distribution sectors of the electricity market as well as for Sub-metering and Energy Management applications.</div>
+<div>In line with our rapid growth, we are looking for a candidate that can enhance the company's performance, highly dedicated, responsible, self-motivated with high team spirit to joint us.</div>
+</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor - Others. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/hr-executive-4568009?jobId=jobstreet-my-job-4568009&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
