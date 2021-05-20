@@ -1,0 +1,20 @@
+---
+title: "Fitson Sdn Bhd Vacancies Admin HR Executive/Assistant" 
+category: Jobs 
+date: 2021-05-20 
+excerpt: "Fitson Sdn Bhd is currently looking for suitable person to fill in the Admin HR Executive/Assistant which based in Johor Bahru" 
+tags: [Johor Bahru] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Fitson Sdn Bhd is looking for new potential candidates to fill in for <b>Admin HR Executive/Assistant</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>FITSON</strong>&#160;was founded in 1994 and is an Original Equipment Manufacturer (OEM) and Original Design Manufacturer (ODM) specializing in producing Mother &amp; Baby care products with a 100% export to some of the biggest baby product companies.&#160;</p><p><strong>What do you need do in this role:</strong></p><ul><li>Overall responsible in handle full spectrum of human resources and administration functions including maintenance and up keeps of office, stationery and office equipment etc.</li><li>Apply, renew and maintain company licenses, foreign workers matters with relevant government and authorities bodies to ensure compliance.</li><li>Provide administration support in HR task including recruitment, selection process , foreign worker affairs, compensation &amp; Benefits, training &amp; development etc</li><li>Company vehicles control and monitoring&#160;including cleanliness, maintenance, repair, license, road tax and insurance renewal.</li><li>General maintenance for factory and facilities maintenance including IT ,security system, telecommunication system.&#160;</li><li>Correspondence with government department such as MITI, BOMBA, DOE, DOSH etc</li><li>Assist in ISO documentation and ISO certifications.</li><li>Any other duties that may be assigned by superior from time to time.</li></ul><p><strong>What do you need to have to be successful in this role:</strong></p><ul><li>Candidate must possess at least Diploma/Advanced/Higher/Graduate Diploma, Bachelor's Degree/Post Graduate Diploma/Professional Degree&#160;in any field.</li><li>Good Written &amp; Verbal communication in English and Malays, able to speak in Mandarin is added advantage.</li><li>At least 3 Year(s) of working experience in the related field is required for this position.</li><li>Preferably Senior Executive specialized in HR/Administrative Support or equivalent.</li></ul><p><strong>What are the benefits waiting for you:</strong></p><ul><li>Attractive remuneration and package will commensurate with experience and qualification</li><li>An attractive compensation packages</li><li>Fair work-life balance.</li><li>Opportunities for growth and advancement awaits the successful candidate.</li></ul><p>Are you ready to make that career shift &amp; grow a great portfolio with us? Click the &#8216;<strong>Apply Now</strong>&#8217; button and we will get in touch with you soon.</p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>FITSON was founded in 1994 and is an Original Equipment Manufacturer (OEM) and Original Design Manufacturer (ODM) specializing in producing Mother &amp; Baby care products with a 100% export to some of the biggest baby product companies in Europe, US, China, Japan and Asia. Over the years, we have built a strong track record in manufacturing various high quality baby products. We are expanding our organisation and are seeking talented, committed individuals to join and become part of our Fitson team.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor Bahru. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/admin-hr-executive-assistant-4571490?jobId=jobstreet-my-job-4571490&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
