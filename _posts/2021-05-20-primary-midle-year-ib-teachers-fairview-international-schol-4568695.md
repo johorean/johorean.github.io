@@ -1,0 +1,28 @@
+---
+title: "Fairview International School Vacancies PRIMARY & MIDDLE YEAR IB TEACHERS" 
+category: Jobs 
+date: 2021-05-20 
+excerpt: "Fairview International School is currently looking for suitable person to fill in the PRIMARY & MIDDLE YEAR IB TEACHERS which based in Johor Bahru, Kuala Lumpur, Penang, Ipoh, Selangor" 
+tags: [Johor Bahru, Kuala Lumpur, Penang, Ipoh, Selangor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Fairview International School is looking for new potential candidates to fill in for <b>PRIMARY & MIDDLE YEAR IB TEACHERS</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><div>We are seeking inspirational and highly-motivated teachers to join our school.&#160; The successful candidate will be a highly planner, able to work collaboratively with other teachers to improve and upgrade student learning continually.&#160; As our teacher, you will be trained to deliver the PYP/MYP programme in the most effective way possible and delivering top-quality learning experiences for the students.&#160; Your responsibilities include ensuring that all elements of the curriculum and education experience (including, but not limited to, the classroom, the language of instruction, the learning resources, etc.) are at the highest standards in line with Fairview&#8217;s philosophy and befitting of International Baccalaureate Education requirements. The position will be a full-time renewable contract for three-years.</div><div><strong>KEY POSITION REQUIREMENTS:</strong></div><ul><li>A relevant degree to teach areas/specialization<ul><li>Homeroom Teachers</li><li>Mandarin Teachers</li><li>Music Teachers</li><li>Visual Arts Teacher</li><li>English/ Language A Teachers</li><li>Chemistry and Biology Teachers</li></ul></li><li>An understanding of the developmental needs of different age groups.</li><li>Excellence in teaching practice.</li><li>Effective communication skills &amp; collaborative nature.</li><li>We encourage applicant to indicate campus and subject preference for a better understanding of your profile</li></ul><div><strong>OVER-ALL RESPONSIBILITIES:</strong></div><ul><li>Designing effective lesson plans and delivering them in accordance with programme standards set forth for the assigned subject: these standards at present include IB PYP and MYP.</li><li>Designing and administering assessments which meet reliability and validity criteria as per student learning outcomes.</li><li>Adhering to academic policies set forth by Fairview management.</li><li>Collaborating meaningfully with Programme Coordinators, Campus Leaders, the Global Head of Department and team of subject teachers within Fairview, in order to ensure academic excellence for the specific subject in relation to curriculum design, instruction and assessment.</li><li>Participating fully in the Professional Development of academic staff.</li><li>Participating in campus-wide activities and other ad-hoc duties as assigned by campus Heads from time to time.</li></ul><div>*** Our teachers are given a Full Scholarship to complete Postgraduate Diploma in Education &#8211; IB (PGDE)***</div><div><strong>Minimum Requirements</strong></div><ul><li>Candidates must possess a Bachelor&#8217;s Degree</li><li>Education Degree is a bonus.</li><li>Understanding of A-Level iGCSE syllabus and IB.</li><li>Curriculum knowledge of MYP/DP would be an added advantage.</li><li>Minimum 2 years of experience in the related field</li><li>Language Proficiency : English, Language of Instruction</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+<div>
+		Fairview International School is the first and only network of 4 International Baccalaureate (IB) World Schools in West Malaysia. Having been authorised for 10 IB programmes and evaluated after the 5 year cycle for 5, Fairview moves on to expand into 3 more campuses in Malaysia. Fairview offers the full spectrum of the academic programmes of the IB &#8211; The Primary Years Programme (PYP), The Middle Years Programme&#160; (MYP) and the IB Diploma Programme (IBDP).
+		<div>
+			The time tested UK National Curriculum forms the backbone while the International Baccalaureate Framework drives teaching and learning.Our academic performance has been consistent over the years with our students&#8217; scores in DP averaging at 36/37.</div>
+		Fairview takes a strong view on professional development, To that effect, the Cambridge International Diploma in Teaching and Learning is a mandatory course that all teachers must undertake within the first 6 months of employment. The tuition fee for this course is fully sponsored by the school. There are ample opportunities for professional development including post graduate programmes including the International Baccalaureate Teaching and Learning Awards.
+		
+	</div>
+</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor Bahru, Kuala Lumpur, Penang, Ipoh, Selangor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/primary-middle-year-ib-teachers-4568695?jobId=jobstreet-my-job-4568695&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

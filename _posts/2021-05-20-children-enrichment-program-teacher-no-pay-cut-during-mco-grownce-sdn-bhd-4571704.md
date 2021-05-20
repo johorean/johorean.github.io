@@ -1,0 +1,20 @@
+---
+title: "Grownce Sdn Bhd Vacancies Children Enrichment Program Teacher (NO PAY CUT DURING MCO)" 
+category: Jobs 
+date: 2021-05-20 
+excerpt: "Grownce Sdn Bhd is currently looking for suitable person to fill in the Children Enrichment Program Teacher (NO PAY CUT DURING MCO) which based in Johor Bahru, Kuala Lumpur, Selangor" 
+tags: [Johor Bahru, Kuala Lumpur, Selangor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Grownce Sdn Bhd is looking for new potential candidates to fill in for <b>Children Enrichment Program Teacher (NO PAY CUT DURING MCO)</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Responsibilities:</strong></p><ul><li>Deliver quality &amp; systematic&#160;classroom and web based training.&#160;</li><li>Develop and deliver lesson plans to increase learning experience for trainee &amp; students.</li><li>Support company in&#160;promoting marketing event related activities.</li><li>Perform product demo during Product Seminar.</li><li>Maintain professional relationship and support any matter related teaching &amp; learning with course trainee.</li><li>Ensure distributor&#8217;s teacher &amp; outstation teacher teaching quality.</li><li>Follow up and ensure on time &amp; accuracy of course&#160;fee collection from direct students.</li><li>Manage direct students&#8217; progress and achievements.</li><li>Monitoring and reporting of direct student&#8217;s progress.</li><li>Monitoring trainee teaching quality.</li><li>Organize the learning venue and resources to encourage positive learning environment.</li></ul><p>&#160;<strong>Requirements:</strong></p><ul><li>Candidate must possess at least Professional Certificate, Diploma/Advanced/Higher/Graduate Diploma, Bachelor's Degree/Post Graduate Diploma/Professional Degree in Music/Performing Arts Studies, Education/Teaching/Training/Childhood Education&#160;or equivalent.</li><li>At least 1-2 years working in educational teaching or training.</li><li>Able to communicate in&#160;<strong>Mandarin </strong>is a MUST.</li><li>Must possess own transport and willing to travel to support various sites for teaching (within certain area)</li><li>Computer literate</li><li>Locations: Johor Bahru, KL, Selangor (Either one)</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>We are&#160;GUINNESS WORLD RECORD&#160;holder for (Largest Music Lesson) and also&#160;holder for 2 Malaysia Book of Records&#160;(Largest Participation of Children In An Ukulele Lesson &amp;&#160;Largest Participation of Children In An Ukulele Performance). In 2018, we had been awarded IEBC Top 10 Trusted Brand Awards</p><p>Grownce is one of the company that working closely with Malaysia schools &amp; kindergartens to support their educational solution needs. We exclusively provide outstanding range of proven innovative digital solutions which help teachers to teach and learners to learn. Our professionals are enthusiastic to transform classrooms into fun and effective learning spaces with proven storyboard &amp; game-based learning model thereby making interactive digital learning work for students and teachers!</p><p>We are proud to provide the kind of classroom solutions for learning institution to deliver inspiring, engaging &amp; fun learning.&#160;There is no duty more important than helping Malaysia students learn, grow and become contributing citizens. Grownce is a trusted advisor and valued partner the first choice for education.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor Bahru, Kuala Lumpur, Selangor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/children-enrichment-program-teacher-no-pay-cut-during-mco-4571704?jobId=jobstreet-my-job-4571704&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
