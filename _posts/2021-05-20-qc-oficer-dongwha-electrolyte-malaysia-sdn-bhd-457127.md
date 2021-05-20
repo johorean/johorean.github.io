@@ -1,0 +1,20 @@
+---
+title: "DONGWHA ELECTROLYTE MALAYSIA SDN. BHD. Vacancies QC OFFICER" 
+category: Jobs 
+date: 2021-05-20 
+excerpt: "DONGWHA ELECTROLYTE MALAYSIA SDN. BHD. is currently looking for suitable person to fill in the QC OFFICER which based in Johor - Others" 
+tags: [Johor - Others] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>DONGWHA ELECTROLYTE MALAYSIA SDN. BHD. is looking for new potential candidates to fill in for <b>QC OFFICER</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><ul><li>Candidate must possess at least STPM / Diploma / Degree in Chemistry field or in any equivalent field.</li><li>Required language(s): English.</li><li>Fluent in Korean and / or Mandarin would be an advantage for this position.</li><li>At least 1 year(s) and over of working experience in the related field is required for this position.</li><li>Fresh graduate are encourage to apply</li><li>Preferably Non-Executive specialized in Quality Control or equivalent</li><li>Must have strong emotion, positive mind, multi tasking person, self-motivated and high discipline.</li><li>Required Skill (s) : Strong computer literacy, Database Collection, Management and Analysis, Strong communication way &amp; reporting , teamwork management, problem analysis &amp; problem solving.</li><li>Able to work independently with minimum supervision.</li><li>Applicant must be willing to work in Senai, Johor and having own transportation.</li></ul><p>Responsibilities :</p><ul><li>Ensure failure analysis and evaluations are carried out satisfactorily to identify the root cause and to prepare the internal / external corrective action plan.</li><li>Responsible for reliability evaluation, raw material evaluation and related test.</li><li>Familiar with sample analysis process and procedures. Conduct the various analysis and inspection of raw material, sample and product.</li><li>Responsible for basic maintenance of laboratory machines , maintain machine condition , output check , 5S activity and QC consumable inventory</li><li>Familiar with handling incoming inspection for warehouse materials and analysis for all product sample</li><li>Prepare IQC sample and support mass product</li><li>Responsible for any add-hoc task assigned by Supervisor and Team Leader.</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>Dongwha Electrolyte produces electrolytes that play a decisive role in moving lithium ions from lithium secondary batteries used in portable electronic devices such as mobile phones, notebooks, PDAs, and HEV/EV/PHEV. The electrolytes manufactured by our company are applied in various forms and uses such as prismatic, cylindrical, and polymer lithium secondary battery, lithium primary battery, capacitor, etc. We provide various high-performance and high-stability electrolytes to battery-related companies.</p><p>We are advancing toward becoming the world's best electrolyte manufacturer through various formulation applications and additive researches In order to manufacture high-performance, high-stability electrolytes.</p><p>We have been reborn as the world's leading electrolyte brand Dongwha Electrolyte StarLyte by receiving production and development technologies from Cheil Industries. We will move on to become a true global No. 1 company and repay the needs of our customers.</p><p><strong>Dongwha Vision</strong> <strong>" Creating Happiness, Respecting People, Building Partnership "</strong></p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor - Others. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/qc-officer-4571227?jobId=jobstreet-my-job-4571227&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
