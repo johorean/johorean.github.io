@@ -1,0 +1,27 @@
+---
+title: "Regency Specialist Hospital Sdn Bhd Vacancies Finance Executive" 
+category: Jobs 
+date: 2021-06-03 
+excerpt: "Regency Specialist Hospital Sdn Bhd is currently looking for suitable person to fill in the Finance Executive which based in Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Regency Specialist Hospital Sdn Bhd is looking for new potential candidates to fill in for <b>Finance Executive</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><div><strong>Job Summary</strong></div><div>This role will provide process enhancement for Starmed Specialist Center Pte Ltd&#8217;s finance operation This role is responsible for a wide variety of finance-related tasks that are primarily associated with preparing financial records. Also, this role will providing back-end support by providing examine the accuracy for all relevant financial transaction had been recorded in the system is accordingly.</div><div><strong>Job Duties &amp; Responsibilities<br>General Ledger</strong></div><ul><li>Provide accurate, timely, and relevant recording, reporting, and analysis of financial information</li><li>Prepared monthly closing and prepare management report for management review</li><li>Prepared monthly Journal Voucher based on the computation from working file such ah prepayment, Accrual, etc.</li><li>Prepared New Fixed asset registered and depreciation for monthly activities</li><li>Responsible for Interco transaction and Interco balance in monthly basis</li><li>Computation all related figure such as sales/ cost/ purchase/ inventory from retail pharmacy and update to the system.</li><li>Bank reconciliation for all activities bank</li><li>Computation employee cost for HR working file</li><li>Computation Hire Purchase and adjustment based on complete working file</li><li>Assist with and act as the primary point-of-contact for auditor requests</li></ul><div><strong>Account Receivable</strong></div><ul><li>To prepare final recon for all daily counter collection and submit to OIC review</li><li>To prepared IBG transaction reconciliation</li><li>To check and post Sales Batch / including all relevant sales transaction</li><li>Prepared and review Weekly HIS and counter checking report</li><li>Review daily recon in weekly basic</li><li>Prepared all related Interco sales invoice and submit to interco relevant party</li><li>Prepared Unapplied receipt report for CRC in monthly basic</li><li>Prepared aging in monthly basic</li></ul><div><strong>Account Payable</strong></div><ul><li>Review and posting all non-stock invoice</li><li>Prepared all AP Accrued purchase reconciliation in monthly basis</li><li>Prepared all related bank charges transaction</li><li>Check and posting all stock code purchase MMC</li><li>Prepared all Hire purchase payment auto debit in system</li><li>Prepared all Employee cost payment in system after checking with HR and bank statement</li></ul><div><strong>Fixed Asset</strong></div><ul><li>Prepared New Fixed asset registered and depreciation for monthly activities</li><li>Lead &amp; Involve in disposal activities</li><li>Perform system disposal</li></ul><div><strong>General / Other Duties</strong></div><ul><li>Participate stock take in Starmed</li><li>Any other ad hoc assigned by OIC</li></ul><div><strong>Requirements</strong></div><ul><li>Professional Accounting Qualification ACCA or equivalent is advantage</li><li>Candidate must possess at least a Diploma, Advanced/Higher/Graduate Diploma,&#160; Finance/ Accountancy/Banking, Business Studies/Administration/Management or equivalent.</li><li>Required language(s): Mandarin</li><li>At least 1 year(s) of working experience in the related field is required for this position.</li><li>Preferably Junior Executives specializing in Finance - General/Cost Accounting or equivalent.</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+<div>
+		Regency Specialist Hospital (Regency) is a licensed 218-bed private tertiary care hospital providing a comprehensive range of medical and surgical services. Regency is the sister hospital of Mahkota Medical Centre in Malacca, a leading tertiary care hospital in Malaysia.</div>
+<div>
+		At Regency, patients are at the centre of what we do. Our team of experienced doctors and healthcare professionals deliver quality healthcare with warmth and passion.</div>
+<div>
+		Located in the eastern part of Iskandar Malaysia, in the growing township of Seri Alam, Masai, Johor, Regency is poised to provide premier healthcare services to the local community and the region.</div>
+</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/finance-executive-4581938?jobId=jobstreet-my-job-4581938&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

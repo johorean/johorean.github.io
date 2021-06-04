@@ -1,0 +1,22 @@
+---
+title: "Lignar Engineering Sdn Bhd Vacancies Administration Assistant" 
+category: Jobs 
+date: 2021-05-27 
+excerpt: "Lignar Engineering Sdn Bhd is currently looking for suitable person to fill in the Administration Assistant which based in Johor Bahru" 
+tags: [Johor Bahru] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Lignar Engineering Sdn Bhd is looking for new potential candidates to fill in for <b>Administration Assistant</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p>Administrative Assistant Job Responsibilities:</p><ul><li>Provides administrative support to ensure efficient operation of office.</li><li>Answers phone calls, schedules meetings and supports visitors.</li><li>Carries out administrative duties such as filing, typing, copying, binding, scanning etc.</li><li>Completes operational requirements by scheduling and assigning administrative projects and expediting work results.</li><li>Makes travel arrangements for senior staff such as booking flights, cars, and hotel or restaurant reservations.</li><li>Exhibits polite and professional communication via phone, e-mail, and mail.</li><li>Supports team by performing tasks related to organization and strong communication.</li><li>Develops administrative staff by providing information, educational opportunities, and experiential growth opportunities.</li><li>Ensures operation of equipment by completing preventive maintenance requirements, calling for repairs, maintaining equipment inventories and evaluating new equipment and techniques.</li><li>Provides information by answering questions and requests.</li><li>Maintains supplies inventory by checking stock to determine inventory level, anticipating needed supplies, placing and expediting orders for supplies.</li><li>Contributes to team effort by accomplishing related results as needed.</li></ul><p>Administrative Assistant Skills and Qualifications:</p><ul><li>Reporting Skills</li><li>Administrative Writing Skills</li><li>Microsoft Office Skills</li><li>Managing Processes</li><li>Organization</li><li>Analyzing Information</li><li>Professionalism</li><li>Problem Solving</li><li>Verbal Communication</li></ul><p>Requirements:</p><ul><li>Diploma preferred</li><li>Minimum 1 year working experience in the respective field is advantageous</li><li>5.5 working days per week</li><li>Able to work independently with minimal guidance and supervision</li><li>Must be able to converse in English, computer literate and have good communication, interpersonal analytical, planning and problem-solving skills</li><li>Lifelong learner, patient and tolerant team player demonstrating Professionalism</li><li>Good command of English, Bahasa Melayu and Mandarin preferred</li><li>Possess good mechanical aptitude</li></ul><p>Due to the overwhelming applications, only short listed applicants will be contacted. No walk ins will be entertained.</p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>LiGNAR end to end capabilities in dust control systems - from design, engineering; to testing and manufacturing; to installation and maintenance has enabled its customers to benefit from its turnkey solutions for dust control systems.</div>
+<div>Lignar is also recognised for its energy-efficient dust control and has been chosen as the partner for reputable woodworking companies throughout China and South East Asia.</div>
+<div>LignarLabs (lignarlabs.com), the new technology arm of Lignar Engineering invests and runs new technologyical products and services as the business transforms the new economy, powered by Ai and Efficiency.&#160;</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor Bahru. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/administration-assistant-4576304?jobId=jobstreet-my-job-4576304&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

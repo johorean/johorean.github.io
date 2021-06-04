@@ -1,0 +1,26 @@
+---
+title: "Supratechnic (M) Sdn. Bhd. Vacancies ASSISTANT MANAGER or MANAGER - BRANCH (JOHOR BAHRU)" 
+category: Jobs 
+date: 2021-06-03 
+excerpt: "Supratechnic (M) Sdn. Bhd. is currently looking for suitable person to fill in the ASSISTANT MANAGER or MANAGER - BRANCH (JOHOR BAHRU) which based in Johor Bahru" 
+tags: [Johor Bahru] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Supratechnic (M) Sdn. Bhd. is looking for new potential candidates to fill in for <b>ASSISTANT MANAGER or MANAGER - BRANCH (JOHOR BAHRU)</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p>Management:</p><ul><li>To be fully in-charge of the smooth daily operations of Johor Bahru Branch.</li><li>Carry out house-keeping exercises in Johor Bahru Branch;</li><li>To organize, plan and control all Company&#8217;s resources, facilities provided in achieving Company&#8217;s targets;</li><li>Ensure prompt payment/collection from dealers, customers &amp; Government.</li><li>Ensure branch office stock, asset and work tools are safeguard and in proper working condition;</li><li>To establish good communication practices within internal personnel &amp; customer;</li><li>Must lead by example by adhere to all company regulation &amp; direction;</li><li>Build up staff capabilities, working attitude &amp; morale standard;</li><li>Ensure all dateline set by Company &amp; Superior should be uphold.</li></ul><p>Sales &amp; Marketing:</p><ul><li>Responsible for Johor Bahru Branch sales target by channel on outboard, parts &amp; all other products.</li><li>Responsible for prospecting, identifying opportunities, building new business relationships and generating revenue in outboard motors, parts and all other products carried by the Company under Johor Bahru Branch territory.</li><li>Develop, negotiate, and close deals the business opportunities.</li><li>Increase revenues by developing, communicating and driving effective selling strategies based on valid, customer-specific value propositions.</li><li>Responsible for Johor Bahru Branch marketing &amp; promotional plan &amp; activities on all other products.</li><li>Conduct presentation to provide better understanding to potential customer on the products capabilities.</li><li>Responsible to handle dealer &amp; customer inquiries &amp; problems arises in a win-win situation.</li><li>To provide feedback on market situation &amp; propose counter measure strategy.</li><li>To forecast sales &amp; stock availability for all products.</li><li>To establish a good rapport (PR) to strengthen Company relationship with dealer &amp; customer.</li></ul><p>Service:</p><ul><li>To oversees service &amp; workshop operation (including Technician Management).</li><li>To be fully responsible for the safe and well keeping work tools.</li><li>To fully utilize the technical personnel to satisfy customer in a planned manner.</li><li>To plan &amp; execute service activities for Johor Bahru Branch such as education campaign, 3S service campaign and others.</li></ul><p>Job Requirement:</p><ul><li>Position is based in Taman Desa Jaya, Johor Bahru.</li><li>Minimum a Diploma in any field with 3-4 years of experience in managing a small group of people (Branch operations), dealers management and sales &amp; marketing.</li><li>Travel extensively within Johor is a must.</li><li>Good interpersonal and communication skills.</li><li>Hardworking with high integrity of honesty and trustworthy.</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div><strong>ABOUT US</strong></div>
+<div>SUPRATECHNIC started in 1968. Today, the Group employs 150 staff in 13 locations. In Singapore, the Company has esblished subsidiaries in Singapore, Malaysia &amp; Indonesia.</div>
+<div>Our Company, including the subsidiaries; is profitable, strongly capitalized and a youthful and professional management team in place.</div>
+<div>We consistently maintain a high standard in our operations as we are representing Mercury Marine who is now the number ONE producer of marine engines in the world in Malaysia, Singapore, Brunei &amp; Indonesia. The Company is proud to represent and distribute world-renowned products within the region.</div>
+<div><strong>OUR VISION</strong></div>
+<div>SUPRATECHNIC intends&#160;to maintain its leadership as a major stockist and supplier of marine, parts and it's accessories in the region.</div>
+<div>We will continue to&#160;bring quality and innovative products to our customers.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor Bahru. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/assistant-manager-or-manager-branch-johor-bahru-4582369?jobId=jobstreet-my-job-4582369&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

@@ -1,0 +1,20 @@
+---
+title: "Grownce Sdn Bhd Vacancies Customer Support Executive" 
+category: Jobs 
+date: 2021-06-03 
+excerpt: "Grownce Sdn Bhd is currently looking for suitable person to fill in the Customer Support Executive which based in Johor Bahru" 
+tags: [Johor Bahru] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Grownce Sdn Bhd is looking for new potential candidates to fill in for <b>Customer Support Executive</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Responsibilities:</strong></p><ul><li>Support &amp; work closely with Sales &amp; Marketing team to achieve sales target.</li><li>Monthly sales performance tracking</li><li>Process sales order &amp; arrange deliveries (courier services)</li><li>Ensure effective collection from Distributors</li><li>Manage enquiries from Distributors</li><li>Maintain Distributor database&#160;</li><li>Maintain good relationship with Distributors by regular visiting (JB area only)</li><li>To provide more input and ideas into marketing initiatives.</li><li>Lead generating activitie</li><li>Support Marketing events especially kindergarten online and offline recruitment activities</li><li>Adhoc duty when required</li></ul><p><strong>Requirements:</strong></p><ul><li>Relevant experience with indoor sales support &amp; administrative.</li><li>Intermediate excel skills. Familiar with Google Sheet, Drive, Docs.</li><li>Simple accounting experience is an added advantage.</li><li>Possess own transport.</li><li>Must be able to&#160;speak &amp; write&#160;in <strong>MANDARIN</strong> &amp; English.</li></ul><p><strong>Remarks:</strong></p><p>Position offered consideration based on past experience relevancy.</p><p>Successful candidate can look forward to a competitive salary, good fringe benefits, excellence organization culture as well as opportunity for career advancement.</p><p><strong>Grownce Sdn Bhd</strong></p><p>No 495A, Jalan Persisiran Perling 1</p><p>Taman Perling, 81200</p><p>Johor Bahru, Johor</p><p>Malaysia</p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>We are&#160;GUINNESS WORLD RECORD&#160;holder for (Largest Music Lesson) and also&#160;holder for 2 Malaysia Book of Records&#160;(Largest Participation of Children In An Ukulele Lesson &amp;&#160;Largest Participation of Children In An Ukulele Performance). In 2018, we had been awarded IEBC Top 10 Trusted Brand Awards</p><p>Grownce is one of the company that working closely with Malaysia schools &amp; kindergartens to support their educational solution needs. We exclusively provide outstanding range of proven innovative digital solutions which help teachers to teach and learners to learn. Our professionals are enthusiastic to transform classrooms into fun and effective learning spaces with proven storyboard &amp; game-based learning model thereby making interactive digital learning work for students and teachers!</p><p>We are proud to provide the kind of classroom solutions for learning institution to deliver inspiring, engaging &amp; fun learning.&#160;There is no duty more important than helping Malaysia students learn, grow and become contributing citizens. Grownce is a trusted advisor and valued partner the first choice for education.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor Bahru. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/customer-support-executive-4581800?jobId=jobstreet-my-job-4581800&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

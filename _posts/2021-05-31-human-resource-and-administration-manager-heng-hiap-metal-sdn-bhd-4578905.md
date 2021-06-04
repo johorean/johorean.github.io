@@ -1,0 +1,28 @@
+---
+title: "Heng Hiap Metal Sdn Bhd Vacancies Human Resource And Administration Manager" 
+category: Jobs 
+date: 2021-05-31 
+excerpt: "Heng Hiap Metal Sdn Bhd is currently looking for suitable person to fill in the Human Resource And Administration Manager which based in Johor Bahru" 
+tags: [Johor Bahru] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Heng Hiap Metal Sdn Bhd is looking for new potential candidates to fill in for <b>Human Resource And Administration Manager</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Responsibilities:</strong></p><p>&#8226;&#160;&#160;&#160;&#160;&#160;Oversees and manages the full spectrum of HR, Administration &amp; Training functions.</p><p>&#8226;&#160;&#160;&#160;&#160;&#160;Develops and implements HR policies and procedures, manpower planning, recruitment and selection, compensation and benefits, performance management, training and development, employee welfare administration and payroll.</p><p><span>&#8226;&#160;&#160;&#160;&#160;&#160;To be in charge of timely processing of payroll and ensure payroll transactions are performed accurately.</span></p><p>&#8226;&#160;&#160;&#160;&#160;&#160;To conduct counselling and manage disciplinary matters and work closely with Industrial Relations Manager with regards to all matters concerning staff disciplinary, domestic inquiry and misconduct investigation.</p><p><span>&#8226;&#160;&#160;&#160;&#160;&#160;To ensure all permits and licenses are up-to-date, valid and renewed accordingly.</span></p><p><span>&#8226;&#160;&#160;&#160;&#160;&#160;Responsible for hostel management process compliance to the local law and rules &amp; regulations.</span></p><p><span>&#8226;&#160;&#160;&#160;&#160;&#160;Handle all matters related to disciplinary actions, grievances, counselling, staff misconducts, and provide advisory on disciplinary matters.</span></p><p><span>&#8226;&#160;&#160;&#160;&#160;&#160;Manage the day-to-day administration operations.</span></p><p><span>&#8226;&#160;&#160;&#160;&#160;&#160;Performs other duties as assigned.</span></p><p><strong>Requirements</strong></p><p>&#8226;&#160;&#160;&#160;&#160;&#160;Candidate must possess at least Bachelor's Degree/Post Graduate Diploma/Professional Degree&#160;in any field.</p><p>&#8226;&#160;&#160;&#160;&#160;&#160;At least 4 Year(s) of working experience in the related field is required for this position.</p><p>&#8226;&#160;&#160;&#160;&#160;&#160;Preferably Senior Executive specialized in Human Resources or equivalent and higher.</p><p>&#8226;&#160;&#160;&#160;&#160;&#160;Possess the right sense of urgency and initiative in accomplishing assign task.</p><p>&#8226;&#160;&#160;&#160;&#160;&#160;Possess good communication and interpersonal skills.</p><p>&#8226;&#160;&#160;&#160;&#160;&#160;Able to work independently with minimum supervision.</p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>Heng Hiap is the only integrated recycling company in Malaysia and we strategically located in Johor Bahru, strongly believes in the value of scrap as a renewable resource. Since 1984, we have established ourselves as a leading local supplier of heavy metal scrap, scrap paper and recycled plastic resins. Committed providing superior service, we are today one of the largest ferrous metal scrap suppliers in Southern Malaysia.
+<div>For metal recycling, Heng Hiap supplies directly to major steel mills. For paper recycling, Heng Hiap is the appointed domestic supplier to major paper mills. For plastic recycling, we recycle and supply the secondary plastics resins to major manufacturers.</div>
+Heng Hiap Metal Sdn Bhd is committed to supplying recyclable metal materials with on-time delivery through efficient quality management system and minimizing consumption of natural resources, generation of chemical wastes through efficient environmental management control. We shall comply with all legislative and regulatory requirements and continually seek to improve the effectiveness of our ISO 9001:2000 Quality Management System and ISO 14001:1996 Environment Management System. We shall inform all interested parties of our policy and train employees to achieve the goals.<br>
+&#160;&#160;&#160;&#160;&#160;&#160;
+<div>RECYCLING TODAY FOR<br>
+A BETTER TOMORROW&#160;<br>
+We have more than 20 years of experience being the main supplier and processor to most major steel mills in Malaysia. Leverage from the extensive network covering the entire Malaysia makes us one of the top five players in this field. The young, energetic and diversified team with trade experience incorporated with corporate exposure makes us unique in the industry. Our management governance is capable of sustaining and converting inconsistent supply to consistent quality delivery.<br>
+&#160;</div>
+</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor Bahru. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/human-resource-and-administration-manager-4578905?jobId=jobstreet-my-job-4578905&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

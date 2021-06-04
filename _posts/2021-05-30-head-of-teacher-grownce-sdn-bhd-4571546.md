@@ -1,0 +1,20 @@
+---
+title: "Grownce Sdn Bhd Vacancies Head of Teacher" 
+category: Jobs 
+date: 2021-05-30 
+excerpt: "Grownce Sdn Bhd is currently looking for suitable person to fill in the Head of Teacher which based in Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Grownce Sdn Bhd is looking for new potential candidates to fill in for <b>Head of Teacher</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p>Responsibilities:</p><ul><li>Implement and sustain effective systems for the management of teacher&#8217;s &amp; trainer&#8217;s performance.</li><li>Monitor the continuing professional development of teachers &amp; trainers.</li><li>Continuously improvement plan for teachers training program</li><li>Ensure trainers quality assurance system on track</li><li>Develop, maintain &amp; enhance department SOP.</li><li>Monitor, evaluate and improve the quality of teaching and learning of all enrolled students through appropriate methods.</li><li>Ensure on time &amp; accuracy of fee collection &amp; submission.</li><li>Planning, preparing &amp; delivering lessons to range of classes of different ages &amp; abilities.</li><li>Establish and maintain student, parents &amp; school administrator&#8217;s relationship.</li><li>Support company in organizing events for its outreach program.</li></ul><p>Requirements:</p><ul><li>Degree in Childhood Education / Business or related field</li><li>At least 5 years working in educational management.</li><li>Must be able to speak &amp; write <strong>Mandarin</strong> &amp; English.</li><li>Computer literate</li><li>Able to travel across Malaysia</li><li>Must possess own transport and willing to travel to support various sites</li><li>Must be willing to work in Johor Bahru.</li></ul><p>Remarks:</p><p>Successful candidate can apply on-line or write in detailed resume indicating current &amp; expected salary with recent passport size photograph (non-returnable) to the address below:</p><p>Grownce Sdn Bhd</p><p>No 495A, Jalan Persisiran Perling 1</p><p>Taman Perling 81200 Johor Bahru</p><p>Johor, Malaysia</p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>We are&#160;GUINNESS WORLD RECORD&#160;holder for (Largest Music Lesson) and also&#160;holder for 2 Malaysia Book of Records&#160;(Largest Participation of Children In An Ukulele Lesson &amp;&#160;Largest Participation of Children In An Ukulele Performance). In 2018, we had been awarded IEBC Top 10 Trusted Brand Awards</p><p>Grownce is one of the company that working closely with Malaysia schools &amp; kindergartens to support their educational solution needs. We exclusively provide outstanding range of proven innovative digital solutions which help teachers to teach and learners to learn. Our professionals are enthusiastic to transform classrooms into fun and effective learning spaces with proven storyboard &amp; game-based learning model thereby making interactive digital learning work for students and teachers!</p><p>We are proud to provide the kind of classroom solutions for learning institution to deliver inspiring, engaging &amp; fun learning.&#160;There is no duty more important than helping Malaysia students learn, grow and become contributing citizens. Grownce is a trusted advisor and valued partner the first choice for education.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/head-of-teacher-4571546?jobId=jobstreet-my-job-4571546&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

@@ -1,0 +1,20 @@
+---
+title: "SLG Construction Sdn Bhd Vacancies HR Executive" 
+category: Jobs 
+date: 2021-06-04 
+excerpt: "SLG Construction Sdn Bhd is currently looking for suitable person to fill in the HR Executive which based in Johor Bahru" 
+tags: [Johor Bahru] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>SLG Construction Sdn Bhd is looking for new potential candidates to fill in for <b>HR Executive</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p>1. Responsible to handle full spectrum of Human Resource Function, including recruitment, employment contract, staff claims, overtime, orientation, foreign workers management, training &amp; development, performance management, payroll administration, benefits and compensation.</p><p>2. Manage recruitment (job posting, pre-screening resume &amp; interview arrangement)</p><p>3. To issue warning letters and other letter upon request by the company / branch in charge person</p><p>4. Liase with government authorities &amp; statutory bodies on matters related to Human Resource (JTK, Immigration, HRDF, MBJB, Fomema, etc)</p><p>5. Responsible to handle foreign worker application, renewal permit, Labour Recalibration Programm etc</p><p>6. Monitoring &amp; renewal Company insurance &amp; lisence, Company vehicle insurance &amp; roadtax</p><p>7. Ensure the company comply with Malaysia labour regulation.</p><p>8. Ensure timely &amp; accurate monthly payroll processing &amp; remittance of all statutory contribution (EPF, SOCSO, EIS, Income Tax, HRDF &amp; all matters related to monthly salary)</p><p>9. Keep track of staff confirmation, monitor staff contract, and expiry renewals &amp; other employment HR related due dates. Prepare HR related letters</p><p>10. Verify, record &amp; update staff personal and OT claims</p><p>11. Assist in annually reports such as E filling submission etc</p><p>12. To monitor employee leave &amp; medical claim to ensure there is no abuse</p><p>13. Maintain employee records (personal particular, attendance &amp; etc) ensure such record are kept updated. Maintain a good filing system</p><p>14. High integrity &amp; able to maintain confidentially at all time</p><p>15. Develop &amp; coordinate training programs for the company.</p><p>16. Facilitate the performance management process to ensure all employees are assesed on time &amp; with maximum objectivity</p><p>17. Handle ISO related matters for HR Dept</p><p>18. Responsible on company assets management matters</p><p>19. Adhoc assignment assigned by superior</p><p>Familiar with Autocount Payroll Software</p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>Main&#160;Construction firm established in&#160;year 2008, mainly dealing with turn-key projects in industrial and residential sector, especially High-Rise building.</p><p>Our client basically are private developers and direct owners, while our services cover:</p><p>Architectural &amp; Structural design as proposal stage to client</p><p>Submission to local authorities</p><p>Civil &amp; Structural construction works (inclusive of Reinforced Concrete &amp; Steel Structural works)</p><p>Architectural&#160;&amp; finishing works</p><p>Interior works (Upon request by client)</p><p>Mechanical &amp; Electrical works (Upon request by client)</p><p>We are aiming to deliver our best in providing One-stop solution, where&#160;bringing peace of mind and&#160;trouble-free to&#160;our client.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor Bahru. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/hr-executive-4582646?jobId=jobstreet-my-job-4582646&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

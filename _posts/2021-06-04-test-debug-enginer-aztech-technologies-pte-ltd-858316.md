@@ -1,0 +1,25 @@
+---
+title: "AZTECH TECHNOLOGIES PTE LTD Vacancies Test/Debug Engineer" 
+category: Jobs 
+date: 2021-06-04 
+excerpt: "AZTECH TECHNOLOGIES PTE LTD is currently looking for suitable person to fill in the Test/Debug Engineer which based in Singapore" 
+tags: [Singapore] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>AZTECH TECHNOLOGIES PTE LTD is looking for new potential candidates to fill in for <b>Test/Debug Engineer</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><div>This position reports to the Engineering Manager and will support full spectrum of Test and Debug functions of a new manufacturing plant in Johor Bahru.</div><div>Responsibilities:<ul><li>Responsible for all manufacturing test issues which include test system setup, evaluation, commissioning, operating test instruction for production, test instrument/test system calibration, special test setup, environment control and safety compliances during product testing, test documentations and records retention and all other manufacturing test related operational issues.</li><li>Work on continuous test yield improvements in all test aspects and to provide the maximum test coverage and test capacity, with the fastest uptime and highest quality of production test output.</li><li>Troubleshoot Test System and ensure Test Systems are designed for tester ability and industrialized for production use which are ergonomically and to strive for zero downtime.</li><li>Support other cross-functional departments and customers in test evaluations or meeting delivery commitments at the highest quality or to drive for closure of customer requests &amp; issues</li><li>Responsible for test instrument out of tolerance specifications issues, to fix and perform corrective action if necessary and to ensure the traceability and back-up of all test-logs and test records.</li><li>Ensure the manufacturing test process and test operations comply with the required company Manufacturing Test Standards (MTS) within a safe, non-hazardous operating environment</li><li>Ensure products tested comply with the minimum required test specification and approved by the customer and to minimally meet the custom test requirements for specific customer request.</li><li>Record, track, backup and perform changes whenever necessary to ensure compliances</li><li>Debug test failure units, customers&#8217; return units and rework activities</li><li>Manage debug Work In Progress (WIP) inventories at minimal level</li><li>Any other duties assigned from time to time</li></ul><div>Requirements:<ul><li>Degree in Electrical &amp; Electronics Engineering.</li><li>5 years relevant experience in a PCBA manufacturing environment and with relevant experiences in the test operations of In-Circuit Testers, Functional Testers, Burn-In Racks/Chamber Tests, System/Box level Test Configurations.</li><li>Experience in analogy &amp; digital circuit theory, statistical analysis tools; possess keen analytical and troubleshooting skills during failure analysis at system level and down to device electronics board.</li><li>Possess some knowledge of operating the basic measurement instruments (such as digital oscilloscope, spectrum analyzers, power meters etc.) with some knowledge of the various types of test fixtures design and of automated, robotic test systems and methodologies.</li><li>Possess relevant skills in circuit theory, programming (both understanding and writing) and statistical analysis</li><li>Mandarin speaking is an advantage due to the need to communicate with mandarin speaking stakeholders in China</li><li>Candidates with Diploma qualification and have more than 10 years of related process knowledge and experiences will be considered.</li></ul></div></div></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+<br>
+	As one of Singapore&#8217;s leading design and electronics manufacturer, our mission has always been succinctly singular: To deliver value beyond expectations.</div>
+<div>
+<br>
+	Driven by 4 R&amp;D centres, our services are second to none. With holistic manufacturing services, industrial design, mechanical engineering, software and hardware design, production, testing, design, material management and customer programme management, we support our clients with seamless, value-added service at every stage of your process from product transfer, component procurement, electronics PCB assembly, mechanical assembly, testing and finally shipping the products.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Singapore. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/test-debug-engineer-8583316/origin/sg?jobId=jobstreet-sg-job-8583316&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

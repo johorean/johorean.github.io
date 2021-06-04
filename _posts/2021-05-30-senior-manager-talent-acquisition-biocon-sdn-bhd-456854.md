@@ -1,0 +1,29 @@
+---
+title: "Biocon Sdn Bhd Vacancies Senior Manager - Talent Acquisition" 
+category: Jobs 
+date: 2021-05-30 
+excerpt: "Biocon Sdn Bhd is currently looking for suitable person to fill in the Senior Manager - Talent Acquisition which based in Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Biocon Sdn Bhd is looking for new potential candidates to fill in for <b>Senior Manager - Talent Acquisition</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><div>As a Senior Talent Acquisition Manager, you will be leading the Talent Acquisition section and a team of recruiters and be responsible for sourcing, attracting and hiring candidates for open job positions, within the organization. Your goal will be to always meet hiring manager&#8217;s needs by finding candidates that match their organizational culture and open job positions within the Service Level Agreements (SLAs) agreed with all stakeholders.</div><div><strong>Role/Job Description: (to be filled by the proposer)</strong><br>&#8226; Lead and manage recruiters to proactively identify, source and recruit candidates utilizing a variety of sources including, but not limited to, internet postings and search, direct sourcing, employee and contact referrals, job fairs, research, print media, alumni groups, networking and agencies.<br>&#8226; Manage and build a talent pipeline and talent bank to provide a continuous supply of talents.<br>&#8226; Lead a team of recruiters in producing and issuing hiring forms and documents (eg Employee Hire Forms) promptly, ensuring all contract administration is completed promptly, accurately and efficiently and is signed off as required.<br>&#8226; Coordinate completion of pre-employment check with external vendors, ensuring candidates provide required information in a timely manner, regularly monitor third party&#8217;s completion of all pre-employment checks in line to SLAs and Company policies.<br>&#8226; Attend interviews and provide guidance to hiring managers on interviewing best practices.<br>&#8226; Ensure an excellent candidate experience throughout the requirement process, including a smooth transition to the HR team who will manage successful candidates from offer stage to onboarding.<br>&#8226; Ensure compliance with relevant operational, controlled self-assessment (CSA) and people risk control and employment legislation eg data protection<br>&#8226; Able to leverage networks and work with candidates and recruitment teams across time zones in order to ensure that any key or critical issues are addressed within an acceptable time frame.<br>&#8226; Analyze historical hiring data and future hiring plans to identify the right sourcing models for Biocon Sdn Bhd.<br>&#8226; Create a framework that provides clear view of talent supply (bench strength) and demand, informs talent decisions and assist in prioritizing future workforce investment.<br>&#8226; Keep abreast of Best in Class talent acquisition practices and model and market supply and demand situations and make best use of the information for the benefit of the Company.<br>&#8226; Proactively prepare and present recruitment activities and KPIs such as aging, vacancies, cost etc in weekly recruitment calls, reports and dashboard and work on improving these metrics over a period of time.<br>&#8226; Drive the full utilization of recruitment software (eg Recruitment Module) and undertake digitalization effort through all aspects of recruitment processes.</div><div><strong>Technical / Functional Skills</strong><br>&#8226; Proven work experiences in multinational companies and/or recruitment agencies<br>&#8226; Hands-on experience with recruitment software and applicant tracking system<br>&#8226; Clear understanding of business and roles<br>&#8226; Ability to identify the right candidates for the organization<br>&#8226; Incredible attention to details<br>&#8226; Excellent verbal and written communication in English and team management skills</div></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+<strong>Biocon Malaysia</strong></div>
+<div>
+	In 2012, with more than 40 years of success behind it, Biocon, India's largest biotech company set up their first overseas plant in Johor Bahru, Malaysia &#8211; Asia&#8217;s largest integrated Insulin manufacturing facility. With an investment of about USD 275 million, it is the highest foreign investment in Malaysia&#8217;s biotech sector till date and currently employs about 650 professionals in a state-of-the-art facility.<br>
+	The attached document speaks about the journey and the many challenges and milestones encountered along the way. It talks of the Human Capital strategy of the company and how the Malaysia story is embedded in the same.<br>
+	There were several steps which led to the success and many of them were differentiated with innovative ideas and sharp business acumen.</div>
+<div>
+	Biocon Malaysia offers an excellent career opportunity for biotech professionals.</div>
+<div>
+	If you want to be a part of a Company that constantly creates history and consistently earns more accollades for its innovations and other significant accomplishments and contributions, then <strong>we invite you to be a part of the BIOCON FAMILY! </strong>Apply to join us today.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/senior-manager-talent-acquisition-4566854?jobId=jobstreet-my-job-4566854&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
