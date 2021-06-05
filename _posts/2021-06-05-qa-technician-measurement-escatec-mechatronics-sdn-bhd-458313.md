@@ -1,0 +1,22 @@
+---
+title: "Escatec Mechatronics Sdn Bhd Vacancies QA Technician Measurement" 
+category: Jobs 
+date: 2021-06-05 
+excerpt: "Escatec Mechatronics Sdn Bhd is currently looking for suitable person to fill in the QA Technician Measurement which based in Johor - Others" 
+tags: [Johor - Others] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Escatec Mechatronics Sdn Bhd is looking for new potential candidates to fill in for <b>QA Technician Measurement</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><ul><li>Supervise and manage QC inspector daily task.</li><li>Verify molding activities in accordance to standard, inspection plan or quality plan.</li><li>Perform product FAI, CPK and testing measurement.</li><li>Understand of injection molding.</li><li>Maintain accurate up-to-date inspection result through SPC monitoring system.</li><li>Verify containment and corrective actions are in place to address failures and customer complaint.</li><li>Ensure that Inspection Plan file is maintained and keep up to date.</li><li>Perform other duties as assigned by Quality Engineer.</li><li>Support Quality Engineer in performing Failure Mode Effect Analysis (FMEA).</li><li>Perform periodic audit on quality plan conformances.</li><li>Perform sampling re-verification of part inspection done by the inspector.</li><li>Follow up of the problematic lot until it is properly disposed/rework</li><li>Perform machine and process capability study where applicable.(GR&amp;R)</li><li>Monitor and ensure the quality conformance of in-process assemblies and finished products.</li><li>Conduct training for QA inspector.</li><li>Any other duties assigned by superior.</li></ul><p><strong>Job Requirement :</strong></p><ul><li>Pro. Cert/Dip. in Engineering Discipline with at least 2 years experience in the similar environment</li><li>Ability to operate Coordinate Measuring Machine (CMM) and Smart Scope.</li><li>Able to work night shift and willing to work on weekend (if required).</li></ul><p><strong>Key Performance Indicator ( KPI ) :</strong></p><ul><li><strong>Individual</strong></li><li>Number of customer complaint contributed by wrong/error measurement inspection</li><li>Number of production line interruption due to poor molding quality level.</li><li>Daily molding IPQC audit</li><li>ECN implementation date</li><li>Attendance and 5S</li></ul><ul><li><strong>Department</strong></li><li>Annual number of complaints</li><li>Annual customer satisfaction score</li></ul><p><strong>Authorities/Decisions :</strong></p><ul><li>To accept outgoing lot quality that is according to the requirement stated in the inspection plan.</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>Well-established as a world-class player in the Electronic Manufacturing Services (EMS) market, the ESCATEC Group provides a range of design and manufacturing services to a customer base of leading European and North American OEMs from its facilities located in Asia and Switzerland. Our success is based on our commitment to Customer Satisfaction and Continuous Improvement with uncompromising Business Ethics.</div>
+<div>Our goal is to create a work environment that challenges, recognises and rewards each employee&#8217;s contribution to our business goals. At ESCATEC, we value talented people and seek to expand their experience and responsibilities.</div>
+<div>Joining ESCATEC means making dreams a reality, delivering customer satisfaction and above all, making a difference. If you want to go further, fly higher, improve your skills, and broaden your horizons, if you have something special to contribute, contact us now!</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor - Others. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/qa-technician-measurement-4583313?jobId=jobstreet-my-job-4583313&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
