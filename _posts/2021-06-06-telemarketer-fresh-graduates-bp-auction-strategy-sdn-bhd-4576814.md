@@ -1,0 +1,20 @@
+---
+title: "BP AUCTION STRATEGY SDN. BHD. Vacancies Telemarketer (Fresh Graduates)" 
+category: Jobs 
+date: 2021-06-06 
+excerpt: "BP AUCTION STRATEGY SDN. BHD. is currently looking for suitable person to fill in the Telemarketer (Fresh Graduates) which based in Johor Bahru, Selangor" 
+tags: [Johor Bahru, Selangor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>BP AUCTION STRATEGY SDN. BHD. is looking for new potential candidates to fill in for <b>Telemarketer (Fresh Graduates)</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Job Requirement:</strong></p><ul><li>Candidate must possess at least Higher Secondary/STPM/"A" Level/Pre-U, Professional Certificate, Diploma/Advanced/Higher/Graduate Diploma in Business Studies/Administration/Management, Finance/Accountancy/Banking or equivalent.</li><li>Fresh Candidates are strongly welcome to apply</li><li>Required language(s):&#160;Bahasa Malaysia, English, Mandarin</li><li>Candidates fluent in Mandarin preferred as role requires candidate to deal with Mandarin speaking clients.</li><li>Required Skill(s): Microsoft Office.</li><li>Preferably Entry Level specialized in telesales and telemarketing or equivalent.</li></ul><p><strong>Job Responsibilities:</strong></p><ul><li>Handling documents (basic computer operations must be experienced, such as Microsoft Words, etc.)</li><li>Organize the report</li><li>Promote simple invitation attend course through telemarketing.</li><li>To build strong customer relationship.</li><li>To deliver professional, cost effective and quality telesales.</li></ul><p><strong>Benefit:</strong></p><ul><li>Performance review every 6 months, increment reward for good performance staff.</li><li>Attractive remuneration and package will commensurate with experience and qualification</li><li>An attractive commission package</li></ul><p>Are you ready to make that career shift &amp; grow a great portfolio with us? Click the &#8216;<strong>Apply Now</strong>&#8217; button and we will get in touch with you soon.</p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>Our scope of services mainly include auction property, sale property like residential, office and commercial space like shops, factories, industrial and development land. Besides, we formed an investor club for people who interest to join us to invest property at lower price in market.</p><p>Welcome to join us now!!&#160;</p><p>&#25105;&#20204;&#30340;&#26381;&#21153;&#33539;&#22260;&#20027;&#35201;&#21253;&#25324;&#25293;&#21334;&#29289;&#19994;&#65292;&#20303;&#23429;&#65292;&#21150;&#20844;&#23460;&#31561;&#38144;&#21806;&#29289;&#19994;&#20197;&#21450;&#21830;&#24215;&#65292;&#24037;&#21378;&#65292;&#24037;&#19994;&#21644;&#24320;&#21457;&#29992;&#22320;&#31561;&#21830;&#19994;&#31354;&#38388;&#12290; &#27492;&#22806;&#65292;&#25105;&#20204;&#20026;&#26377;&#20852;&#36259;&#21152;&#20837;&#25105;&#20204;&#30340;&#20154;&#20204;&#32452;&#25104;&#20102;&#19968;&#20010;&#25237;&#36164;&#20465;&#20048;&#37096;&#65292;&#20197;&#36739;&#20302;&#30340;&#20215;&#26684;&#22312;&#24066;&#22330;&#19978;&#25237;&#36164;&#25151;&#22320;&#20135;&#12290;</p><p>&#27426;&#36814;&#29616;&#22312;&#21152;&#20837;&#25105;&#20204;&#65281;&#65281;</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor Bahru, Selangor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/telemarketer-fresh-graduates-4576814?jobId=jobstreet-my-job-4576814&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
