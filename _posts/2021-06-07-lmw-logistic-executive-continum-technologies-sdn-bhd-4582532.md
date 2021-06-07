@@ -1,0 +1,22 @@
+---
+title: "Continuumm Technologies Sdn Bhd Vacancies LMW & Logistic Executive" 
+category: Jobs 
+date: 2021-06-07 
+excerpt: "Continuumm Technologies Sdn Bhd is currently looking for suitable person to fill in the LMW & Logistic Executive which based in Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Continuumm Technologies Sdn Bhd is looking for new potential candidates to fill in for <b>LMW & Logistic Executive</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p><span>&#183;&#160;&#160;&#160;&#160;&#160;&#160;Minimum diploma in any field</span></p><p><span>&#183;&#160;&#160;&#160;&#160;&#160;&#160;Min. 3 years of relevant experience in logistics or manufacturing</span></p><p><span>environment</span></p><p><span>Deal with custom import ad export issue, especially with LMW license</span></p><p><span>experience. &#160;</span></p><p><span>&#183;&#160;&#160;&#160;&#160;&#160;&#160;Good verbal and written communication skills</span></p><p><span>Ability to work under pressure and in team</span></p><p><span>&#183;&#160;&#160;&#160;&#160;&#160;Generate LMW application and submission.</span></p><p><span>&#183;&#160;&#160;&#160;&#160;&#160;Generate LMW monthly and yearly report on time for submission.</span></p><p><span>&#183;&#160;&#160;&#160;&#160;&#160;Manage the logistics issue and arrange transport for Finished Goods</span></p><p><span>and raw materials.</span></p><p><span>&#183;&#160;&#160;&#160;&#160;&#160;Provide HS code for material to planner and HQ.</span></p><p><span>&#183;&#160;&#160;&#160;&#160;&#160;In charge of yearly LMW licensing audit.</span></p><p><span>Coordination of local government authority and permit issue.&#160;&#160;</span></p><p><span>&#183;&#160;&#160;&#160;&#160;&#160;&#160;Coordination with local and oversea transporter to ensure that finished</span></p><p><span>goods delivery and raw material received on time.</span></p><p><span>&#183;&#160;&#160;&#160;&#160;&#160;&#160;Coordinate and arranging of waste /scrap items collected and arrange</span></p><p><span>with scrap collectors for disposal and apply custom permission.</span></p><p><span>&#183;&#160;&#160;&#160;&#160;&#160;&#160;Preparing packing list, Delivery order and invoices for finished goods to</span></p><p><span>be delivered for logistics transporter.</span></p><p><span>&#183;&#160;&#160;&#160;&#160;&#160;&#160;Coordinate with logistics company for delivery and shipment issue.</span></p><p><span>&#183;&#160;&#160;&#160;&#160;&#160;&#160;Coordinating with local customer for finish goods delivery and RMA</span></p><p><span>return.</span></p><p><span>&#183;&#160;&#160;&#160;&#160;&#160;&#160;Preparing monthly and yearly LMW report for submission</span></p><p><span>&#183;&#160;&#160;&#160;&#160;&#160;&#160;Prepare and submit LMW application form for any importing, exporting,</span></p><p><span>tooling, equipment, yearly raw materials report, scrap material, etc.</span></p><p><span>&#183;&#160;&#160;&#160;&#160;&#160;&#160;Coordinating with custom officer for auditing.</span></p><p><span>&#183;&#160;&#160;&#160;&#160;&#160;&#160;Check and provide suitable HS code for material to planer.</span></p><p><span>&#183;&#160;&#160;&#160;&#160;&#160;&#160;Arranging for any local government licensing audit and application.</span></p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>Continuumm Technologies was established in 2017 and is headquartered in Singapore. Since the establishment of Continuumm Technologies, we have assembled a dedicated team of talented individuals to produce high quality and innovative wire harness and cable assemblies in our second to none facilities.<br>
+&#160;</div>
+<div>From materials sourcing, quotation, production of orders, delivery and after sales service, we dedicate ourselves to provide customers with the best wire harness and service.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/lmw-logistic-executive-4582532?jobId=jobstreet-my-job-4582532&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
