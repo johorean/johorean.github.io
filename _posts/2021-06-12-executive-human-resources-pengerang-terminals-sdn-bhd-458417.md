@@ -1,0 +1,24 @@
+---
+title: "Pengerang Terminals Sdn Bhd Vacancies Executive, Human Resources" 
+category: Jobs 
+date: 2021-06-12 
+excerpt: "Pengerang Terminals Sdn Bhd is currently looking for suitable person to fill in the Executive, Human Resources which based in Johor - Others" 
+tags: [Johor - Others] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Pengerang Terminals Sdn Bhd is looking for new potential candidates to fill in for <b>Executive, Human Resources</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;To assist Manager to implement and administer end-to-end sourcing processes to ensure that the department&#8217;s manpower requirements are met. The key tasks include sourcing, liaising with Recruitment Agencies, posting ads, pre-screening, coordinating interviews for Managers, assisting in the documentation for selecting and hiring process.</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;To conduct Job Description review from time to time and to discuss with Department Head for any changes.</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Handling training and development of employee from organizing Training Needs Analysis, developing Annual Training and Development plan which consist both internal and external training and analyzing the evaluation.</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Assist in developing, implementing and maintaining Human Resource Policies and Procedures, strategies and guidelines in line with the company business plan.</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;To plan and coordinate company&#8217;s events, functions, and/or employee engagement activities.</p><p><strong><em>Skills:</em></strong></p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Strong communication skills and ability to work independently as well as in team.</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Client focused, with the ability to analyse about client needs.</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Good interpersonal skill and presentation skills.</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Considering the relative costs and benefits of potential actions.</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Detailed, oriented analytical thinking to support budget planning and reporting.</p><p><strong><em>Requirements:</em></strong></p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Degree in Human Resource Management/ Development, Psychology, Business Administration or equivalent, with professional qualification in Human Resource Development.</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Minimum 3 years&#8217; experience in Human Resource Development specialized in Training and Development function.</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Has experience in HR Management System.</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Experience in other human resources function will be an advantage.</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Computer literate in Microsoft Words, Excel, PowerPoint and Windows.&#160;</p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+<div>
+<div><strong>Pengerang Terminals Sdn Bhd</strong> is a joint-venture company between Dialog Group Berhad and Royal Vopak. Dialog Group is a Malaysian-listed integrated specialist technical services provider in the oil, gas and petrochemical industry, while Royal Vopak is the world&#8217;s largest independent tank storage provider for bulk liquids headquartered in the Netherlands. The terminal provides storage, blending and distribution services for crude and clean petroleum products with storage capacity of 1.3 million cubic meters (cbm) . The terminal&#160; has six berths and is able to accommodate vessels of various sizes up to very large crude carriers (VLCCs).&#160;</div>
+</div>
+</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor - Others. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/executive-human-resources-4588417?jobId=jobstreet-my-job-4588417&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
