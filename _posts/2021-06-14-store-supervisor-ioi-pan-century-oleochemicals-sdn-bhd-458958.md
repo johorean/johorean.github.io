@@ -1,0 +1,20 @@
+---
+title: "IOI PAN-CENTURY OLEOCHEMICALS SDN BHD Vacancies STORE SUPERVISOR" 
+category: Jobs 
+date: 2021-06-14 
+excerpt: "IOI PAN-CENTURY OLEOCHEMICALS SDN BHD is currently looking for suitable person to fill in the STORE SUPERVISOR which based in Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>IOI PAN-CENTURY OLEOCHEMICALS SDN BHD is looking for new potential candidates to fill in for <b>STORE SUPERVISOR</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p><span>IOI Pan-Century is a member of IOI Oleochemicals Group, wholly owned by IOI Corporation Berhad, a very successful and dynamic conglomerate with major interests in Plantations, Properties, Leisure, Oleochemicals and Specialty Fats.&#160;We are a long established leading player in palm oil related products and activities, which comprise of refining, as well as production and processing of Oleochemicals and Soap Noodles.&#160;Due to continuous business growth, we are inviting suitably qualified candidates for the position mentioned below</span>.</p><p><strong>Job Requirements:-</strong></p><ul><li><span>Professional Certificate, Diploma, Advanced/Higher/Graduate Diploma</span></li></ul><ul><li>Preferably 3-5 years&#8217; experience in manufacturing environment, or in related industries.</li><li>Mature - preferable age of 30-40 years and above.</li><li>Proficiency in Microsoft office software and familiarity SAP application is an advantage.</li><li>Good communication and interpersonal skills. Good integrity and ability to work independently with minimum supervision.</li><li>Possess a strong analytical mind, capable of planning, strategizing, problem-solving and leading others.</li></ul><p><strong>Job Description</strong></p><ul><li><span>To maintain minimum stock for spares and chemicals jointly with Store Executive.</span></li><li><span>To ensure that goods receiving procedure are being followed.</span></li><li><span>Involve in monthly stock take for spare parts; LPG; Industrial cylinder gas; packaging materials and process chemicals under Store location.</span></li><li><span>To check and prepare the outgoing returnable gate pass item as per procedure.</span></li><li><span>To issue materials to the user&#8217;s as per procedure.</span></li><li><span>To transfer and dispose rubbish scraps and scheduled waste as advised and as per procedure.</span></li><li><span>To raise purchase requisition for stock &amp; spare items; reservation and work request as and when required.</span></li><li><span>To ensure receiving of process and non-process chemicals as per procedure.</span></li><li><span>In the absence of Fieldman; the Store Supervisor will assume the function of Fieldman.&#160;&#160;&#160;&#160;</span></li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>IOI Pan-Century is a member of IOI Oleochemicals Group, wholly owned by IOI Corporation Berhad, a very successful and dynamic conglomerate with major interests in Plantations, Properties, Leisure, Oleochemicals and Specialty Fats.&#160;We are a long established leading player in palm oil related products and activities, which comprise of refining, as well as production and processing of Oleochemicals and Soap Noodles.&#160;Due to continuous business growth, we are inviting suitably qualified candidates for the positions mentioned below.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/store-supervisor-4589558?jobId=jobstreet-my-job-4589558&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
