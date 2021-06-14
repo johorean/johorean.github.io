@@ -1,0 +1,20 @@
+---
+title: "Dapro Rubber Malaysia Sdn Bhd Vacancies Production Engineer" 
+category: Jobs 
+date: 2021-06-14 
+excerpt: "Dapro Rubber Malaysia Sdn Bhd is currently looking for suitable person to fill in the Production Engineer which based in Johor Bahru" 
+tags: [Johor Bahru] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Dapro Rubber Malaysia Sdn Bhd is looking for new potential candidates to fill in for <b>Production Engineer</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p>Responsibility</p><p>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;1.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Provide technical/quality support.</p><p>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;2.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Ensure products conform to specification.</p><p>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;3.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Follow up on non-conformance/discrepancy product from</p><p>production.</p><p>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;4.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Identify quality requirements and purchase equipment and fixture</p><p>for new projects or processes.</p><p>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;5.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Involved in customer complaints.</p><p>6.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Assist in day-to-day activities in production.</p><p>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;7.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Minimise rejection rate. Improve productivity.</p><p>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;8.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Supervise and train operators in their routines.</p><p>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;9.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Ensure non-conformance detected is carried out according to the</p><p>disposition.</p><p>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;10.&#160;&#160;&#160;&#160;&#160;&#160;Ensure operators perform the process according to specification.</p><p>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;11.&#160;&#160;&#160;&#160;&#160;&#160;Maintain the machines utilisation and working conditions.</p><p>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;12.&#160;&#160;&#160;&#160;&#160;&#160;Responsible for customer supplied product.</p><p>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;13.&#160;&#160;&#160;&#160;&#160;&#160;Other duties as and when on advice by the Operations</p><p>Manager</p><p>Requirements</p><p>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;1.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Engineering Diploma or Degree</p><p>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;2.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Minimum 2 years working experience in quality/manufacturing</p><p>related industry</p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>We are a leading custom manufacturer of precision rubber molding products company. We have immediate vacancy for the post below. Our company has&#160;dedicated employees working together towards a common goal of achieving excellence. We are a company focused on talent development to help build our expanding business.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor Bahru. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/production-engineer-4589439?jobId=jobstreet-my-job-4589439&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
