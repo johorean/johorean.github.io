@@ -1,0 +1,20 @@
+---
+title: "ENICS AG Vacancies Test Engineer" 
+category: Jobs 
+date: 2021-06-15 
+excerpt: "ENICS AG is currently looking for suitable person to fill in the Test Engineer which based in Johor Bahru" 
+tags: [Johor Bahru] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>ENICS AG is looking for new potential candidates to fill in for <b>Test Engineer</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p>Enics is an Electronics Manufacturing Services (EMS) provider that specializes in industrial electronics. Enics provides development, support, prototyping, industrialization, manufacturing, product care, spare part production, and repair and maintenance services for the entire life-cycle of its customers&#8217; products.</p><p>&#160;We are looking for a test engineer who wants to join our Malaysia new factory,details as follow:</p><p><strong>Postion purpose:</strong></p><p>Ensuring the effective operation of the Company's test equipment, implementing new test equipment at the performance center in accordance with the technical specifications of the equipment as well as the company's goals, policies and values. Test engineer's other responsibilities are training operators and solving any issues that either the tester or product is exhibiting, often in collaboration wth customer and other stake holders.</p><p><strong>Key accountabilities:</strong></p><ul><li>In cooperation with quality engineers and process owners, takes part in continuous improvement analysis and implementation;</li><li>Implementing new products and test equipment in to the testing process in cooperation with PM or CFT;</li><li>Responsible for validating of dedicated test equipment, analysing validation records and preparing validation reports;</li><li>Assuring customer satisfaction related to testing services;</li><li>Improvement of testing process and test equipment;</li><li>Training test system operators;</li><li>Solving technical issues of the tester and product, in collaboration with other stakeholders;</li></ul><p><strong>Requirements:</strong></p><ul><li>BSc. or above in major of Electronics Engineering, Tele-Communication, Computer Science, Automation or Control-Engineering</li><li>5 years above experience in NPI or mass production test engineering of Electronics manufacturing industry, like consuming, telecommunication, automobile, industrial control; or 2 years above test system integration,debug and developing experience.&#160;</li><li>Experienced software programming with one or more language&#65306;NI Labview &amp; TestStand, C++/C#/VB, Agilent Execute, Teradyne ICT or Takaya Flying programming skills.</li><li>Experienced automatic measurement system integration and debug knowledge in one of below test process: Functional test,Flying probe test, In-Circuit Test (Teradyne)</li><li>Capable of English communication in oral and written, especially technical topics.&#160;</li><li>Plus of mastering below Knowledge: MS SQL, Python, Perl, etc.</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>Enics is an Electronics Manufacturing Services (EMS) provider that specializes in industrial electronics. Enics provides development, support, prototyping, industrialization, manufacturing, product care, spare part production, and repair and maintenance services for the entire life-cycle of its customers&#8217; products.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor Bahru. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/test-engineer-4591105?jobId=jobstreet-my-job-4591105&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

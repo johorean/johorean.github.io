@@ -1,0 +1,28 @@
+---
+title: "Global Pets Sdn Bhd Vacancies Human Resources Manager" 
+category: Jobs 
+date: 2021-06-15 
+excerpt: "Global Pets Sdn Bhd is currently looking for suitable person to fill in the Human Resources Manager which based in Johor Bahru" 
+tags: [Johor Bahru] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Global Pets Sdn Bhd is looking for new potential candidates to fill in for <b>Human Resources Manager</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Key Responsibilities and Accountabilities</strong></p><p>&#8226;&#160;&#160;&#160;&#160;Reports to Managing Director</p><p>&#8226;&#160;&#160;&#160;&#160;Assist to bridge management and employee relations by addressing</p><p>demands, grievances or other issues</p><p>&#8226;&#160;&#160;&#160;&#160;Ensure all HR policies are applied fairly and consistently to all</p><p>employees</p><p>&#8226;&#160;&#160;&#160;&#160;Manage the recruitment and selection process</p><p>&#8226;&#160;&#160;&#160;&#160;Oversee and manage the performance appraisal system</p><p>&#8226;&#160;&#160;&#160;&#160;Manage payrolls and the processes</p><p>&#8226;&#160;&#160;&#160;&#160;Manage the HRDF levy, training grants application and claims</p><p>&#8226;&#160;&#160;&#160;&#160;Manage internal continuing education / training &amp; development funds</p><p>&#8226;&#160;&#160;&#160;&#160;Monitor HR metrics and databases</p><p>&#8226;&#160;&#160;&#160;&#160;Monitor worker&#8217;s compensation for work place accident claim</p><p>&#8226;&#160;&#160;&#160;&#160;Ensure legal compliance throughout human resource management</p><p>&#8226;&#160;&#160;&#160;&#160;Responsible for the training and development of the HR team</p><p>&#8226;&#160;&#160;&#160;&#160;Any other jobs assigned</p><p><strong>Qualifications, Skills and Knowledge</strong></p><p>&#183;&#160;&#160;&#160;&#160;<span>Degree in Business Administration, Human Resources or related field</span></p><p>&#183;&#160;&#160;&#160;&#160;<span>Minimum 5 years&#8217; human resources managerial work experience</span></p><p>&#183;&#160;&#160;&#160;&#160;<span>People oriented and results driven</span></p><p>&#183;&#160;&#160;&#160;&#160;<span>Experience with Human Resources metrics</span></p><p>&#183;&#160;&#160;&#160;&#160;<span>Knowledge of HR systems and databases</span></p><p>&#183;&#160;&#160;&#160;&#160;<span>Excellent active listening, negotiation and presentation skills</span></p><p>&#183;&#160;&#160;&#160;&#160;<span>Competence to build and effectively manage interpersonal relationships</span></p><p><span>at all levels of the company</span></p><p>&#183;&#160;&#160;&#160;&#160;&#160;<span>In-depth knowledge of labour laws and HR best practices</span></p><p>&#183;&#160;&#160;&#160;&#160;<span>Possess a positive attitude, good leadership skills, interpersonal</span></p><p><span>communication skills, independent and a team player</span></p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+<div>At GLOBAL PETS, our vision is to be the market leader of the pet care industry. GLOBAL PETS runs fully integrated pet supplies and pet care stores; it envisioned being the nationwide leader in pet specialty. In the state of Johor, Malaysia, we are the leading specialty retailer of premium pet food, supplies and services with a commitment to quality humane pet care and education. Our strategy is to offer our customers a complete assortment of pet supplies at affordable prices, with superior levels of pet care services at convenient locations, by hiring pet lovers as ambassadors to guide our customers in adopting quality pet loving lifestyles.</div>
+<div>Today, our company runs 16 specialty stores within the Iskandar Development Region in South Johor, Malaysia. Within the next five years, we aim to operate approximately 30 neighborhood stores in Johor and Penang, as well as a leading on-line interactive social shopping environment for pet supplies in Malaysia. We are aiming to be the leading pet specialty retailer that provides the products, services and advice that help instill quality lifestyle for all pets and their loving human companions.</div>
+<div>We are animal lovers, just like you and we are committed to animal care, educating responsible pet owners and supporting animal welfare Our stores carry some 2,500 pet-related items, including premium cat and dog foods, collars, leashes, grooming items, toys, and animal habitats. Our stores also offer pet grooming, boarding, and training. We are an active sponsor of pet adoptions working closely with local animal-welfare organizations, animal shows, health checks, training workshops, dog parks and charity events.</div>
+</div>
+<div><strong>Product &amp; Services</strong></div>
+<div>
+<div>Sales of Pet, Pet Grooming, Pet Boarding and Day Care, Pet Retail, Pets Boutique,Cremation</div>
+</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor Bahru. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/human-resources-manager-4591297?jobId=jobstreet-my-job-4591297&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
