@@ -1,0 +1,20 @@
+---
+title: "ENICS AG Vacancies Process Engineer" 
+category: Jobs 
+date: 2021-06-16 
+excerpt: "ENICS AG is currently looking for suitable person to fill in the Process Engineer which based in Johor Bahru" 
+tags: [Johor Bahru] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>ENICS AG is looking for new potential candidates to fill in for <b>Process Engineer</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p>Enics is an Electronics Manufacturing Services (EMS) provider that specializes in industrial electronics. Enics provides development, support, prototyping, industrialization, manufacturing, product care, spare part production, and repair and maintenance services for the entire life-cycle of its customers&#8217; products.</p><p>We are looking for a Process Engineer who will join our Malaysia factory, <strong>details responsiblities&#160;as follow:</strong></p><ul><li>Develop and sustain manufacturing processes to meet or exceed the technical requirements of our customers and standarts while achieving quality, throughput and cost objectives.</li><li>Lead the implementation of manufacturing processes including, but not limited to: facilities, layout, equipment selection and installation, work flow, process flow, process characterization, process monitoring/control methods, material handling, tool selection, consumables, documentation, training, support, and equipment service/maintenance.</li><li>Characterize, verify, and validate manufacturing processes to meet various regulatory requirements using Advanced Quality Planning methods.</li><li>Driving process related continuous improvements and process control methods in regards to process quality and efficiency.</li><li>Equipment selection, managing equipment related qualifications and installations, related documentation creation and renewal.</li><li>Equipment related technical preventive and reactive maintenance process development, management and operational controlling.</li><li>Participation in process and technology roadmap planning.</li><li>Programming of process equipment to ensure fulfilment of all agreed quality requirements and expected efficiency targets.</li></ul><p><strong>Requirements&#65306;</strong></p><ul><li>Minimum Technical Secondary school</li><li>Knowledge of production processes (customer requirements, material flow, machines-equipment, technologies, lean production, preventive maintenance)</li><li><strong>Solid&#160;expeirences about SMT and&#160;THT process development</strong></li><li>Good English Skill</li><li>Knowladge of quality tools and methods used in manufacturing processes:(FMEA, MSA, SPC, etc.),</li><li>Analytical and&#160;technical thinking&#160;</li><li>Natural problem solving skills</li><li>Ability to communicate effectively,</li><li>Ability to persuade and argue, negotiate</li><li>Ability to make decisions and subsequently implement them</li><li><strong>Willingness to learn</strong></li><li><strong>To do attitude</strong></li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>Enics is an Electronics Manufacturing Services (EMS) provider that specializes in industrial electronics. Enics provides development, support, prototyping, industrialization, manufacturing, product care, spare part production, and repair and maintenance services for the entire life-cycle of its customers&#8217; products.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor Bahru. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/process-engineer-4591798?jobId=jobstreet-my-job-4591798&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
