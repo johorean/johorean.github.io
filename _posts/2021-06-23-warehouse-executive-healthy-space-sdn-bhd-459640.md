@@ -1,0 +1,20 @@
+---
+title: "Healthy Space Sdn Bhd Vacancies Warehouse Executive" 
+category: Jobs 
+date: 2021-06-23 
+excerpt: "Healthy Space Sdn Bhd is currently looking for suitable person to fill in the Warehouse Executive which based in Johor Bahru" 
+tags: [Johor Bahru] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Healthy Space Sdn Bhd is looking for new potential candidates to fill in for <b>Warehouse Executive</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Job Responsibilities:</strong></p><p><span>1.&#160;&#160;&#160;&#160;Manage the incoming, stock picking, outgoing, returning, rejection, and storage of all product</span></p><p><span>2.&#160;&#160;&#160;Keeping a record and maintaining cycle counts of the entire inventory in the store.</span></p><p><span>3.&#160;&#160;&#160;Plan warehouse layout and space requirement to prevent damage or loss, to achieve warehouse optimization.</span></p><p><span>4.&#160;&#160;&#160;Maintaining cleanliness and order in the workplace and complying with all safety norms while carrying out work functions.</span></p><p><span>5.&#160;&#160;&#160;&#160;To conduct meetings to identify issues and come out with solutions to solve problems.</span></p><p><span>6.&#160;&#160;&#160;Compile and matching delivery note/Invoice with customer&#8217;s daily summary</span></p><p><span>7.&#160;&#160;&#160;Assist warehouse team on issuing driver&#8217;s daily delivery summary</span></p><p><strong>Job Requirements:</strong></p><p><span>1.&#160;&#160;&#160;&#160;Required skill: Ms. Office Excel &amp; Words</span></p><p><span>2.&#160;&#160;&#160;At least 2 years of working experience in a related field</span></p><p><span>3.&#160;&#160;&#160;&#160;Preferably experience in a warehouse environment</span></p><p><span>4.&#160;&#160;&#160;Languages: Mandarin, Bahasa Malaysia, Bahasa English&#160;</span></p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>ZERO is a brand that provides you a zero-illness and zero-stress lifestyle. 'Affordable luxury' has colour: ZERO has made a great and deep impression in consumers' mind. With the precise marketing strategy, excellent brand reputation and professional attitude, we won the ASIA PACIFIC TOP EXCELLENCE BRAND AWARD in 2012, and MALAYSIA HEALTH &amp; WELLNESS BRAND AWARDS in 2018, and GOLDEN BULL AWARD in 2019.</p><p>We are always committed to our operating principle, 'Innovative Technology and Excellent Quality', ever since the establishment of our company. With the advanced production technology, we produce a huge range of innovative and professional modem two categories: smart massage chair and sofa and fitness equipment . With the compact, portable quality, our products have always been the young consumers' first choice.</p><p>Quality has always been the crucial keys to our success. Apart from that, excellence, innovative, creative, quality of conscience and sustainable development are our company culture. In the future, we are going to produce a lot more new products to open up our new market. And the most important thing is we will keep on improving our quality and technology.</p><p>With the focusing, confidence, love, peace of mind we hope that we could bring the zero-illness and zero-stress lifestyle to our consumers.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor Bahru. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/warehouse-executive-4596400?jobId=jobstreet-my-job-4596400&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

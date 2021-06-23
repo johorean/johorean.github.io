@@ -1,0 +1,22 @@
+---
+title: "Evyap Sabun Malaysia Sdn Bhd Vacancies Shipping Executive ( 2 headcounts - Permanent , 6 months contract)" 
+category: Jobs 
+date: 2021-06-23 
+excerpt: "Evyap Sabun Malaysia Sdn Bhd is currently looking for suitable person to fill in the Shipping Executive ( 2 headcounts - Permanent , 6 months contract) which based in Johor Bahru" 
+tags: [Johor Bahru] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Evyap Sabun Malaysia Sdn Bhd is looking for new potential candidates to fill in for <b>Shipping Executive ( 2 headcounts - Permanent , 6 months contract)</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Job Responsibilities</strong></p><ul><li>Ensure all freight booking being place on time with booking party, carrier or liner in term of low cost freight, earliest sailing schedule, fast transit time and good service for all finish products</li><li>Arranging samples product via courier or air freight as requested by Sales (If any)</li><li>Follow up and ensure that every containers being haul on time considering cargo readliness available to load, minimize the unnecessary cost incur e.g trailer detention, demurrage and detention, outside port storage, etc.</li><li>Co-ordinate with internal stakeholders e.g sales and customer service, procurement, Logistics, warehouse, operation, account and finance for related shipments and documentation as well as resolve problems.</li><li>Co-ordinate with external parties e.g forwarding agent, shipping line/agents for related shipment arrangement.</li><li>Ensure in-house application system is up to date timely and accurately for superior and management report generation, monitoring, review and tracking.</li><li>Ensure the export shipping file is properly kept for ease traceability.</li><li>Update billing invoices under freight cost in SAP for payment processes on achieving excellence in total supply chain management.</li><li>Work together with superior and management for continuous improvement processes on achieving excellence in total supply chain management.</li><li>Maintain good attendance, health workstyle and promote team work within section, department and whole organization.</li><li>Skillful in negotiation of rates/last minute haulage arrangement/last minute space commitment form Liners/ Carriers/ liaison with Custom Officer.</li></ul><p><strong>Requirements</strong></p><ul><li>Candidate must possess at least Bachelor&#8217;s Degree/Post Graduate&#160;in any field but preferably in Supply Chain / Logistics</li><li>Minimum 3 years working experience in the related field is required for this position</li><li><strong>SAP is a must have</strong></li><li>Good communication skill, result oriented and works with minimum supervision</li><li><strong>We do have 2 positions for this role on is a permanent role another one would contract (6 months for maternity replacement)</strong></li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>Evyap started its operation on 1927 and we are the market leader in Turkey with beauty soaps, skin care products, pre and after shave products. With four plants in Turkey, Egypt and Malaysia, Evyap is expanding to SEA region.&#160;</div>
+<div>Evyap is present in the international soap market with Duru, Fax and Arko brands. They sell as one of top two brands in Russia, Ukraine, Belarus, Romania, Poland, Azerbaijan, Kazakhstan, Kyrgyzstan, Tajikistan, Albania, Moldova and many other markets.</div>
+<div>We are one of the largest fully intregrated Oleochemical and personal care manufacturer. Create Your Success Story with EVYAP!!!</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor Bahru. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/shipping-executive-2-headcounts-permanent-6-months-contract-4596616?jobId=jobstreet-my-job-4596616&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
