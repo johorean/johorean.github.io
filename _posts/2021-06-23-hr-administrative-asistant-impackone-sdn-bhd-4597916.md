@@ -1,0 +1,20 @@
+---
+title: "IMPACKONE SDN. BHD. Vacancies HR & ADMINISTRATIVE ASSISTANT" 
+category: Jobs 
+date: 2021-06-23 
+excerpt: "IMPACKONE SDN. BHD. is currently looking for suitable person to fill in the HR & ADMINISTRATIVE ASSISTANT which based in Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>IMPACKONE SDN. BHD. is looking for new potential candidates to fill in for <b>HR & ADMINISTRATIVE ASSISTANT</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p>We are looking for an <strong>HR &amp; Administrative Assistant</strong> to perform a variety of personnel-related administrative tasks. You will support the HR department in duties like posting job ads, updating HR database and processing employee&#8217;s requests. Some other duties an <strong>HR &amp; Administrative Assistant</strong> is responsible for include:</p><p><strong>Jobs Responsibilities:</strong></p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Maintain employee records (soft and hard copies)</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Update HR databases (e.g., New Hires, Resignation, Leaves, etc.)</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Assist in payroll preparation by providing relevant data, like Overtime Report, Attendance Report and Leaves Report.</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Process employees&#8217; requests and provide relevant information (eg. Leave Application, claims, etc)</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Assist with day-to-day operation of the HR functions and duties</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Prepare for minutes of meeting and in-house training for Kulai Factory</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Manage and maintain filing system from time to time</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Assist on any ad-hoc tasks required by others department</p><p><strong>Job Requirements:</strong></p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Experience as an HR &amp; Administrative Assistant or relevant human resources/admin position</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;SPM/Diploma in any field</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;At least <strong>2-3 Year(s)</strong> of working experience in the related field</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Familiar with <strong>Finger Tec Ingress (Time Attendance)</strong> Software will be an added advantage</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Required Skill(s): Microsoft office system</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Preferably Junior Executive specialized in Clerical/Administrative Support, HR/admin or equivalent.</p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p><strong>ImpackOne Sdn Bhd</strong> is part of PT Impack Pratama Group. One of the top specialty building material FRP &amp; Transparent roofing sheet, sealants, aluminum composite panels, anti corrosive &amp; heat insulation roofing and polymer sheets manufacturer in Asia Pacific&#160;with factories in Kulai- Johor,Vietnam, New Zealand, Australia and Indonesia.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/hr-administrative-assistant-4597916?jobId=jobstreet-my-job-4597916&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
