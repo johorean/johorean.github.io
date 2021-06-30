@@ -1,0 +1,20 @@
+---
+title: "Vitally Sdn Bhd Vacancies Production Executive (生产执行专员)" 
+category: Jobs 
+date: 2021-06-30 
+excerpt: "Vitally Sdn Bhd is currently looking for suitable person to fill in the Production Executive (生产执行专员) which based in Muar" 
+tags: [Muar] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Vitally Sdn Bhd is looking for new potential candidates to fill in for <b>Production Executive (生产执行专员)</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160; &#160;Coordinate production workflow for one or multiple products.</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Plan and prioritise operations to ensure maximum performance and minimum delay.</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Determine manpower, equipment and raw materials needed to cover production demand.</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Assign workers and other staff to particular production operations.</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Schedule shift according to production needs.</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Monitor jobs to ensure they will finish on time and within budget.</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Address issues when they arise aiming for minimum disruption.</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Obtain output information (number of finished products, percentage of defectives etc.)</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Prepare and submit status and performance reports.</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Keep paperwork organised.</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Collaborate with quality control, warehouse and other staff.</p><p><strong>Job Requirements:</strong></p><ul><li>Candidate must possess at least Diploma, Advanced/Higher/Graduate Diploma, Bachelor's Degree, Post Graduate Diploma, Professional Degree in any field.</li><li>Required language(s):&#160;<strong>Bahasa Malaysia, Mandarin, English</strong></li><li>Minimum 2 years&#8217; experience in similar field.</li><li>Applicants must be willing to work in<strong>&#160;Muar Johor.</strong></li><li>Proficient in Microsoft Office applications.&#160;</li><li>Conversant in both spoken and written of Mandarin, Bahasa Malaysia and English.</li><li>Excellent analytical, problem solving and organisational skills.</li><li>Ability to work independently and handle multiple tasks.</li><li>Details oriented with good interpersonal and communication skills.</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>Vitally is a leading manufacturer and supplier of Aluminium Home Products, artistic Eco Art Panel, and Aluminium Composite Panel in Malaysia and is headquatered in Muar, Johor. As a result of our commitment to the business over the years, we have successfully established ourself as a trusted partner with property developers, interior designers and key players in the industry.</p><p>Currently, Vitally has over 200 employees well spread at our headquarter and manufacturing plant in Muar, Johor as well as several sales offices in various states of Malaysia. As part of our commitment for continuous improvement and our business expansion plan, we are currently seeking energetic and dynamic candidates to join our team.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Muar. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/production-executive-生产执行专员-4603101?jobId=jobstreet-my-job-4603101&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

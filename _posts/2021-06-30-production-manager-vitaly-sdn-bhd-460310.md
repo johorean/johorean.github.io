@@ -1,0 +1,20 @@
+---
+title: "Vitally Sdn Bhd Vacancies Production Manager" 
+category: Jobs 
+date: 2021-06-30 
+excerpt: "Vitally Sdn Bhd is currently looking for suitable person to fill in the Production Manager which based in Muar" 
+tags: [Muar] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Vitally Sdn Bhd is looking for new potential candidates to fill in for <b>Production Manager</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><ul><li>To be responsible for the daily management and coordination of plant operations including production, production planning, operations, Q&amp;A, purchasing, logistics, inventory, safety, maintenance and other production-related activities.</li><li>To be responsible for the development of policies and procedures designed to increase productivity, assure quality, and mitigate production problems.</li><li>To plans, schedule, and review workload and manpower to make sure targets are being met on a cost-effective basis</li><li>To be responsible for equipment and machinery maintenance and efficiency as well as planning for preventive maintenance in order to minimise production downtime.&#160;</li><li>To optimise all available resources such as manpower, material, and equipment to ensure production volume, costs, scrap, and inventory meet the production plan.</li><li>To ensure production effectiveness and efficiency through studying of process cycle time, implementation of standard operating procedures, process improvement plans, work methods, performance and measurement systems etc.</li><li>To direct, control and motivate subordinates as well as provide training or take necessary discipline action in order to ensure high work performance.</li><li>To support in new products introductions, test run and management of jigs and fixtures.</li><li>To maintain high level of safety and housekeeping standard in accordance with the prevailing company and government regulations.</li><li>To perform any other related duties as and when required.</li></ul><p>&#160;<strong>Requirements:</strong>&#160;</p><ul><li>Degree in Manufacturing Management, Mechanical / Mechatronic Engineering, Industrial Engineering or equivalent.</li><li>At least 5 years of working experience in similar capacity with solid hands-on supervisory experiences in handling big group of subordinates, including foreign workers.</li><li>Computer literate, able to operate Microsoft Office.</li><li>Strong analytical and problem solving skills and familiar with statistical tools.&#160;</li><li>Self-motivated, with ability to work independently and in teams.</li><li><strong>Fluent in Mandarin, English and Bahasa Malaysia&#160;</strong>with good interpersonal skills.</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>Vitally is a leading manufacturer and supplier of Aluminium Home Products, artistic Eco Art Panel, and Aluminium Composite Panel in Malaysia and is headquatered in Muar, Johor. As a result of our commitment to the business over the years, we have successfully established ourself as a trusted partner with property developers, interior designers and key players in the industry.</p><p>Currently, Vitally has over 200 employees well spread at our headquarter and manufacturing plant in Muar, Johor as well as several sales offices in various states of Malaysia. As part of our commitment for continuous improvement and our business expansion plan, we are currently seeking energetic and dynamic candidates to join our team.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Muar. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/production-manager-4603110?jobId=jobstreet-my-job-4603110&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
