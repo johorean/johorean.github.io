@@ -1,0 +1,20 @@
+---
+title: "Tian Li Property Construction Sdn Bhd Vacancies Visa Officer" 
+category: Jobs 
+date: 2021-06-30 
+excerpt: "Tian Li Property Construction Sdn Bhd is currently looking for suitable person to fill in the Visa Officer which based in Johor Bahru" 
+tags: [Johor Bahru] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Tian Li Property Construction Sdn Bhd is looking for new potential candidates to fill in for <b>Visa Officer</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p>As a Visa Officer you are responsible for processing and carrying out all transactions related to visa&#8217;s, liaising with various Government Departments and your role will include key responsibilities such as:</p><p>&#8226;Process all types of visas including employment visas, residence visas for employees as well as entertainers, guests and as per requests from other Rotana Properties</p><p>&#8226;Assist the Government Relations Officer for immigration related tasks</p><p>&#8226;Submit relevant documents periodically to the immigration / labour office with regards to cancelled / absconding employees and delete from the hotel&#8217;s sponsorship list</p><p>&#8226;Liaise and work closely with the Human Resources Clerk to ensure that forms and formats for all transactions are correct and complete prior to submission</p><p>&#8226;Prepare on a monthly basis reports on visa reconciliation</p><p>&#8226;Carry out other relevant tasks and duties as assigned</p><p>&#8226;Maintain and cultivate goodwill and good relationship with Government Departments</p><p>&#8226;Be up to date in regards to any changes or amendments to the prevailing laws / rules / regulations, changes in forms / formats and other procedures and keep the Human Resources Department advised of such changes</p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>&#160;&#160;Guangzhou Tianli Construction Co. Ltd. engages in the construction of residential and commercial buildings. This company is based in China. As of June 5, 2007, Guangzhou Tianli Construction Co. Ltd. operates as a subsidiary of Guangzhou R&amp;F Properties Co., Ltd.</p><p>&#160;Tianli Property Construction Sdn.Bhd was established in June 2015, mainly engaged in construction. The company has a team of highly qualified professionals, strong technical force which are the overall strength of this company.&#160;Tianli Property Construction Sdn.Bhd is currently working together with R &amp; F Development Sdn.Bhd on the rising of Princess Cove Project as Main contractor, the total construction area of about 470,000 square meters, including a high-end residential, five-star hotel, Grade A office space, the international fashion business street, sky garden-style clubhouse.</p><p>&#160;&#160;We constructing R&amp;F Princess Cove in JB, Malaysia which encapsulates the HOPSCA Marina Living Concept &#8211;&#160;a first in South East Asia. It aims to provide an epitome of modern living, combining first-class residential properties, high-end business platform and premium recreational environment.</p><p>As South East Asia&#8217;s first HOPSCA (Hotels, Offices, Parks, Shopping Malls, Clubhouses and Apartments), you can live, work, play and shop in this city within a city.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor Bahru. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/visa-officer-4602114?jobId=jobstreet-my-job-4602114&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

@@ -1,0 +1,23 @@
+---
+title: "Coolblog Dessert Sdn Bhd Vacancies Fit Out Executive" 
+category: Jobs 
+date: 2021-06-30 
+excerpt: "Coolblog Dessert Sdn Bhd is currently looking for suitable person to fill in the Fit Out Executive which based in Johor Bahru" 
+tags: [Johor Bahru] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Coolblog Dessert Sdn Bhd is looking for new potential candidates to fill in for <b>Fit Out Executive</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>JOB DESCRIPTIONS</strong></p><ol><li><span>Coordinate of new store opening, Refit &amp; relocation project for both corporate and franchise stores.</span></li><li><span>Quotations gathering and comparison; manage and monitor projects to meet quality, deadline and costs within budget.</span></li><li><span>Report to management on any issue on proposed location (water supply, electrical supply, condition of the location that lead to additional cost).</span></li><li><span>To liaise with mall management/ Design &amp; BD Departments for design kick-off meeting, site visit, design approvals &amp; to ensure drawing submissions &amp; approvals are received in a timely manner.</span></li><li><span>To do on renovation finishes, details &amp; store fit-out works prior to and after site renovation.</span></li><li><span>Submit the details of lot to designer for layout plan.</span></li><li><span>Prepare the proposal of contractor appointment paper to get directors approve.</span></li><li><span>To prepare summary of costing sheet for issuing SO to franchise; coordinate the renovation works with contractors and mall management/landlord to arrange for works as per point.</span></li><li><span>Site visits to monitor and verify that all works are done accordance with approved submission and compliance with mall regulations /Arrange PIC (BFP or Area Supervisor to check the condition kiosk after contractor do the installation).</span></li><li><span>Help operation team to source contractor for maintenance work.</span></li></ol><p><strong>REQUIREMENT</strong></p><ol><li><strong>At least 3 Years of Working Experience </strong>in the related field is required for this position.</li><li>Experience in all categories / type of tenant's fit-out works process and requirements to ensure the above responsibilities can be carried out diligently.</li><li><strong>Candidate must possess at least a Bachelor's Degree in Architecture </strong>and/or building design or other related disciplines.</li><li><strong>Required Language(s): English &amp; Bahasa Malaysia</strong></li><li>Possess own transport, wiling and able to travel</li><li>Possess negotiation skills, multi-task by managing several design &amp; Fit-Out projects simultaneously.</li><li>Required Skills: Microsoft Word, Microsoft Excel, Microsoft PowerPoint</li></ol></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div><strong>Coolblog one of the Leading Food &amp; Beverage Food kiosk in Malaysia.</strong></div>
+<div>Led by a passionate and customer-focused management team, the organisation is more than equipped with the critical management skills, business acumen and proven track record to successful set up, operate and manage a full-fledged beverages and desserts take-away kiosk business.</div>
+<div><strong>First launched in Singapore in 2005, Coolblog is an international brand that specializes in desserts and beverages in take-away kiosk concept. COOLBLOG aims to marry the natural fruit's taste with the ice blended. We are the first to break new ground in Singapore and Malaysia food scene by introducing dessert and beverages with 25 flavours and 300 products range.</strong></div>
+<div>We are looking for candidates with the right abilities &amp; attitude to rise through the business into an international senior management roles.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor Bahru. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/fit-out-executive-4602061?jobId=jobstreet-my-job-4602061&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

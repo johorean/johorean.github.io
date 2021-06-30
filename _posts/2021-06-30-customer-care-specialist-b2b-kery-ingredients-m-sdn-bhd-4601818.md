@@ -1,0 +1,27 @@
+---
+title: "Kerry Ingredients (M) Sdn Bhd Vacancies Customer Care Specialist (B2B)" 
+category: Jobs 
+date: 2021-06-30 
+excerpt: "Kerry Ingredients (M) Sdn Bhd is currently looking for suitable person to fill in the Customer Care Specialist (B2B) which based in Johor Bahru" 
+tags: [Johor Bahru] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Kerry Ingredients (M) Sdn Bhd is looking for new potential candidates to fill in for <b>Customer Care Specialist (B2B)</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>About the Role</strong></p><p>The Customer Care Specialist will be the main point of contact with our customers to provide end to end service (from order placement to invoice). He/she will be working closely with multiple functions (such as Finance, Supply Chain, Regulatory, etc) to provide a high level of service to our valuable customers.</p><p>The successful candidate will be able to handle and manage customer requests/enquiries in a timely and professional manner, able to communicate effectively, and take a proactive approach to manage different priorities.</p><p><strong>Key Responsibilities</strong></p><ul><li>Conduct effective communication and direct dealing with customers via email and/or phone calls.</li><li>Ensure customer requests and enquiries are attended promptly</li><li>Obtain and evaluate all relevant information to handle product inquiries</li><li>Liaise and co-ordinate with internal department such as supply chain, finance, regulatory, RDA and quality department in completing the order to invoice process to meet customer expectations for on-time delivery in full</li><li>Attend to customer complaints and follow-up corrective actions in order to feedback to customer in a timely manner</li><li>Partner with Sales/Commercial and cross-functional partners to deliver the strategic roadmap for the assigned customer accounts</li><li>Identify up sell opportunities and provide details to Sales/Commercial Managers</li><li>Engage in customer visit and attend meeting as and when required</li><li>Prepare service level reports to relevant stakeholders</li><li>Handle and maintain CRM system request log in (Salesforce)</li><li>Involve in new product commercialization</li><li>Co-ordinate business transfer project</li><li>Assist in any ad-hoc reporting if necessary</li></ul><p><strong>Required Competencies</strong></p><ul><li><strong>A minimum of 2-3 years Business to Business (B2B) Customer Care experience and/or Supply Chain experience in the FMCG/ Manufacturing Sector, or any relevant field</strong></li><li>Excellent communication skills - verbal and written</li><li>Prior knowledge in understanding export/shipping documents will be an advantage</li><li>Demonstrate strong customer, organizational and time management skills</li><li>High energy levels coupled with assertiveness and initiative to work with multiple stakeholders</li><li>A problem solver and a multi-tasker who can work autonomously as well as in a team in a fast-paced environment</li><li>A working knowledge of an in-house proficiency in Microsoft Office or a similar package is essential</li><li>SAP experience is highly regarded</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+	Kerry offers the industry&#8217;s largest portfolio of Taste &amp; Nutrition Systems and Functional Ingredients &amp; Actives, serving the Global Food, Beverage and Pharmaceutical industries. We work with the world&#8217;s top Retailers and Manufacturing companies to produce some of the best private-label products and tailored Food &amp; Beverage solutions on the market. We also work with the leading Food Service chains helping to deliver appetising, relevant and innovative custom solutions, using our expertise in new product development, production and commercialisation.</div>
+<div>
+	Founded in 1972 in Co. Kerry, Ireland, the Kerry Group has annualised sales in excess of &#8364;6.7 billion and supply over 15,000 food ingredients and flavour products to customers in more than 140 countries worldwide. We have established over 100 manufacturing sites, operate in over 30 countries, and employ 24,000 people worldwide.<br>
+<br>
+	Kerry has been present in Asia-Pacific, Middle East &amp; Africa (APMEA) region since 1997 and has grown its business to become a supplier of choice for our regional and local customers. Kerry employs nearly 4,000 talented people across the region and, being a truly global company, our employees have opportunities to develop their careers in a global environment, with training, career development and international opportunities across the global Kerry footprint.<br>
+<br>
+	Our Values:&#160;Courage | Enterprising Spirit | Inclusiveness | Open-mindedness | Ownership &#160; &#160;</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor Bahru. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/customer-care-specialist-b2b-4601818?jobId=jobstreet-my-job-4601818&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
