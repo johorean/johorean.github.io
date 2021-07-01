@@ -1,0 +1,20 @@
+---
+title: "Fitson Sdn Bhd Vacancies Warehouse Supervisor / Executive" 
+category: Jobs 
+date: 2021-07-01 
+excerpt: "Fitson Sdn Bhd is currently looking for suitable person to fill in the Warehouse Supervisor / Executive which based in Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Fitson Sdn Bhd is looking for new potential candidates to fill in for <b>Warehouse Supervisor / Executive</b> position. If you currently looking for new job opportunities and qualified with the job desc, feel free to apply this job.
+</p><div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>FITSON</strong>&#160;was founded in 1994 and is an Original Equipment Manufacturer (OEM) and Original Design Manufacturer (ODM) specializing in producing Mother &amp; Baby care products with a 100% export to some of the biggest baby product companies.&#160;</p><p><strong>What do you need do in this role:</strong></p><ul><li>Meets warehouse operational standards by contributing warehouse information to strategic plans and reviews; implementing productivity, quality, resolving problems; identifying warehouse system improvements</li><li>Moves inventory by scheduling materials to be moved to and from warehouse; coordinating inventory transfers with related departments</li><li>To plan and manage all store activities and ensure incoming and outgoing goods are delivered on time</li><li>Responsible for keeping records of material usage and updating of customer&#8217;s property records</li><li>Maintains storage area by organizing floor space; adhering to storage design principles; recommending improvements.</li><li>Maintains inventory by conducting monthly physical counts; reconciling variances; inputting data.</li><li>Ensure cleanliness of Store and Storage areas are well maintained at all times by following cleaning schedule set by the Management</li></ul><p><strong>What do you need to have to be successful in this role:</strong></p><ul><li>Candidate must possess at least 3 Year(s) of working experience in the related field.</li><li>Good supervision and leadership skills.</li><li>Able to drive Forklift and will be added advantage if have forklift license.</li><li>Preferably Senior Executive specialized in Purchasing/Inventory/Material &amp; Warehouse Management or equivalent.</li><li>Good command in English, Mandarin &amp; Bahasa.</li></ul><p><strong>What are the benefits waiting for you:</strong></p><ul><li>Attractive remuneration and package will commensurate with experience and qualification</li><li>An attractive compensation packages</li><li>Fair work-life balance -5 working days.</li><li>Opportunities for growth and advancement awaits the successful candidate.</li></ul><p>Are you ready to make that career shift &amp; grow a great portfolio with us? Click the &#8216;<strong>Apply Now</strong>&#8217; button and we will get in touch with you soon.</p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>FITSON was founded in 1994 and is an Original Equipment Manufacturer (OEM) and Original Design Manufacturer (ODM) specializing in producing Mother &amp; Baby care products with a 100% export to some of the biggest baby product companies in Europe, US, China, Japan and Asia. Over the years, we have built a strong track record in manufacturing various high quality baby products. We are expanding our organisation and are seeking talented, committed individuals to join and become part of our Fitson team.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/warehouse-supervisor-executive-4604165?jobId=jobstreet-my-job-4604165&" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
